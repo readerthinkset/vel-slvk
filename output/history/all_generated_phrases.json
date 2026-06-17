@@ -104,7 +104,42 @@
       "transliteration": "Skú-maj od-váž-ne, vy-mýš-ľaj slobod-ne.",
       "category": "Creativity",
       "generated_at": "2026-06-17T16:57:38.025375"
+    },
+    {
+      "english": "One, two, three, let's go.",
+      "slovak": "Jedna, dva, tri, poďme.",
+      "transliteration": "Yedna, dva, tri, podme.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T19:24:46.628769"
+    },
+    {
+      "english": "It's four o'clock, time for a break.",
+      "slovak": "Sú štyri hodiny, čas na prestávku.",
+      "transliteration": "Soo shtiri hodiny, chas na prestavku.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T19:24:46.628780"
+    },
+    {
+      "english": "Five fingers, on my hand.",
+      "slovak": "Päť prstov, na mojej ruke.",
+      "transliteration": "Pyat prstov, na moyey ruke.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T19:24:46.628781"
+    },
+    {
+      "english": "Six is a good number.",
+      "slovak": "Šesť je dobré číslo.",
+      "transliteration": "Shest ye dobre chislo.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T19:24:46.628783"
+    },
+    {
+      "english": "Only seven days, in a week.",
+      "slovak": "Iba sedem dní, v týždni.",
+      "transliteration": "Iba sedem dni, v tyzhdni.",
+      "category": "Numbers",
+      "generated_at": "2026-06-17T19:24:46.628802"
     }
   ],
-  "last_updated": "2026-06-17T16:57:38.025377"
+  "last_updated": "2026-06-17T19:24:46.628804"
 }
