@@ -34,7 +34,42 @@
       "transliteration": "Nevzdavay sa, pokrachuy.",
       "category": "Growth",
       "generated_at": "2026-06-17T12:57:15.379695"
+    },
+    {
+      "english": "Listen well, speak wisely.",
+      "slovak": "Počúvaj dobre, hovor múdro.",
+      "transliteration": "Pochuvay dobre, hovor muudro.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T13:10:21.196226"
+    },
+    {
+      "english": "Be kind, always.",
+      "slovak": "Buď milý, vždy.",
+      "transliteration": "Bud mily, vzdy.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T13:10:21.196236"
+    },
+    {
+      "english": "Learn every day.",
+      "slovak": "Uč sa každý deň.",
+      "transliteration": "Uch sa kazdy den.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T13:10:21.196238"
+    },
+    {
+      "english": "Be patient, it grows.",
+      "slovak": "Buď trpezlivý, rastie to.",
+      "transliteration": "Bud trpezlivy, rastie to.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T13:10:21.196239"
+    },
+    {
+      "english": "Try again, never give up.",
+      "slovak": "Skús to znovu, nevzdávaj sa.",
+      "transliteration": "Skus to znovu, nevzdavaj sa.",
+      "category": "Wisdom",
+      "generated_at": "2026-06-17T13:10:21.196241"
     }
   ],
-  "last_updated": "2026-06-17T12:57:15.379696"
+  "last_updated": "2026-06-17T13:10:21.196242"
 }
