@@ -314,7 +314,42 @@
       "transliteration": "Mo-zhe-me za-chat' zno-vu.",
       "category": "Forgiveness",
       "generated_at": "2026-06-18T19:53:45.596790"
+    },
+    {
+      "english": "Keep going, you're learning well.",
+      "slovak": "Pokračuj, dobre sa učíš.",
+      "transliteration": "Pokrachuy, dobre sa uchish.",
+      "category": "Success",
+      "generated_at": "2026-06-18T22:10:12.913975"
+    },
+    {
+      "english": "One step, at a time.",
+      "slovak": "Jeden krok, po druhom.",
+      "transliteration": "Yedan krok, po druhom.",
+      "category": "Success",
+      "generated_at": "2026-06-18T22:10:12.913984"
+    },
+    {
+      "english": "Your progress, is visible.",
+      "slovak": "Tvoj pokrok, je viditeľný.",
+      "transliteration": "Tvoy pokrok, ye viditelny.",
+      "category": "Success",
+      "generated_at": "2026-06-18T22:10:12.913986"
+    },
+    {
+      "english": "You can do this, believe it.",
+      "slovak": "Zvládneš to, ver v to.",
+      "transliteration": "Zvladnesh to, ver v to.",
+      "category": "Success",
+      "generated_at": "2026-06-18T22:10:12.913987"
+    },
+    {
+      "english": "Every word, counts now.",
+      "slovak": "Každé slovo, sa počíta.",
+      "transliteration": "Kachde slovo, sa pochyta.",
+      "category": "Success",
+      "generated_at": "2026-06-18T22:10:12.913988"
     }
   ],
-  "last_updated": "2026-06-18T19:53:45.596792"
+  "last_updated": "2026-06-18T22:10:12.913990"
 }
