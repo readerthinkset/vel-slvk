@@ -244,7 +244,42 @@
       "transliteration": "Ucim sa, a to je dobre.",
       "category": "Confidence",
       "generated_at": "2026-06-18T14:45:59.784312"
+    },
+    {
+      "english": "Learn Slovak, speak Slovak.",
+      "slovak": "Uč sa po slovensky, hovor po slovensky.",
+      "transliteration": "Uch sa po slovensk'i, hovor po slovensk'i.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T17:24:17.895473"
+    },
+    {
+      "english": "Listen, understand, speak.",
+      "slovak": "Počúvaj, rozumel, hovor.",
+      "transliteration": "Pochúvaj, rozum'el, hovor.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T17:24:17.895482"
+    },
+    {
+      "english": "Practice daily, improve weekly.",
+      "slovak": "Cvič každý deň, zlepšuj sa každý týždeň.",
+      "transliteration": "Chvích kadží d'en, zlepšuj sa kadží t'iždeň.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T17:24:17.895484"
+    },
+    {
+      "english": "Ask questions, find answers.",
+      "slovak": "Pýtaj sa, hľadaj odpovede.",
+      "transliteration": "P'itay sa, hladay odpovede.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T17:24:17.895485"
+    },
+    {
+      "english": "Read books, learn words.",
+      "slovak": "Čítaj knihy, učíš sa slová.",
+      "transliteration": "Ch'itay kn'ihi, uch'iš sa slová.",
+      "category": "Purpose",
+      "generated_at": "2026-06-18T17:24:17.895486"
     }
   ],
-  "last_updated": "2026-06-18T14:45:59.784314"
+  "last_updated": "2026-06-18T17:24:17.895488"
 }
