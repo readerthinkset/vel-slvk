@@ -279,7 +279,42 @@
       "transliteration": "Ch'itay kn'ihi, uch'iš sa slová.",
       "category": "Purpose",
       "generated_at": "2026-06-18T17:24:17.895486"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "slovak": "Prepáč mi, úprimne.",
+      "transliteration": "Pre-pach me, up-ree-m-ny.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T19:53:45.596777"
+    },
+    {
+      "english": "Let's move on, okay?",
+      "slovak": "Poďme ďalej, dobre?",
+      "transliteration": "Pod-me da-ley, dob-re?",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T19:53:45.596786"
+    },
+    {
+      "english": "No hard feelings, friend.",
+      "slovak": "Žiadne krivdy, priateľ.",
+      "transliteration": "Zhee-a-dne kriv-di, pri-a-tyel'.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T19:53:45.596788"
+    },
+    {
+      "english": "I let go now.",
+      "slovak": "Už to púšťam.",
+      "transliteration": "Uzh to push-cham.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T19:53:45.596789"
+    },
+    {
+      "english": "We can start fresh.",
+      "slovak": "Môžeme začať znovu.",
+      "transliteration": "Mo-zhe-me za-chat' zno-vu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-06-18T19:53:45.596790"
     }
   ],
-  "last_updated": "2026-06-18T17:24:17.895488"
+  "last_updated": "2026-06-18T19:53:45.596792"
 }
