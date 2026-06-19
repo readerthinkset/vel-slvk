@@ -349,7 +349,42 @@
       "transliteration": "Kachde slovo, sa pochyta.",
       "category": "Success",
       "generated_at": "2026-06-18T22:10:12.913988"
+    },
+    {
+      "english": "Hello, where is the train station?",
+      "slovak": "Dobrý deň, kde je vlaková stanica?",
+      "transliteration": "Doh-bree dyen, gde yeh vlah-koh-vah stah-nee-tsah?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T04:10:44.795079"
+    },
+    {
+      "english": "Excuse me, can I have the bill?",
+      "slovak": "Prepáčte, môžem dostať účet?",
+      "transliteration": "Preh-pahch-tyeh, moh-zhem dos-tahť oo-chyet?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T04:10:44.795090"
+    },
+    {
+      "english": "How much does this cost?",
+      "slovak": "Koľko to stojí?",
+      "transliteration": "Kol-koh toh stoh-yee?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T04:10:44.795092"
+    },
+    {
+      "english": "I would like a ticket, please.",
+      "slovak": "Chcel by som lístok, prosím.",
+      "transliteration": "Htsel bih som leesh-tok, proh-seem.",
+      "category": "Travel",
+      "generated_at": "2026-06-19T04:10:44.795093"
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "slovak": "Kde nájdem taxík?",
+      "transliteration": "Gdeh nigh-dem tahk-seek?",
+      "category": "Travel",
+      "generated_at": "2026-06-19T04:10:44.795095"
     }
   ],
-  "last_updated": "2026-06-18T22:10:12.913990"
+  "last_updated": "2026-06-19T04:10:44.795096"
 }
