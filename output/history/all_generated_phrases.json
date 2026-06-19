@@ -489,7 +489,42 @@
       "transliteration": "Poch-oo-vay-teh vnoo-tro, svoye teh-lo.",
       "category": "Balance",
       "generated_at": "2026-06-19T18:52:59.285212"
+    },
+    {
+      "english": "You're a great friend, truly.",
+      "slovak": "Si skvelý priateľ, naozaj.",
+      "transliteration": "Si skvelý priateľ, naozaj.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T21:10:49.852309"
+    },
+    {
+      "english": "Thanks for being there, always.",
+      "slovak": "Ďakujem, že si tu, vždy.",
+      "transliteration": "Ďakujem, že si tu, vždy.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T21:10:49.852319"
+    },
+    {
+      "english": "We have good times, don't we?",
+      "slovak": "Máme dobré časy, nie?",
+      "transliteration": "Máme dobré časy, nie?",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T21:10:49.852320"
+    },
+    {
+      "english": "Let's hang out soon, okay?",
+      "slovak": "Poďme sa skoro stretnúť, dobre?",
+      "transliteration": "Poďme sa skoro stretnúť, dobre?",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T21:10:49.852321"
+    },
+    {
+      "english": "You always make me laugh.",
+      "slovak": "Vždy ma rozosmeješ.",
+      "transliteration": "Vždy ma rozosmeješ.",
+      "category": "Friendship",
+      "generated_at": "2026-06-19T21:10:49.852322"
     }
   ],
-  "last_updated": "2026-06-19T18:52:59.285215"
+  "last_updated": "2026-06-19T21:10:49.852324"
 }
