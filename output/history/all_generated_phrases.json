@@ -384,7 +384,42 @@
       "transliteration": "Gdeh nigh-dem tahk-seek?",
       "category": "Travel",
       "generated_at": "2026-06-19T04:10:44.795095"
+    },
+    {
+      "english": "Thank you, truly.",
+      "slovak": "Ďakujem, naozaj.",
+      "transliteration": "Dyah-koo-yem, nah-oh-zay.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T14:41:54.530340"
+    },
+    {
+      "english": "I appreciate this, a lot.",
+      "slovak": "Veľmi si to cením.",
+      "transliteration": "Veyl-mee see toh tseh-neem.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T14:41:54.530347"
+    },
+    {
+      "english": "You are so kind.",
+      "slovak": "Ste veľmi milý/milá.",
+      "transliteration": "Ste veyl-mee mee-lee/mee-lah.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T14:41:54.530349"
+    },
+    {
+      "english": "This means much, to me.",
+      "slovak": "Veľa to pre mňa znamená.",
+      "transliteration": "Vey-lah toh preh mnyah zna-men-ah.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T14:41:54.530350"
+    },
+    {
+      "english": "I'm grateful, for you.",
+      "slovak": "Som ti vďačný/vďačná.",
+      "transliteration": "Som tee vdyahch-nee/vdyahch-nah.",
+      "category": "Gratitude",
+      "generated_at": "2026-06-19T14:41:54.530351"
     }
   ],
-  "last_updated": "2026-06-19T04:10:44.795096"
+  "last_updated": "2026-06-19T14:41:54.530353"
 }
