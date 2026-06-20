@@ -524,7 +524,42 @@
       "transliteration": "Vždy ma rozosmeješ.",
       "category": "Friendship",
       "generated_at": "2026-06-19T21:10:49.852322"
+    },
+    {
+      "english": "Help me, please. I'm lost.",
+      "slovak": "Pomôžte mi, prosím. Stratil/Stratila som sa.",
+      "transliteration": "Pomoh-tye-teh mee, pro-seem. Stra-teel/Stra-tee-la som sah.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T03:33:44.984887"
+    },
+    {
+      "english": "I need a doctor, now.",
+      "slovak": "Potrebujem lekára, hneď.",
+      "transliteration": "Po-treh-boo-yem leh-ka-ryah, hned.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T03:33:44.984896"
+    },
+    {
+      "english": "Call the police, quickly.",
+      "slovak": "Zavolajte políciu, rýchlo.",
+      "transliteration": "Za-vo-la-yeh-teh po-lee-tsee-yoo, ree-sloh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T03:33:44.984898"
+    },
+    {
+      "english": "Is there a hospital nearby?",
+      "slovak": "Je tu blízko nemocnica?",
+      "transliteration": "Yeh too bleez-ko neh-mot-neet-sah?",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T03:33:44.984900"
+    },
+    {
+      "english": "I don't feel well.",
+      "slovak": "Necítim sa dobre.",
+      "transliteration": "Neh-tsee-teem sah dob-reh.",
+      "category": "Emergency",
+      "generated_at": "2026-06-20T03:33:44.984901"
     }
   ],
-  "last_updated": "2026-06-19T21:10:49.852324"
+  "last_updated": "2026-06-20T03:33:44.984904"
 }
