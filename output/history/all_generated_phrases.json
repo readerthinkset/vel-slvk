@@ -594,7 +594,42 @@
       "transliteration": "Ma-te to v mod-ray far-beh?",
       "category": "Shopping",
       "generated_at": "2026-06-20T13:26:26.744605"
+    },
+    {
+      "english": "No problem, really.",
+      "slovak": "Žiadny problém, naozaj.",
+      "transliteration": "Zhiadny problem, naozaj.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T15:47:43.536450"
+    },
+    {
+      "english": "Take your time, please.",
+      "slovak": "Prosím, dajte si čas.",
+      "transliteration": "Prosim, dajte si chas.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T15:47:43.536458"
+    },
+    {
+      "english": "It's all good, don't worry.",
+      "slovak": "Všetko je v poriadku, nebojte sa.",
+      "transliteration": "Vsetko ye v poriadku, nebojte sa.",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T15:47:43.536460"
+    },
+    {
+      "english": "Let's go, shall we?",
+      "slovak": "Poďme, či áno?",
+      "transliteration": "Podme, chi anyo?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T15:47:43.536461"
+    },
+    {
+      "english": "How are things?",
+      "slovak": "Ako sa darí?",
+      "transliteration": "Ako sa dari?",
+      "category": "Common Expressions",
+      "generated_at": "2026-06-20T15:47:43.536462"
     }
   ],
-  "last_updated": "2026-06-20T13:26:26.744607"
+  "last_updated": "2026-06-20T15:47:43.536464"
 }
