@@ -559,7 +559,42 @@
       "transliteration": "Neh-tsee-teem sah dob-reh.",
       "category": "Emergency",
       "generated_at": "2026-06-20T03:33:44.984901"
+    },
+    {
+      "english": "Excuse me, where is the bread?",
+      "slovak": "Prosím vás, kde je chlieb?",
+      "transliteration": "Pro-seem vas, gde ye chlyeb?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T13:26:26.744589"
+    },
+    {
+      "english": "How much is this, please?",
+      "slovak": "Koľko to stojí, prosím?",
+      "transliteration": "Kol-ko to stoy-ee, pro-seem?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T13:26:26.744601"
+    },
+    {
+      "english": "I'm looking for a souvenir.",
+      "slovak": "Hľadám suvenír.",
+      "transliteration": "Hla-dam soo-veh-neer.",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T13:26:26.744602"
+    },
+    {
+      "english": "Can I try this on?",
+      "slovak": "Môžem si to vyskúšať?",
+      "transliteration": "Mo-zhem si to vys-koo-shat?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T13:26:26.744604"
+    },
+    {
+      "english": "Do you have this in blue?",
+      "slovak": "Máte to v modrej farbe?",
+      "transliteration": "Ma-te to v mod-ray far-beh?",
+      "category": "Shopping",
+      "generated_at": "2026-06-20T13:26:26.744605"
     }
   ],
-  "last_updated": "2026-06-20T03:33:44.984904"
+  "last_updated": "2026-06-20T13:26:26.744607"
 }
