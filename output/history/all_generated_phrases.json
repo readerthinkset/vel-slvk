@@ -874,7 +874,42 @@
       "transliteration": "Jemne vedomie, prinasha pokoj.",
       "category": "Mindfulness",
       "generated_at": "2026-06-22T04:05:50.077207"
+    },
+    {
+      "english": "Hello there, nice to meet you.",
+      "slovak": "Ahoj, teší ma.",
+      "transliteration": "Ahoy, teshi ma.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T16:27:42.889455"
+    },
+    {
+      "english": "Good morning, how are you?",
+      "slovak": "Dobré ráno, ako sa máš?",
+      "transliteration": "Dob-reh ra-no, ah-ko sah mash?",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T16:27:42.889464"
+    },
+    {
+      "english": "Good afternoon, hope you're well.",
+      "slovak": "Dobrý deň, dúfam, že sa ti darí.",
+      "transliteration": "Dob-ree dyen, doo-fam, zheh sah tee dah-ree.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T16:27:42.889466"
+    },
+    {
+      "english": "Good evening, have a good night.",
+      "slovak": "Dobrý večer, dobrú noc.",
+      "transliteration": "Dob-ree veh-cher, dob-roo nots.",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T16:27:42.889467"
+    },
+    {
+      "english": "Hi, what's new with you?",
+      "slovak": "Čau, čo máš nové?",
+      "transliteration": "Chow, tso mash no-veh?",
+      "category": "Greetings",
+      "generated_at": "2026-06-22T16:27:42.889468"
     }
   ],
-  "last_updated": "2026-06-22T04:05:50.077210"
+  "last_updated": "2026-06-22T16:27:42.889470"
 }
