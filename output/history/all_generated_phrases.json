@@ -1084,7 +1084,42 @@
       "transliteration": "Tvo-ja ví-zi-a, tvo-je die-lo.",
       "category": "Creativity",
       "generated_at": "2026-06-23T14:26:27.450477"
+    },
+    {
+      "english": "I'll take this one.",
+      "slovak": "Vezmem si toto.",
+      "transliteration": "Vez-mem si to-to.",
+      "category": "Shopping",
+      "generated_at": "2026-06-23T16:28:50.778485"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "slovak": "Kde je najbližší bankomat?",
+      "transliteration": "Gde ye nay-bleezh-shee ban-ko-mat?",
+      "category": "Shopping",
+      "generated_at": "2026-06-23T16:28:50.778495"
+    },
+    {
+      "english": "I need a bag, please.",
+      "slovak": "Potrebujem tašku, prosím.",
+      "transliteration": "Pot-reh-boo-yem tash-koo, pro-seem.",
+      "category": "Shopping",
+      "generated_at": "2026-06-23T16:28:50.778497"
+    },
+    {
+      "english": "What time does it close?",
+      "slovak": "O koľkej to zatvárajú?",
+      "transliteration": "O kol-kay to zat-va-ray-oo?",
+      "category": "Shopping",
+      "generated_at": "2026-06-23T16:28:50.778498"
+    },
+    {
+      "english": "Thank you, have a nice day.",
+      "slovak": "Ďakujem, pekný deň.",
+      "transliteration": "Dya-koo-yem, pek-nee dyen.",
+      "category": "Shopping",
+      "generated_at": "2026-06-23T16:28:50.778499"
     }
   ],
-  "last_updated": "2026-06-23T14:26:27.450478"
+  "last_updated": "2026-06-23T16:28:50.778501"
 }
