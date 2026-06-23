@@ -1154,7 +1154,42 @@
       "transliteration": "Si najlepší, vážne.",
       "category": "Friendship",
       "generated_at": "2026-06-23T19:09:00.929561"
+    },
+    {
+      "english": "Speak slowly, be clear.",
+      "slovak": "Hovor pomaly, buď jasný.",
+      "transliteration": "Hovor pomaly, bud' yasný.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T21:43:14.784994"
+    },
+    {
+      "english": "Try again, don't give up.",
+      "slovak": "Skús to znova, nevzdávaj sa.",
+      "transliteration": "Skús to znova, nevzdávay sa.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T21:43:14.785006"
+    },
+    {
+      "english": "Enjoy the process, love learning.",
+      "slovak": "Uži si to, miluj učenie.",
+      "transliteration": "Uži si to, miluy uch'enie.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T21:43:14.785007"
+    },
+    {
+      "english": "Connect with people, share ideas.",
+      "slovak": "Spoj sa s ľuďmi, zdieľaj nápady.",
+      "transliteration": "Spoj sa s l'ud'mi, zd'ielay nápady.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T21:43:14.785008"
+    },
+    {
+      "english": "Explore culture, taste language.",
+      "slovak": "Objavuj kultúru, ochutnaj jazyk.",
+      "transliteration": "Objavuy kultúru, ochutnay jaz'ik.",
+      "category": "Purpose",
+      "generated_at": "2026-06-23T21:43:14.785010"
     }
   ],
-  "last_updated": "2026-06-23T19:09:00.929563"
+  "last_updated": "2026-06-23T21:43:14.785011"
 }
