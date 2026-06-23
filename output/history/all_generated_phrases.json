@@ -1014,7 +1014,42 @@
       "transliteration": "Tsee-teem sah poh-sheh-hna-nee/poh-sheh-hna-nah.",
       "category": "Gratitude",
       "generated_at": "2026-06-22T22:01:43.916788"
+    },
+    {
+      "english": "Eight, nine, ten, very good.",
+      "slovak": "Osem, deväť, desať, veľmi dobre.",
+      "transliteration": "Osem, devyat, desyat, vel'mi dobre.",
+      "category": "Numbers",
+      "generated_at": "2026-06-23T03:27:34.220551"
+    },
+    {
+      "english": "Eleven and twelve, make twenty-three.",
+      "slovak": "Jedenásť a dvanásť, je dvadsaťtri.",
+      "transliteration": "Yedenasť a dvanasť, ye dvadtsat'tri.",
+      "category": "Numbers",
+      "generated_at": "2026-06-23T03:27:34.220558"
+    },
+    {
+      "english": "Think about thirteen, then fourteen.",
+      "slovak": "Mysli na trinásť, potom štrnásť.",
+      "transliteration": "Mysli na trinast', potom shtyrnasť.",
+      "category": "Numbers",
+      "generated_at": "2026-06-23T03:27:34.220560"
+    },
+    {
+      "english": "Fifteen is half of thirty.",
+      "slovak": "Pätnásť je polovica tridsiatich.",
+      "transliteration": "Pyatnasť ye polovitsa tridsiatich.",
+      "category": "Numbers",
+      "generated_at": "2026-06-23T03:27:34.220561"
+    },
+    {
+      "english": "Twenty, twenty-one, almost there.",
+      "slovak": "Dvadsať, dvadsaťjeden, skoro tam.",
+      "transliteration": "Dvadsať, dvadsaťyeden, skoro tam.",
+      "category": "Numbers",
+      "generated_at": "2026-06-23T03:27:34.220562"
     }
   ],
-  "last_updated": "2026-06-22T22:01:43.916790"
+  "last_updated": "2026-06-23T03:27:34.220564"
 }
