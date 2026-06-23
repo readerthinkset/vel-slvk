@@ -1119,7 +1119,42 @@
       "transliteration": "Dya-koo-yem, pek-nee dyen.",
       "category": "Shopping",
       "generated_at": "2026-06-23T16:28:50.778499"
+    },
+    {
+      "english": "This friendship means a lot.",
+      "slovak": "Toto priateľstvo veľa znamená.",
+      "transliteration": "Toto priateľstvo veľa znamená.",
+      "category": "Friendship",
+      "generated_at": "2026-06-23T19:09:00.929548"
+    },
+    {
+      "english": "Glad we met, my friend.",
+      "slovak": "Som rád, že sme sa stretli, priateľ.",
+      "transliteration": "Som rád, že sme sa stretli, priateľ.",
+      "category": "Friendship",
+      "generated_at": "2026-06-23T19:09:00.929557"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "slovak": "Veľmi si ťa vážim.",
+      "transliteration": "Veľmi si ťa vážim.",
+      "category": "Friendship",
+      "generated_at": "2026-06-23T19:09:00.929559"
+    },
+    {
+      "english": "We understand each other, well.",
+      "slovak": "Rozumieme si, dobre.",
+      "transliteration": "Rozumieme si, dobre.",
+      "category": "Friendship",
+      "generated_at": "2026-06-23T19:09:00.929560"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "slovak": "Si najlepší, vážne.",
+      "transliteration": "Si najlepší, vážne.",
+      "category": "Friendship",
+      "generated_at": "2026-06-23T19:09:00.929561"
     }
   ],
-  "last_updated": "2026-06-23T16:28:50.778501"
+  "last_updated": "2026-06-23T19:09:00.929563"
 }
