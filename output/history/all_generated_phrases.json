@@ -1294,7 +1294,42 @@
       "transliteration": "NEV-da-vay sa, NIK-dy.",
       "category": "Courage",
       "generated_at": "2026-06-24T16:24:37.674753"
+    },
+    {
+      "english": "My dear mother, I love you.",
+      "slovak": "Moja milá mama, ľúbim ťa.",
+      "transliteration": "Moya meela mama, lyubim tyah.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-24T18:49:59.757604"
+    },
+    {
+      "english": "Hello father, how are you?",
+      "slovak": "Ahoj otec, ako sa máš?",
+      "transliteration": "Ahoy otes, ako sah mash?",
+      "category": "Family Terms",
+      "generated_at": "2026-06-24T18:49:59.757613"
+    },
+    {
+      "english": "My brother, come here please.",
+      "slovak": "Brat môj, poď sem prosím.",
+      "transliteration": "Brat moy, pod sem prosym.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-24T18:49:59.757615"
+    },
+    {
+      "english": "Sister, tell me a story.",
+      "slovak": "Sestra, povedz mi príbeh.",
+      "transliteration": "Sestra, povedz mee preebyeh.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-24T18:49:59.757616"
+    },
+    {
+      "english": "Grandfather, you are so wise.",
+      "slovak": "Dedko, si veľmi múdry.",
+      "transliteration": "Dedko, see vellmee moondry.",
+      "category": "Family Terms",
+      "generated_at": "2026-06-24T18:49:59.757617"
     }
   ],
-  "last_updated": "2026-06-24T16:24:37.674755"
+  "last_updated": "2026-06-24T18:49:59.757619"
 }
