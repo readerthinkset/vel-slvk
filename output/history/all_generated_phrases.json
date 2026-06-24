@@ -1189,7 +1189,42 @@
       "transliteration": "Objavuy kultúru, ochutnay jaz'ik.",
       "category": "Purpose",
       "generated_at": "2026-06-23T21:43:14.785010"
+    },
+    {
+      "english": "Speak slowly, speak clearly.",
+      "slovak": "Hovor pomaly, hovor jasne.",
+      "transliteration": "Hovor pomaly, hovor jasne.",
+      "category": "Confidence",
+      "generated_at": "2026-06-24T03:29:16.233088"
+    },
+    {
+      "english": "I'm getting better, every day.",
+      "slovak": "Zlepšujem sa, každý deň.",
+      "transliteration": "Zlepsujem sa, kazhdy den.",
+      "category": "Confidence",
+      "generated_at": "2026-06-24T03:29:16.233098"
+    },
+    {
+      "english": "Don't be afraid, to try.",
+      "slovak": "Neboj sa, skúsiť.",
+      "transliteration": "Neboj sa, skusit.",
+      "category": "Confidence",
+      "generated_at": "2026-06-24T03:29:16.233099"
+    },
+    {
+      "english": "My voice matters, here.",
+      "slovak": "Môj hlas sa ráta, tu.",
+      "transliteration": "Moy hlas sa rata, tu.",
+      "category": "Confidence",
+      "generated_at": "2026-06-24T03:29:16.233101"
+    },
+    {
+      "english": "I am capable, of this.",
+      "slovak": "Som schopný, tohto.",
+      "transliteration": "Som schopny, tohoto.",
+      "category": "Confidence",
+      "generated_at": "2026-06-24T03:29:16.233102"
     }
   ],
-  "last_updated": "2026-06-23T21:43:14.785011"
+  "last_updated": "2026-06-24T03:29:16.233104"
 }
