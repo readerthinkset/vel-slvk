@@ -1224,7 +1224,42 @@
       "transliteration": "Som schopny, tohoto.",
       "category": "Confidence",
       "generated_at": "2026-06-24T03:29:16.233102"
+    },
+    {
+      "english": "Smiling all day.",
+      "slovak": "Smejem sa celý deň.",
+      "transliteration": "Sme-yem sa tze-lee dyen.",
+      "category": "Joy",
+      "generated_at": "2026-06-24T14:05:39.559049"
+    },
+    {
+      "english": "My heart is full.",
+      "slovak": "Moje srdce je plné.",
+      "transliteration": "Mo-ye ser-tse yey plne.",
+      "category": "Joy",
+      "generated_at": "2026-06-24T14:05:39.559059"
+    },
+    {
+      "english": "This makes me happy.",
+      "slovak": "Toto ma teší.",
+      "transliteration": "Toto ma te-shee.",
+      "category": "Joy",
+      "generated_at": "2026-06-24T14:05:39.559061"
+    },
+    {
+      "english": "Such a good feeling.",
+      "slovak": "Taký dobrý pocit.",
+      "transliteration": "Ta-kee dob-ree po-tsit.",
+      "category": "Joy",
+      "generated_at": "2026-06-24T14:05:39.559062"
+    },
+    {
+      "english": "Absolutely thrilled!",
+      "slovak": "Absolútne nadšený!",
+      "transliteration": "Ab-so-loot-nye nad-she-nyy!",
+      "category": "Joy",
+      "generated_at": "2026-06-24T14:05:39.559064"
     }
   ],
-  "last_updated": "2026-06-24T03:29:16.233104"
+  "last_updated": "2026-06-24T14:05:39.559065"
 }
