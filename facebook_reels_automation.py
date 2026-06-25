@@ -78,7 +78,27 @@ CATEGORIES_ENGLISH = [
     "Growth",
     "Purpose",
     "Mindfulness"
-]
+
+    "Daily Routine",
+    "Weather",
+    "Feelings",
+    "Food",
+    "Health",
+    "Work",
+    "Technology",
+    "Nature",
+    "Animals",
+    "Colors",
+    "Directions",
+    "Body Parts",
+    "Clothes",
+    "Music",
+    "Sports",
+    "Holidays",
+    "Education",
+    "Culture",
+    "Finance",
+    "Relationships",]
 
 CATEGORIES_NATIVE = {
     "Greetings": "Pozdravy",
@@ -123,7 +143,7 @@ NATIVE_VOICE = "sk-SK-LukasNeural"
 
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 RECENT_CATEGORIES_FILE = HISTORY_DIR / "recent_categories.json"
-MAX_RECENT_CATEGORIES = 15
+MAX_RECENT_CATEGORIES = 25
 
 
 def load_phrase_history():
@@ -198,6 +218,10 @@ def get_available_category():
 def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
     category_native = CATEGORIES_NATIVE[category_english]
     max_attempts = 3
+
+    history = load_phrase_history()
+    recent_english = [p["english"] for p in history.get("phrases", []) if p.get("category") == category_english][-30:]
+
     for attempt in range(max_attempts):
         try:
             import requests
@@ -207,7 +231,11 @@ def generate_phrases(category_english: str, num_phrases: int = 5) -> list:
                 "Content-Type": "application/json"
             }
 
-            prompt = f"""Create {num_phrases * 2} unique {category_english} phrases for English speakers learning Slovak.
+            avoid_text = ""
+            if recent_english:
+                avoid_text = "\nABSOLUTELY AVOID these already-used phrases:\n" + "\n".join(f"- {p}" for p in recent_english)
+
+            prompt = f"""Create {num_phrases * 6} unique and creative {category_english} phrases for English speakers learning Slovak.{avoid_text}
 
 IMPORTANT RULES FOR NATURAL SPEECH:
 1. Keep phrases SHORT (5-12 words max per language)
@@ -218,6 +246,7 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 6. Slovak text should be CLEAN - use standard Slovak script
 7. Do NOT include multiple versions or slashes - just ONE clean Slovak translation
 8. Transliteration should be in Roman script for pronunciation
+9. BE CREATIVE AND VARIED - do NOT repeat themes from the avoid list
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
@@ -233,10 +262,10 @@ IMPORTANT: Slovak text must be clean - no slashes, no multiple versions."""
             payload = {
                 "model": AI_MODEL,
                 "messages": [
-                    {"role": "system", "content": "You are a Slovak teacher. Create short, natural phrases with pauses."},
+                    {"role": "system", "content": "You are a Slovak teacher. Create short, natural phrases with pauses. Each generation must produce completely different, creative phrases."},
                     {"role": "user", "content": prompt}
                 ],
-                "temperature": 0.9
+                "temperature": min(0.95 + attempt * 0.03, 1.0)
             }
 
             response = requests.post(url, headers=headers, json=payload, timeout=60)
@@ -277,6 +306,11 @@ IMPORTANT: Slovak text must be clean - no slashes, no multiple versions."""
                 add_phrases_to_history(unique_phrases[:num_phrases], category_english)
                 return unique_phrases[:num_phrases]
 
+            print(f"[content] Attempt {attempt + 1}: API returned {len(phrases)} phrases, only {len(unique_phrases)} are new (need {num_phrases})")
+            for p in unique_phrases:
+                if p["english"] not in recent_english:
+                    recent_english.append(p["english"])
+
         except Exception as e:
             print(f"[content] Attempt {attempt + 1} failed: {e}")
 
@@ -288,22 +322,58 @@ IMPORTANT: Slovak text must be clean - no slashes, no multiple versions."""
 def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
     """Return simple English fallback phrases when AI generation fails"""
     generic_fallbacks = [
-        {"english": "Hello, nice to meet you.", "slovak": "[SK] Hello", "transliteration": "hello"},
-        {"english": "Thank you very much.", "slovak": "[SK] Thank you", "transliteration": "thank you"},
-        {"english": "Good morning, have a great day.", "slovak": "[SK] Good morning", "transliteration": "good morning"},
-        {"english": "I love learning new languages.", "slovak": "[SK] Love learning", "transliteration": "love learning"},
-        {"english": "Never give up on your dreams.", "slovak": "[SK] Never give up", "transliteration": "never give up"},
-        {"english": "Every day is a fresh start.", "slovak": "[SK] Fresh start", "transliteration": "fresh start"},
-        {"english": "Believe in yourself always.", "slovak": "[SK] Believe", "transliteration": "believe"},
-        {"english": "Small steps lead to big changes.", "slovak": "[SK] Small steps", "transliteration": "small steps"},
-        {"english": "You are stronger than you think.", "slovak": "[SK] Stronger", "transliteration": "stronger"},
-        {"english": "Happiness is a choice, choose it.", "slovak": "[SK] Happiness", "transliteration": "happiness"},
+        {"english": "Hello, nice to meet you.", "slovak": "Ahoj, te\u0161\u00ed ma.", "transliteration": "Ahoy, teshi ma."},
+        {"english": "Thank you very much.", "slovak": "\u010eakujem ve\u013emi pekne.", "transliteration": "Dyakuyem velye pekne."},
+        {"english": "Good morning, have a great day.", "slovak": "Dobr\u00e9 r\u00e1no, prajem pekn\u00fd de\u0148.", "transliteration": "Dobr\u00e9 r\u00e1no, prajem pekn\u00fd de\u0148."},
+        {"english": "I love learning new languages.", "slovak": "Milujem u\u010denie sa nov\u00fdch jazykov.", "transliteration": "Milujem u\u010denie sa nov\u00fdch jazykov."},
+        {"english": "Never give up on your dreams.", "slovak": "Nikdy sa nevzd\u00e1vaj svojich snov.", "transliteration": "Nikdy sa nevzd\u00e1vaj svojich snov."},
+        {"english": "Every day is a fresh start.", "slovak": "Ka\u017ed\u00fd de\u0148 je nov\u00fd za\u010diatok.", "transliteration": "Ka\u017ed\u00fd de\u0148 je nov\u00fd za\u010diatok."},
+        {"english": "Believe in yourself always.", "slovak": "V\u017edy ver v seba.", "transliteration": "V\u017edy ver v seba."},
+        {"english": "Small steps lead to big changes.", "slovak": "Mal\u00e9 kroky ved\u00fa k ve\u013ek\u00fdm zmen\u00e1m.", "transliteration": "Mal\u00e9 kroky ved\u00fa k ve\u013ek\u00fdm zmen\u00e1m."},
+        {"english": "You are stronger than you think.", "slovak": "Si silnej\u0161\u00ed, ako si mysl\u00ed\u0161.", "transliteration": "Si silnej\u0161\u00ed, ako si mysl\u00ed\u0161."},
+        {"english": "Happiness is a choice, choose it.", "slovak": "\u0160\u0165astie je vo\u013eba, vyber si ho.", "transliteration": "\u0160\u0165astie je vo\u013eba, vyber si ho."},
+        {"english": "What time is it please.", "slovak": "Ko\u013eko je hod\u00edn, pros\u00edm?", "transliteration": "Ko\u013eko je hod\u00edn, pros\u00edm?"},
+        {"english": "Where is the train station.", "slovak": "Kde je vlakov\u00e1 stanica?", "transliteration": "Kde je vlakov\u00e1 stanica?"},
+        {"english": "How much does this cost.", "slovak": "Ko\u013eko to stoj\u00ed?", "transliteration": "Ko\u013eko to stoj\u00ed?"},
+        {"english": "Can you help me please.", "slovak": "M\u00f4\u017eete mi pros\u00edm pom\u00f4c\u0165?", "transliteration": "M\u00f4\u017eete mi pros\u00edm pom\u00f4c\u0165?"},
+        {"english": "I would like a coffee please.", "slovak": "Dal by som si k\u00e1vu, pros\u00edm.", "transliteration": "Dal by som si k\u00e1vu, pros\u00edm."},
+        {"english": "The food is delicious today.", "slovak": "Jedlo je dnes vynikaj\u00face.", "transliteration": "Jedlo je dnes vynikaj\u00face."},
+        {"english": "Have a wonderful weekend.", "slovak": "Majte n\u00e1dhern\u00fd v\u00edkend.", "transliteration": "Majte n\u00e1dhern\u00fd v\u00edkend."},
+        {"english": "Take care of yourself.", "slovak": "Staraj sa o seba.", "transliteration": "Staraj sa o seba."},
+        {"english": "See you tomorrow my friend.", "slovak": "Uvid\u00edme sa zajtra, priate\u013e m\u00f4j.", "transliteration": "Uvid\u00edme sa zajtra, priate\u013e m\u00f4j."},
+        {"english": "The weather is beautiful outside.", "slovak": "Vonku je kr\u00e1sne po\u010dasie.", "transliteration": "Vonku je kr\u00e1sne po\u010dasie."},
+        {"english": "I am very happy today.", "slovak": "Dnes som ve\u013emi \u0161\u0165astn\u00fd/\u0161\u0165astn\u00e1.", "transliteration": "Dnes som ve\u013emi \u0161\u0165astn\u00fd/\u0161\u0165astn\u00e1."},
+        {"english": "Learning a language opens new doors.", "slovak": "U\u010denie sa jazyka otv\u00e1ra nov\u00e9 dvere.", "transliteration": "U\u010denie sa jazyka otv\u00e1ra nov\u00e9 dvere."},
+        {"english": "Keep practicing every single day.", "slovak": "Cvi\u010dte ka\u017ed\u00fd jeden de\u0148.", "transliteration": "Cvi\u010dte ka\u017ed\u00fd jeden de\u0148."},
+        {"english": "You can achieve anything you want.", "slovak": "M\u00f4\u017ee\u0161 dosiahnu\u0165 \u010doko\u013evek chce\u0161.", "transliteration": "M\u00f4\u017ee\u0161 dosiahnu\u0165 \u010doko\u013evek chce\u0161."},
+        {"english": "Rest when you are tired.", "slovak": "Odd\u00fdchni si, ke\u010f si unaven\u00fd/unaven\u00e1.", "transliteration": "Odd\u00fdchni si, ke\u010f si unaven\u00fd/unaven\u00e1."},
+        {"english": "Focus on the positive things.", "slovak": "S\u00fastre\u010fte sa na pozit\u00edvne veci.", "transliteration": "S\u00fastre\u010fte sa na pozit\u00edvne veci."},
+        {"english": "Learn from your mistakes.", "slovak": "Pou\u010d sa zo svojich ch\u00fdb.", "transliteration": "Pou\u010d sa zo svojich ch\u00fdb."},
+        {"english": "Trust the process completely.", "slovak": "D\u00f4verujte procesu \u00faplne.", "transliteration": "D\u00f4verujte procesu \u00faplne."},
+        {"english": "Breathe deeply and stay calm.", "slovak": "D\u00fdchajte zhlboka a zosta\u0148te pokojn\u00ed.", "transliteration": "D\u00fdchajte zhlboka a zosta\u0148te pokojn\u00ed."},
+        {"english": "Enjoy the little moments in life.", "slovak": "U\u017eite si mal\u00e9 okamihy v \u017eivote.", "transliteration": "U\u017eite si mal\u00e9 okamihy v \u017eivote."},
+        {"english": "Smile more, worry less.", "slovak": "Viac sa usmievajte, menej sa starajte.", "transliteration": "Viac sa usmievajte, menej sa starajte."},
+        {"english": "Be kind to everyone you meet.", "slovak": "Bu\u010fte l\u00e1skav\u00ed ku ka\u017ed\u00e9mu, koho stretnete.", "transliteration": "Bu\u010fte l\u00e1skav\u00ed ku ka\u017ed\u00e9mu, koho stretnete."},
+        {"english": "Help others without expecting anything back.", "slovak": "Pom\u00e1hajte ostatn\u00fdm bez o\u010dak\u00e1vania nie\u010doho sp\u00e4\u0165.", "transliteration": "Pom\u00e1hajte ostatn\u00fdm bez o\u010dak\u00e1vania nie\u010doho sp\u00e4\u0165."},
+        {"english": "Forgive yourself and move forward.", "slovak": "Odpus\u0165te si a pohnite sa vpred.", "transliteration": "Odpus\u0165te si a pohnite sa vpred."},
+        {"english": "Stay strong in difficult times.", "slovak": "Zosta\u0148te siln\u00ed v \u0165a\u017ek\u00fdch \u010dasoch.", "transliteration": "Zosta\u0148te siln\u00ed v \u0165a\u017ek\u00fdch \u010dasoch."},
+        {"english": "Every moment is a new beginning.", "slovak": "Ka\u017ed\u00fd okamih je nov\u00fd za\u010diatok.", "transliteration": "Ka\u017ed\u00fd okamih je nov\u00fd za\u010diatok."},
+        {"english": "Listen to your heart always.", "slovak": "V\u017edy po\u010d\u00favajte svoje srdce.", "transliteration": "V\u017edy po\u010d\u00favajte svoje srdce."},
+        {"english": "Do what makes you happy.", "slovak": "Robte to, \u010do v\u00e1s rob\u00ed \u0161\u0165astn\u00fdmi.", "transliteration": "Robte to, \u010do v\u00e1s rob\u00ed \u0161\u0165astn\u00fdmi."},
+        {"english": "Your potential is unlimited.", "slovak": "V\u00e1\u0161 potenci\u00e1l je neobmedzen\u00fd.", "transliteration": "V\u00e1\u0161 potenci\u00e1l je neobmedzen\u00fd."},
+        {"english": "Be brave and take risks.", "slovak": "Bu\u010fte odv\u00e1\u017eni a riskujte.", "transliteration": "Bu\u010fte odv\u00e1\u017eni a riskujte."},
+        {"english": "Celebrate your progress every day.", "slovak": "Oslavujte svoj pokrok ka\u017ed\u00fd de\u0148.", "transliteration": "Oslavujte svoj pokrok ka\u017ed\u00fd de\u0148."},
+        {"english": "Surround yourself with good people.", "slovak": "Obklopte sa dobr\u00fdmi \u013eu\u010fmi.", "transliteration": "Obklopte sa dobr\u00fdmi \u013eu\u010fmi."},
+        {"english": "Read books and grow your mind.", "slovak": "\u010c\u00edtajte knihy a rozv\u00edjajte svoju myse\u013e.", "transliteration": "\u010c\u00edtajte knihy a rozv\u00edjajte svoju myse\u013e."},
+        {"english": "Travel and discover new places.", "slovak": "Cestujte a objavujte nov\u00e9 miesta.", "transliteration": "Cestujte a objavujte nov\u00e9 miesta."},
+        {"english": "Appreciate what you already have.", "slovak": "Oce\u0148te to, \u010do u\u017e m\u00e1te.", "transliteration": "Oce\u0148te to, \u010do u\u017e m\u00e1te."},
+        {"english": "Dance like nobody is watching.", "slovak": "Tancujte, akoby sa nikto nepozeral.", "transliteration": "Tancujte, akoby sa nikto nepozeral."},
+        {"english": "Sing from your heart out loud.", "slovak": "Spievajte z cel\u00e9ho srdca nahlas.", "transliteration": "Spievajte z cel\u00e9ho srdca nahlas."},
+        {"english": "Plant seeds of kindness everywhere.", "slovak": "Zasiajte semienka l\u00e1skavosti v\u0161ade.", "transliteration": "Zasiajte semienka l\u00e1skavosti v\u0161ade."},
+        {"english": "Let go of what you cannot control.", "slovak": "Pustite to, \u010do nem\u00f4\u017eete ovl\u00e1da\u0165.", "transliteration": "Pustite to, \u010do nem\u00f4\u017eete ovl\u00e1da\u0165."},
+        {"english": "Be present in the here and now.", "slovak": "Bu\u010fte pr\u00edtomn\u00ed v tu a teraz.", "transliteration": "Bu\u010fte pr\u00edtomn\u00ed v tu a teraz."}
     ]
     fresh = [p for p in generic_fallbacks if not is_phrase_used(p["english"])]
-    # Assign the right language key
-    lang_key = "slovak"
-    for p in fresh:
-        p[lang_key] = p.pop("slovak")
     return fresh[:num_phrases]
 async def generate_single_audio(text: str, voice: str, output_path: str):
     try:
