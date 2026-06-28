@@ -1504,7 +1504,42 @@
       "transliteration": "Včera je preč, dnes je tvoj dar.",
       "category": "Time",
       "generated_at": "2026-06-27T21:02:33.236328"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "slovak": "Pomaly, ale isto, vyhrávaš.",
+      "transliteration": "Pomaly, ale isto, vyhrávaš.",
+      "category": "Patience",
+      "generated_at": "2026-06-28T03:40:28.086891"
+    },
+    {
+      "english": "Good things, take time to grow.",
+      "slovak": "Dobré veci, rastú pomaly.",
+      "transliteration": "Dobré veci, rastú pomaly.",
+      "category": "Patience",
+      "generated_at": "2026-06-28T03:40:28.086901"
+    },
+    {
+      "english": "Every step, counts forward.",
+      "slovak": "Každý krok, sa počíta.",
+      "transliteration": "Každý krok, sa počíta.",
+      "category": "Patience",
+      "generated_at": "2026-06-28T03:40:28.086903"
+    },
+    {
+      "english": "Don't rush, the process.",
+      "slovak": "Neponáhľaj, proces.",
+      "transliteration": "Neponáhľaj, proces.",
+      "category": "Patience",
+      "generated_at": "2026-06-28T03:40:28.086904"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "slovak": "Buď trpezlivý, k sebe.",
+      "transliteration": "Buď trpezlivý, k sebe.",
+      "category": "Patience",
+      "generated_at": "2026-06-28T03:40:28.086905"
     }
   ],
-  "last_updated": "2026-06-27T21:02:33.236333"
+  "last_updated": "2026-06-28T03:40:28.086907"
 }
