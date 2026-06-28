@@ -1574,7 +1574,42 @@
       "transliteration": "Od-vah-hah kveet-neh, ked skoo-shash.",
       "category": "Positive Life",
       "generated_at": "2026-06-28T13:15:11.369323"
+    },
+    {
+      "english": "My head, it spins.",
+      "slovak": "Moja hlava, krúti sa.",
+      "transliteration": "Moy-ya hlava, kru-ti sa.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T15:21:34.649505"
+    },
+    {
+      "english": "Her eyes, like stars.",
+      "slovak": "Jej oči, ako hviezdy.",
+      "transliteration": "Yey ochi, ako hviez-dy.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T15:21:34.649516"
+    },
+    {
+      "english": "His nose, it twitches.",
+      "slovak": "Jeho nos, hýbe sa.",
+      "transliteration": "Ye-ho nos, hee-be sa.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T15:21:34.649517"
+    },
+    {
+      "english": "Your mouth, it smiles.",
+      "slovak": "Tvoje ústa, usmievajú sa.",
+      "transliteration": "Tvoy-ye usta, us-mee-vayu sa.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T15:21:34.649518"
+    },
+    {
+      "english": "Our ears, they listen.",
+      "slovak": "Naše uši, počúvajú.",
+      "transliteration": "Nash-e ushi, poch-oo-vayu.",
+      "category": "Body Parts",
+      "generated_at": "2026-06-28T15:21:34.649519"
     }
   ],
-  "last_updated": "2026-06-28T13:15:11.369324"
+  "last_updated": "2026-06-28T15:21:34.649520"
 }
