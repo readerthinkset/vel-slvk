@@ -1609,7 +1609,42 @@
       "transliteration": "Nash-e ushi, poch-oo-vayu.",
       "category": "Body Parts",
       "generated_at": "2026-06-28T15:21:34.649519"
+    },
+    {
+      "english": "Listen closely, then speak.",
+      "slovak": "Počúvaj pozorne, potom hovor.",
+      "transliteration": "Pochuvay pozorne, potom hovor.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:03:33.202966"
+    },
+    {
+      "english": "Try again, slowly.",
+      "slovak": "Skús znovu, pomaly.",
+      "transliteration": "Skus znovu, pomaly.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:03:33.202975"
+    },
+    {
+      "english": "Repeat after me, please.",
+      "slovak": "Opakuj po mne, prosím.",
+      "transliteration": "Opaquay po mne, prosim.",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:03:33.202977"
+    },
+    {
+      "english": "What does this mean?",
+      "slovak": "Čo toto znamená?",
+      "transliteration": "Tso toto znamena?",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:03:33.202979"
+    },
+    {
+      "english": "Can you say that again?",
+      "slovak": "Môžeš to zopakovať?",
+      "transliteration": "Moozhesh to zopakovat?",
+      "category": "Directions",
+      "generated_at": "2026-06-28T18:03:33.202980"
     }
   ],
-  "last_updated": "2026-06-28T15:21:34.649520"
+  "last_updated": "2026-06-28T18:03:33.202981"
 }
