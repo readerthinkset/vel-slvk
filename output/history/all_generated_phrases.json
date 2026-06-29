@@ -1714,7 +1714,42 @@
       "transliteration": "Tancuj so mnou, pod hviezdami.",
       "category": "Music",
       "generated_at": "2026-06-29T03:44:34.453531"
+    },
+    {
+      "english": "This shirt, it fits perfectly.",
+      "slovak": "Toto tričko, sedí skvele.",
+      "transliteration": "Toto trichko, sedi skvele.",
+      "category": "Clothes",
+      "generated_at": "2026-06-29T15:29:24.276164"
+    },
+    {
+      "english": "My new jacket, is very warm.",
+      "slovak": "Moja nová bunda, je veľmi teplá.",
+      "transliteration": "Moya nova bunda, ye vel'mi tepla.",
+      "category": "Clothes",
+      "generated_at": "2026-06-29T15:29:24.276174"
+    },
+    {
+      "english": "I need trousers, for the party.",
+      "slovak": "Potrebujem nohavice, na párty.",
+      "transliteration": "Potrebuyem nohavitse, na parti.",
+      "category": "Clothes",
+      "generated_at": "2026-06-29T15:29:24.276176"
+    },
+    {
+      "english": "She wears a dress, so elegant.",
+      "slovak": "Ona nosí šaty, tak elegantne.",
+      "transliteration": "Ona nosi shati, tak elegantne.",
+      "category": "Clothes",
+      "generated_at": "2026-06-29T15:29:24.276177"
+    },
+    {
+      "english": "His sweater, is quite cozy.",
+      "slovak": "Jeho sveter, je dosť útulný.",
+      "transliteration": "Yeyo sveter, ye dost' utulny.",
+      "category": "Clothes",
+      "generated_at": "2026-06-29T15:29:24.276178"
     }
   ],
-  "last_updated": "2026-06-29T03:44:34.453533"
+  "last_updated": "2026-06-29T15:29:24.276180"
 }
