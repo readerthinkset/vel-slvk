@@ -1784,7 +1784,42 @@
       "transliteration": "Po-chu-vajte poz-or-ne, ho-vor-te lep-she.",
       "category": "Education",
       "generated_at": "2026-06-29T16:54:45.228319"
+    },
+    {
+      "english": "The sky, it's so blue.",
+      "slovak": "Obloha, je taká modrá.",
+      "transliteration": "Oboha, ye taká modrá.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T19:04:05.845216"
+    },
+    {
+      "english": "A gentle breeze, blows by.",
+      "slovak": "Jemný vánok, veje okolo.",
+      "transliteration": "Jemný vánek, veye okolo.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T19:04:05.845225"
+    },
+    {
+      "english": "Raindrops, are falling now.",
+      "slovak": "Kvapky dažďa, padajú teraz.",
+      "transliteration": "Kvapky daždza, padajú teraz.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T19:04:05.845227"
+    },
+    {
+      "english": "The sun, shines so bright.",
+      "slovak": "Slnko, svieti tak jasne.",
+      "transliteration": "Slnko, svieti tak yasne.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T19:04:05.845228"
+    },
+    {
+      "english": "Clouds, are drifting slowly.",
+      "slovak": "Oblaky, sa pomaly vznášajú.",
+      "transliteration": "Oblaky, sa pomaly vznášajú.",
+      "category": "Weather",
+      "generated_at": "2026-06-29T19:04:05.845229"
     }
   ],
-  "last_updated": "2026-06-29T16:54:45.228321"
+  "last_updated": "2026-06-29T19:04:05.845231"
 }
