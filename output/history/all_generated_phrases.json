@@ -1819,7 +1819,42 @@
       "transliteration": "Oblaky, sa pomaly vznášajú.",
       "category": "Weather",
       "generated_at": "2026-06-29T19:04:05.845229"
+    },
+    {
+      "english": "Forest whispers, secrets held.",
+      "slovak": "Les šepká, tajomstvá ukrýva.",
+      "transliteration": "Les shep-kah, ty-a-yom-stva oo-kree-vah.",
+      "category": "Nature",
+      "generated_at": "2026-06-29T21:26:39.517863"
+    },
+    {
+      "english": "Sunbeams dance, on leaves.",
+      "slovak": "Lúče tancujú, na listoch.",
+      "transliteration": "Loo-chay tan-tsoo-yoo, nah lees-tohkh.",
+      "category": "Nature",
+      "generated_at": "2026-06-29T21:26:39.517872"
+    },
+    {
+      "english": "River flows, ever onward.",
+      "slovak": "Rieka tečie, stále dopredu.",
+      "transliteration": "Rye-kah tech-eh, stah-leh dop-reh-doo.",
+      "category": "Nature",
+      "generated_at": "2026-06-29T21:26:39.517873"
+    },
+    {
+      "english": "Mountains rise, touch the sky.",
+      "slovak": "Hory stúpajú, k nebu.",
+      "transliteration": "Hoh-ree stoo-pah-yoo, k neh-boo.",
+      "category": "Nature",
+      "generated_at": "2026-06-29T21:26:39.517875"
+    },
+    {
+      "english": "Wind sighs, through the trees.",
+      "slovak": "Vietor fúka, cez stromčeky.",
+      "transliteration": "Vye-tor foo-kah, ches strom-cheh-kee.",
+      "category": "Nature",
+      "generated_at": "2026-06-29T21:26:39.517876"
     }
   ],
-  "last_updated": "2026-06-29T19:04:05.845231"
+  "last_updated": "2026-06-29T21:26:39.517878"
 }
