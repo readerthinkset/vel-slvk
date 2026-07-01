@@ -2099,7 +2099,42 @@
       "transliteration": "Hwah-dai zah-zrah-kee, oh-koh-loh seh-bah.",
       "category": "Happiness",
       "generated_at": "2026-07-01T14:11:24.239388"
+    },
+    {
+      "english": "My bag, it's gone.",
+      "slovak": "Moja taška, zmizla.",
+      "transliteration": "Moya tashka, zmizla.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T16:29:47.875617"
+    },
+    {
+      "english": "I need, water please.",
+      "slovak": "Potrebujem, vodu prosím.",
+      "transliteration": "Potrebuyem, vodu prosím.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T16:29:47.875623"
+    },
+    {
+      "english": "Where is, the exit?",
+      "slovak": "Kde je, východ?",
+      "transliteration": "Gde ye, východ?",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T16:29:47.875625"
+    },
+    {
+      "english": "My phone, battery dead.",
+      "slovak": "Môj telefón, batéria vybitá.",
+      "transliteration": "Moy telefón, batéria vybitá.",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T16:29:47.875626"
+    },
+    {
+      "english": "Can you help, me with this?",
+      "slovak": "Môžete mi, pomôcť s tým?",
+      "transliteration": "Môžete mi, pomôcť s tým?",
+      "category": "Emergency",
+      "generated_at": "2026-07-01T16:29:47.875628"
     }
   ],
-  "last_updated": "2026-07-01T14:11:24.239390"
+  "last_updated": "2026-07-01T16:29:47.875629"
 }
