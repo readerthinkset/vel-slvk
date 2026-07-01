@@ -2134,7 +2134,42 @@
       "transliteration": "Môžete mi, pomôcť s tým?",
       "category": "Emergency",
       "generated_at": "2026-07-01T16:29:47.875628"
+    },
+    {
+      "english": "Good morning, rise and shine.",
+      "slovak": "Dobré ráno, vstaň a ži.",
+      "transliteration": "Dob-re ra-no, vstaň a ži.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-01T18:59:01.494703"
+    },
+    {
+      "english": "First, coffee, then the day.",
+      "slovak": "Najprv káva, potom deň.",
+      "transliteration": "Nay-prv ka-va, po-tom deň.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-01T18:59:01.494716"
+    },
+    {
+      "english": "Brush your teeth, feel fresh.",
+      "slovak": "Vyčisti si zuby, cíť sa sviežo.",
+      "transliteration": "Vy-čis-ti si zu-by, cíť sa svie-žo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-01T18:59:01.494718"
+    },
+    {
+      "english": "Quick shower, wake up now.",
+      "slovak": "Rýchla sprcha, zobuď sa hneď.",
+      "transliteration": "Rých-la spr-cha, zo-buď sa hneď.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-01T18:59:01.494719"
+    },
+    {
+      "english": "Dress simply, for comfort.",
+      "slovak": "Obleč sa jednoducho, pre pohodlie.",
+      "transliteration": "Ob-leč sa jed-no-du-cho, pre po-ho-dlie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-07-01T18:59:01.494720"
     }
   ],
-  "last_updated": "2026-07-01T16:29:47.875629"
+  "last_updated": "2026-07-01T18:59:01.494722"
 }
