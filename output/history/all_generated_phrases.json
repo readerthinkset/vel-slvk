@@ -2309,7 +2309,42 @@
       "transliteration": "Proste gesto, znamena vela.",
       "category": "Kindness",
       "generated_at": "2026-07-03T02:50:24.917391"
+    },
+    {
+      "english": "Fast internet, good connection.",
+      "slovak": "Rýchly internet, dobré pripojenie.",
+      "transliteration": "Reekh-lee in-ter-net, dob-reh pre-ee-po-ye-nee.",
+      "category": "Technology",
+      "generated_at": "2026-07-03T13:42:37.881183"
+    },
+    {
+      "english": "New app, download now.",
+      "slovak": "Nová aplikácia, stiahni hneď.",
+      "transliteration": "No-vah ap-lee-ka-tsee-ah, stee-ah-nee hned.",
+      "category": "Technology",
+      "generated_at": "2026-07-03T13:42:37.881191"
+    },
+    {
+      "english": "Cloud storage, save everything.",
+      "slovak": "Cloudové úložisko, ulož všetko.",
+      "transliteration": "Klood-o-veh oo-blo-zhee-shko, oo-lozh vset-ko.",
+      "category": "Technology",
+      "generated_at": "2026-07-03T13:42:37.881193"
+    },
+    {
+      "english": "Smart home, control easily.",
+      "slovak": "Inteligentný dom, ovládaj ľahko.",
+      "transliteration": "In-tel-ee-gent-nee dom, o-vla-daay lya-kho.",
+      "category": "Technology",
+      "generated_at": "2026-07-03T13:42:37.881194"
+    },
+    {
+      "english": "Virtual reality, explore worlds.",
+      "slovak": "Virtuálna realita, preskúmaj svety.",
+      "transliteration": "Veer-too-al-nah re-a-lee-tah, pres-koo-maay sve-ty.",
+      "category": "Technology",
+      "generated_at": "2026-07-03T13:42:37.881196"
     }
   ],
-  "last_updated": "2026-07-03T02:50:24.917392"
+  "last_updated": "2026-07-03T13:42:37.881197"
 }
