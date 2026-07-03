@@ -2414,7 +2414,42 @@
       "transliteration": "Stastne oslavy, pred vami.",
       "category": "Holidays",
       "generated_at": "2026-07-03T18:11:28.324356"
+    },
+    {
+      "english": "Breathe deeply, feel alive.",
+      "slovak": "Zhlboka dýchaj, cíť sa živo.",
+      "transliteration": "Zhlboka dychay, cite sa zhivo.",
+      "category": "Health",
+      "generated_at": "2026-07-03T21:05:27.125781"
+    },
+    {
+      "english": "Move your body, gain energy.",
+      "slovak": "Pohybuj telom, získaj energiu.",
+      "transliteration": "Pohybuy telom, ziskay energiu.",
+      "category": "Health",
+      "generated_at": "2026-07-03T21:05:27.125791"
+    },
+    {
+      "english": "Eat well, sleep soundly.",
+      "slovak": "Jedz zdravo, spi pokojne.",
+      "transliteration": "Yedz zdrawo, spi pokoyne.",
+      "category": "Health",
+      "generated_at": "2026-07-03T21:05:27.125792"
+    },
+    {
+      "english": "Hydrate often, stay refreshed.",
+      "slovak": "Pi veľa, zostaň svieži.",
+      "transliteration": "Pi vela, zostaň sviezhi.",
+      "category": "Health",
+      "generated_at": "2026-07-03T21:05:27.125793"
+    },
+    {
+      "english": "Listen to your body, it knows.",
+      "slovak": "Počúvaj telo, ono vie.",
+      "transliteration": "Pochúvay telo, ono vie.",
+      "category": "Health",
+      "generated_at": "2026-07-03T21:05:27.125794"
     }
   ],
-  "last_updated": "2026-07-03T18:11:28.324358"
+  "last_updated": "2026-07-03T21:05:27.125796"
 }
