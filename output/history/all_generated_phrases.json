@@ -2589,7 +2589,42 @@
       "transliteration": "Je on, tvoj brat?",
       "category": "Relationships",
       "generated_at": "2026-07-04T18:01:05.089143"
+    },
+    {
+      "english": "This cheese, looks delicious.",
+      "slovak": "Tento syr, vyzerá výborne.",
+      "transliteration": "Ten-toh seer, vy-zah-rah vee-bor-nyeh.",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:56:54.201923"
+    },
+    {
+      "english": "Do you have, any local honey?",
+      "slovak": "Máte, nejaký domáci med?",
+      "transliteration": "Mah-teh, ne-yah-kee do-mah-tsee med?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:56:54.201933"
+    },
+    {
+      "english": "I need, some fresh fruit.",
+      "slovak": "Potrebujem, nejaké čerstvé ovocie.",
+      "transliteration": "Po-tre-boo-yem, ne-yah-keh cherst-veh ov-o-tsee-yeh.",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:56:54.201935"
+    },
+    {
+      "english": "This wine, is it good?",
+      "slovak": "Toto víno, je dobré?",
+      "transliteration": "To-toh vee-no, yeh do-breh?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:56:54.201936"
+    },
+    {
+      "english": "Where can I find, baked goods?",
+      "slovak": "Kde nájdem, pekárske výrobky?",
+      "transliteration": "Gdeh nai-dem, peh-kar-skeh vee-ro-bkee?",
+      "category": "Shopping",
+      "generated_at": "2026-07-04T20:56:54.201937"
     }
   ],
-  "last_updated": "2026-07-04T18:01:05.089144"
+  "last_updated": "2026-07-04T20:56:54.201939"
 }
