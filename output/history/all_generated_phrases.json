@@ -2449,7 +2449,42 @@
       "transliteration": "Pochúvay telo, ono vie.",
       "category": "Health",
       "generated_at": "2026-07-03T21:05:27.125794"
+    },
+    {
+      "english": "A curious cat, exploring the garden.",
+      "slovak": "Zvedavá mačka, skúma záhradu.",
+      "transliteration": "Zvedava macka, skuma zahradu.",
+      "category": "Animals",
+      "generated_at": "2026-07-04T02:46:19.960510"
+    },
+    {
+      "english": "The dog barks, a happy sound.",
+      "slovak": "Pes šteká, veselý zvuk.",
+      "transliteration": "Pes steeka, vesely zvuk.",
+      "category": "Animals",
+      "generated_at": "2026-07-04T02:46:19.960539"
+    },
+    {
+      "english": "A swift bird, flying high.",
+      "slovak": "Rýchly vták, letí vysoko.",
+      "transliteration": "Rychly vták, leti vysoko.",
+      "category": "Animals",
+      "generated_at": "2026-07-04T02:46:19.960542"
+    },
+    {
+      "english": "The fish swim, in clear water.",
+      "slovak": "Ryby plávajú, v čistej vode.",
+      "transliteration": "Ryby plavaju, v čistej vode.",
+      "category": "Animals",
+      "generated_at": "2026-07-04T02:46:19.960543"
+    },
+    {
+      "english": "A busy bee, collects nectar.",
+      "slovak": "Pilná včela, zbiera nektár.",
+      "transliteration": "Pilna včela, zbiera nektar.",
+      "category": "Animals",
+      "generated_at": "2026-07-04T02:46:19.960545"
     }
   ],
-  "last_updated": "2026-07-03T21:05:27.125796"
+  "last_updated": "2026-07-04T02:46:19.960546"
 }
