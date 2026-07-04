@@ -2484,7 +2484,42 @@
       "transliteration": "Pilna včela, zbiera nektar.",
       "category": "Animals",
       "generated_at": "2026-07-04T02:46:19.960545"
+    },
+    {
+      "english": "Your effort, counts.",
+      "slovak": "Tvoje úsilie, sa počíta.",
+      "transliteration": "Tvo-yeh oo-see-lyeh, sah poh-lee-tza.",
+      "category": "Strength",
+      "generated_at": "2026-07-04T12:59:05.476874"
+    },
+    {
+      "english": "You can, do this.",
+      "slovak": "Zvládneš to, určite.",
+      "transliteration": "Zvlah-nesh toh, oor-chee-teh.",
+      "category": "Strength",
+      "generated_at": "2026-07-04T12:59:05.476881"
+    },
+    {
+      "english": "Inner power, grows.",
+      "slovak": "Vnútorná sila, rastie.",
+      "transliteration": "Vnoo-torn-ah see-lah, rahs-tyeh.",
+      "category": "Strength",
+      "generated_at": "2026-07-04T12:59:05.476883"
+    },
+    {
+      "english": "You are capable, truly.",
+      "slovak": "Si schopný, naozaj.",
+      "transliteration": "See shchop-nee, na-oh-zay.",
+      "category": "Strength",
+      "generated_at": "2026-07-04T12:59:05.476884"
+    },
+    {
+      "english": "Stand tall, with pride.",
+      "slovak": "Stoj vzpriamene, s hrdosťou.",
+      "transliteration": "Stoy vzpree-ah-men-eh, s hrd-oh-sh-tyo.",
+      "category": "Strength",
+      "generated_at": "2026-07-04T12:59:05.476886"
     }
   ],
-  "last_updated": "2026-07-04T02:46:19.960546"
+  "last_updated": "2026-07-04T12:59:05.476887"
 }
