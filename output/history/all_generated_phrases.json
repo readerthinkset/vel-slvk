@@ -2554,7 +2554,42 @@
       "transliteration": "Tvaruj hlinu, s radostu.",
       "category": "Creativity",
       "generated_at": "2026-07-04T15:09:09.626634"
+    },
+    {
+      "english": "We met, by chance.",
+      "slovak": "Stretli sme sa, náhodou.",
+      "transliteration": "Stret-li sme sa, na-ho-dú.",
+      "category": "Relationships",
+      "generated_at": "2026-07-04T18:01:05.089130"
+    },
+    {
+      "english": "She is, my sister.",
+      "slovak": "Ona je, moja sestra.",
+      "transliteration": "O-na je, mo-ja ses-tra.",
+      "category": "Relationships",
+      "generated_at": "2026-07-04T18:01:05.089138"
+    },
+    {
+      "english": "He is, my best friend.",
+      "slovak": "On je, môj najlepší priateľ.",
+      "transliteration": "On je, môj naj-lep-ší pri-ateľ.",
+      "category": "Relationships",
+      "generated_at": "2026-07-04T18:01:05.089140"
+    },
+    {
+      "english": "They are, a couple.",
+      "slovak": "Oni sú, pár.",
+      "transliteration": "O-ni sú, pár.",
+      "category": "Relationships",
+      "generated_at": "2026-07-04T18:01:05.089142"
+    },
+    {
+      "english": "Is he, your brother?",
+      "slovak": "Je on, tvoj brat?",
+      "transliteration": "Je on, tvoj brat?",
+      "category": "Relationships",
+      "generated_at": "2026-07-04T18:01:05.089143"
     }
   ],
-  "last_updated": "2026-07-04T15:09:09.626635"
+  "last_updated": "2026-07-04T18:01:05.089144"
 }
