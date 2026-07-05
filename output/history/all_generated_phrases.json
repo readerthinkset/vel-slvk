@@ -2624,7 +2624,42 @@
       "transliteration": "Gdeh nai-dem, peh-kar-skeh vee-ro-bkee?",
       "category": "Shopping",
       "generated_at": "2026-07-04T20:56:54.201937"
+    },
+    {
+      "english": "Dewdrops gleam, on spiderwebs.",
+      "slovak": "Ranné kvapky, žiaria na pavučinách.",
+      "transliteration": "Rahn-eh kva-pky, zhee-ah-ree-ah nah pa-voo-cheen-akh.",
+      "category": "Nature",
+      "generated_at": "2026-07-05T02:56:51.305428"
+    },
+    {
+      "english": "Stars ignite, in velvet night.",
+      "slovak": "Hviezdy zapália, zamatovú noc.",
+      "transliteration": "Hvyieh-zdy za-pa-lee-ah, za-ma-to-voo nots.",
+      "category": "Nature",
+      "generated_at": "2026-07-05T02:56:51.305437"
+    },
+    {
+      "english": "Moss grows soft, on ancient stone.",
+      "slovak": "Mach rastie jemne, na starobný kameň.",
+      "transliteration": "Makh ras-tyeh yemm-neh, nah sta-ro-bny ka-men.",
+      "category": "Nature",
+      "generated_at": "2026-07-05T02:56:51.305439"
+    },
+    {
+      "english": "Birds sing bright, dawn's gentle light.",
+      "slovak": "Vtáci spievajú jasne, ranné svetlo.",
+      "transliteration": "Fta-tsee spye-va-yoo yas-neh, rah-neh sveht-lo.",
+      "category": "Nature",
+      "generated_at": "2026-07-05T02:56:51.305440"
+    },
+    {
+      "english": "Roots dig deep, secrets they keep.",
+      "slovak": "Korene siahajú hlboko, tajomstvá strážia.",
+      "transliteration": "Ko-re-neh see-ah-ha-yoo hlu-bo-ko, ta-yom-stva strah-zha.",
+      "category": "Nature",
+      "generated_at": "2026-07-05T02:56:51.305442"
     }
   ],
-  "last_updated": "2026-07-04T20:56:54.201939"
+  "last_updated": "2026-07-05T02:56:51.305443"
 }
