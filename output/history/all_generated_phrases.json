@@ -2764,7 +2764,42 @@
       "transliteration": "Rozumies mojim tichým myslienkám.",
       "category": "Friendship",
       "generated_at": "2026-07-05T18:02:28.955005"
+    },
+    {
+      "english": "A little bit excited, yes.",
+      "slovak": "Trochu vzrušený, áno.",
+      "transliteration": "Trochu vzrusheny, ano.",
+      "category": "Feelings",
+      "generated_at": "2026-07-05T20:59:30.556429"
+    },
+    {
+      "english": "Feeling quite happy, today.",
+      "slovak": "Cítim sa dosť šťastný, dnes.",
+      "transliteration": "Citim sa dost stastny, dnes.",
+      "category": "Feelings",
+      "generated_at": "2026-07-05T20:59:30.556439"
+    },
+    {
+      "english": "A touch of sadness, perhaps.",
+      "slovak": "Trochu smútku, možno.",
+      "transliteration": "Trochu smutku, mozno.",
+      "category": "Feelings",
+      "generated_at": "2026-07-05T20:59:30.556440"
+    },
+    {
+      "english": "Slightly annoyed, honestly.",
+      "slovak": "Trochu nahnevaný, úprimne.",
+      "transliteration": "Trochu nahnevany, uprimne.",
+      "category": "Feelings",
+      "generated_at": "2026-07-05T20:59:30.556441"
+    },
+    {
+      "english": "Very curious, about this.",
+      "slovak": "Veľmi zvedavý, o tomto.",
+      "transliteration": "Velmi zvedavy, o tomto.",
+      "category": "Feelings",
+      "generated_at": "2026-07-05T20:59:30.556442"
     }
   ],
-  "last_updated": "2026-07-05T18:02:28.955006"
+  "last_updated": "2026-07-05T20:59:30.556443"
 }
