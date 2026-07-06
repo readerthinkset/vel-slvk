@@ -2834,7 +2834,42 @@
       "transliteration": "Pochop kontext, potom odpovedz.",
       "category": "Directions",
       "generated_at": "2026-07-06T03:23:43.132280"
+    },
+    {
+      "english": "You've brightened, my day.",
+      "slovak": "Rozžiaril si, mi deň.",
+      "transliteration": "Rozh-zha-ree-l shee, mee dyen.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-06T14:57:38.574217"
+    },
+    {
+      "english": "This is, wonderful.",
+      "slovak": "Toto je, úžasné.",
+      "transliteration": "To-to yeh, oo-zha-sne.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-06T14:57:38.574226"
+    },
+    {
+      "english": "You made, it happen.",
+      "slovak": "To si, zariadil.",
+      "transliteration": "To shee, za-ree-deel.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-06T14:57:38.574228"
+    },
+    {
+      "english": "Such a, great gift.",
+      "slovak": "Takýto, skvelý dar.",
+      "transliteration": "Ta-kee-to, skveh-lee dar.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-06T14:57:38.574229"
+    },
+    {
+      "english": "I'm so, pleased.",
+      "slovak": "Som tak, potešený.",
+      "transliteration": "Som tak, po-teh-sheh-nee.",
+      "category": "Gratitude",
+      "generated_at": "2026-07-06T14:57:38.574230"
     }
   ],
-  "last_updated": "2026-07-06T03:23:43.132282"
+  "last_updated": "2026-07-06T14:57:38.574232"
 }
