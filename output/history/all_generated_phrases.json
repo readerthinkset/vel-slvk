@@ -2869,7 +2869,42 @@
       "transliteration": "Som tak, po-teh-sheh-nee.",
       "category": "Gratitude",
       "generated_at": "2026-07-06T14:57:38.574230"
+    },
+    {
+      "english": "This place is, delicious.",
+      "slovak": "Toto miesto, je výborné.",
+      "transliteration": "Toto miesto, je výborné.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-06T16:53:49.705837"
+    },
+    {
+      "english": "What do you, recommend?",
+      "slovak": "Čo odporúčate, prosím?",
+      "transliteration": "Čo odporúčate, prosím?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-06T16:53:49.705849"
+    },
+    {
+      "english": "Could I see, the menu?",
+      "slovak": "Môžem vidieť, jedálny lístok?",
+      "transliteration": "Môžem vidieť, jedálny lístok?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-06T16:53:49.705851"
+    },
+    {
+      "english": "One coffee, please.",
+      "slovak": "Jednu kávu, prosím.",
+      "transliteration": "Jednu kávu, prosím.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-06T16:53:49.705852"
+    },
+    {
+      "english": "Is this, spicy?",
+      "slovak": "Je toto, pikantné?",
+      "transliteration": "Je toto, pikantné?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-06T16:53:49.705853"
     }
   ],
-  "last_updated": "2026-07-06T14:57:38.574232"
+  "last_updated": "2026-07-06T16:53:49.705855"
 }
