@@ -2799,7 +2799,42 @@
       "transliteration": "Velmi zvedavy, o tomto.",
       "category": "Feelings",
       "generated_at": "2026-07-05T20:59:30.556442"
+    },
+    {
+      "english": "Focus now, try to pronounce.",
+      "slovak": "Sústreď sa teraz, skús vysloviť.",
+      "transliteration": "Soostred sa teraz, skus vyslovit.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T03:23:43.132267"
+    },
+    {
+      "english": "Listen to the sound, imitate.",
+      "slovak": "Počúvaj ten zvuk, napodobni.",
+      "transliteration": "Pochuvaj ten zvuk, napodobni.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T03:23:43.132276"
+    },
+    {
+      "english": "Think about it, then say.",
+      "slovak": "Mysli na to, potom povedz.",
+      "transliteration": "Mysli na to, potom povedz.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T03:23:43.132277"
+    },
+    {
+      "english": "Read it aloud, carefully.",
+      "slovak": "Prečítaj nahlas, opatrne.",
+      "transliteration": "Precitaj nahlas, opatrne.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T03:23:43.132279"
+    },
+    {
+      "english": "Understand the context, then reply.",
+      "slovak": "Pochop kontext, potom odpovedz.",
+      "transliteration": "Pochop kontext, potom odpovedz.",
+      "category": "Directions",
+      "generated_at": "2026-07-06T03:23:43.132280"
     }
   ],
-  "last_updated": "2026-07-05T20:59:30.556443"
+  "last_updated": "2026-07-06T03:23:43.132282"
 }
