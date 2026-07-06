@@ -2939,7 +2939,42 @@
       "transliteration": "Plaa-nooy pen-ya-zeh, oh-pat-r-nyeh.",
       "category": "Finance",
       "generated_at": "2026-07-06T18:53:47.859269"
+    },
+    {
+      "english": "Sweet cake, so delicious.",
+      "slovak": "Sladký koláč, taký lahodný.",
+      "transliteration": "Slat-key ko-lach, ta-ky la-hod-ny.",
+      "category": "Food",
+      "generated_at": "2026-07-06T21:28:52.606676"
+    },
+    {
+      "english": "Spicy soup, warming me up.",
+      "slovak": "Pikantná polievka, zahrieva ma.",
+      "transliteration": "Pi-kant-na po-lyev-ka, za-hrye-va ma.",
+      "category": "Food",
+      "generated_at": "2026-07-06T21:28:52.606687"
+    },
+    {
+      "english": "Fresh bread, baked this morning.",
+      "slovak": "Čerstvý chlieb, pečený dnes ráno.",
+      "transliteration": "Cherst-vy khlyeb, pe-chen-y dnes ra-no.",
+      "category": "Food",
+      "generated_at": "2026-07-06T21:28:52.606689"
+    },
+    {
+      "english": "Juicy apple, a healthy snack.",
+      "slovak": "Šťavnaté jablko, zdravá pochúťka.",
+      "transliteration": " Shtya-vat-tze ya-bl-ko, zdra-va po-khooch-ka.",
+      "category": "Food",
+      "generated_at": "2026-07-06T21:28:52.606691"
+    },
+    {
+      "english": "Crunchy salad, full of flavor.",
+      "slovak": "Chrumkavý šalát, plný chuti.",
+      "transliteration": "Khrum-ka-vy sha-lat, ply-ny khoo-ti.",
+      "category": "Food",
+      "generated_at": "2026-07-06T21:28:52.606692"
     }
   ],
-  "last_updated": "2026-07-06T18:53:47.859271"
+  "last_updated": "2026-07-06T21:28:52.606694"
 }
