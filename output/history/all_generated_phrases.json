@@ -3464,7 +3464,42 @@
       "transliteration": "Predvídaj pohyb, ovládni hru.",
       "category": "Sports",
       "generated_at": "2026-07-10T02:54:09.703159"
+    },
+    {
+      "english": "Hello, how are you?",
+      "slovak": "Ahoj, ako sa máš?",
+      "transliteration": "Ahoi, ako sa mash?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T13:57:36.009401"
+    },
+    {
+      "english": "Good morning, my friend.",
+      "slovak": "Dobré ráno, priateľ môj.",
+      "transliteration": "Dobre rano, priatel moy.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T13:57:36.009411"
+    },
+    {
+      "english": "What is your name?",
+      "slovak": "Ako sa voláš?",
+      "transliteration": "Ako sa volash?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T13:57:36.009413"
+    },
+    {
+      "english": "My name is...",
+      "slovak": "Volám sa...",
+      "transliteration": "Volam sa...",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T13:57:36.009414"
+    },
+    {
+      "english": "Nice to meet you.",
+      "slovak": "Teší ma.",
+      "transliteration": "Teshi ma.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-10T13:57:36.009415"
     }
   ],
-  "last_updated": "2026-07-10T02:54:09.703160"
+  "last_updated": "2026-07-10T13:57:36.009417"
 }
