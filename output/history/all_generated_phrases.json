@@ -3674,7 +3674,42 @@
       "transliteration": "Zah-shehp-kay yemm-neh, poh-tom glahs-nay-shyeh.",
       "category": "Directions",
       "generated_at": "2026-07-11T12:54:10.605822"
+    },
+    {
+      "english": "Excuse me, my wallet vanished.",
+      "slovak": "Prepáčte, moja peňaženka zmizla.",
+      "transliteration": "Prepach-tyeh, moy-ah pen-yah-zhen-kah zmee-zlah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:58:06.805314"
+    },
+    {
+      "english": "I need, a place to rest.",
+      "slovak": "Potrebujem, miesto na odpočinok.",
+      "transliteration": "Pot-reh-boo-yem, mye-stoh nah od-po-chin-ook.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:58:06.805322"
+    },
+    {
+      "english": "My passport, I can't find it.",
+      "slovak": "Môj pas, nemôžem ho nájsť.",
+      "transliteration": "Moy pahs, nem-oh-zhem hoh nay-st.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:58:06.805324"
+    },
+    {
+      "english": "Is there, a quiet spot?",
+      "slovak": "Je tu, tiché miesto?",
+      "transliteration": "Yeh too, tee-kheh mye-stoh?",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:58:06.805325"
+    },
+    {
+      "english": "I require, urgent assistance.",
+      "slovak": "Potrebujem, naliehavú pomoc.",
+      "transliteration": "Pot-reh-boo-yem, nah-lee-hah-voo poh-mots.",
+      "category": "Emergency",
+      "generated_at": "2026-07-11T14:58:06.805326"
     }
   ],
-  "last_updated": "2026-07-11T12:54:10.605824"
+  "last_updated": "2026-07-11T14:58:06.805328"
 }
