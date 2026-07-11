@@ -3639,7 +3639,42 @@
       "transliteration": "Hovorte po slovensky, spojte sa hlboko.",
       "category": "Education",
       "generated_at": "2026-07-11T02:31:22.428065"
+    },
+    {
+      "english": "Speak the word, feel the rhythm.",
+      "slovak": "Povedz slovo, cíť rytmus.",
+      "transliteration": "Poh-veyd slo-vo, tsee-t reet-moos.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T12:54:10.605808"
+    },
+    {
+      "english": "Sound it out, syllable by syllable.",
+      "slovak": "Vyslov to, slabiku po slabike.",
+      "transliteration": "Vih-slohv toh, slah-bih-koo poh slah-bih-keh.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T12:54:10.605818"
+    },
+    {
+      "english": "Connect the sounds, make a sentence.",
+      "slovak": "Spoj zvuky, vytvor vetu.",
+      "transliteration": "Spohy zvooky, vih-tvor veh-too.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T12:54:10.605820"
+    },
+    {
+      "english": "Imagine the meaning, then utter.",
+      "slovak": "Predstav si význam, potom vyslov.",
+      "transliteration": "Pred-stahv sih veez-nahm, poh-tom vih-slohv.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T12:54:10.605821"
+    },
+    {
+      "english": "Whisper it softly, then louder.",
+      "slovak": "Zašepkaj jemne, potom hlasnejšie.",
+      "transliteration": "Zah-shehp-kay yemm-neh, poh-tom glahs-nay-shyeh.",
+      "category": "Directions",
+      "generated_at": "2026-07-11T12:54:10.605822"
     }
   ],
-  "last_updated": "2026-07-11T02:31:22.428067"
+  "last_updated": "2026-07-11T12:54:10.605824"
 }
