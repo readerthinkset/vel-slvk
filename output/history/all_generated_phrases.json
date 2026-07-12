@@ -3884,7 +3884,42 @@
       "transliteration": "Ich pr-stee, hray-yoo hood-boo.",
       "category": "Body Parts",
       "generated_at": "2026-07-12T15:00:47.981552"
+    },
+    {
+      "english": "She's, my colleague, from work.",
+      "slovak": "Je moja kolegyňa, z práce.",
+      "transliteration": "Yey moya kolegy-nya, z pra-tsi.",
+      "category": "Relationships",
+      "generated_at": "2026-07-12T17:57:53.611429"
+    },
+    {
+      "english": "He's, my neighbor, across the street.",
+      "slovak": "Je môj sused, oproti cez ulicu.",
+      "transliteration": "Yey moy soo-sed, o-pro-tee tsez oo-lee-tsu.",
+      "category": "Relationships",
+      "generated_at": "2026-07-12T17:57:53.611438"
+    },
+    {
+      "english": "We are, old acquaintances, from school.",
+      "slovak": "Sme starí známi, zo školy.",
+      "transliteration": "Sme sta-ree znaa-mee, zo sho-lee.",
+      "category": "Relationships",
+      "generated_at": "2026-07-12T17:57:53.611440"
+    },
+    {
+      "english": "They're, my cousins, very close.",
+      "slovak": "Sú moji bratranci, veľmi blízki.",
+      "transliteration": "Soo moy-ee brat-ran-tsee, vel-mee bleez-kee.",
+      "category": "Relationships",
+      "generated_at": "2026-07-12T17:57:53.611441"
+    },
+    {
+      "english": "He's, my mentor, a great guide.",
+      "slovak": "Je môj mentor, skvelý sprievodca.",
+      "transliteration": "Yey moy men-tor, skvel-ee spree-vo-dtsa.",
+      "category": "Relationships",
+      "generated_at": "2026-07-12T17:57:53.611443"
     }
   ],
-  "last_updated": "2026-07-12T15:00:47.981553"
+  "last_updated": "2026-07-12T17:57:53.611444"
 }
