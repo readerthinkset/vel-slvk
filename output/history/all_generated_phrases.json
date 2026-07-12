@@ -3814,7 +3814,42 @@
       "transliteration": "Skusme, nejake pulicne jedlo.",
       "category": "Travel",
       "generated_at": "2026-07-12T02:36:53.169996"
+    },
+    {
+      "english": "Let's dig in, friends.",
+      "slovak": "Dajme sa do toho, priatelia.",
+      "transliteration": "Dai-me sa do to-ho, pri-a-te-lia.",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-12T12:55:16.197267"
+    },
+    {
+      "english": "That's a good point, hmm?",
+      "slovak": "To je dobrý postreh, však?",
+      "transliteration": "To ye dob-ryy pos-treh, vshak?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-12T12:55:16.197277"
+    },
+    {
+      "english": "So, what's the plan, eh?",
+      "slovak": "Tak, aký je plán, hej?",
+      "transliteration": "Tak, a-kyy ye pla-an, hey?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-12T12:55:16.197279"
+    },
+    {
+      "english": "Give it a shot, why not?",
+      "slovak": "Skús to, prečo nie?",
+      "transliteration": "Skuus to, pre-cho ye?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-12T12:55:16.197280"
+    },
+    {
+      "english": "It's a bit tricky, right?",
+      "slovak": "Je to trochu zložité, či?",
+      "transliteration": "Ye to tro-chu zho-zhee-te, chi?",
+      "category": "Common Expressions",
+      "generated_at": "2026-07-12T12:55:16.197281"
     }
   ],
-  "last_updated": "2026-07-12T02:36:53.169998"
+  "last_updated": "2026-07-12T12:55:16.197283"
 }
