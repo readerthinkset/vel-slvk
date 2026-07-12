@@ -3779,7 +3779,42 @@
       "transliteration": "Pust pochibnosti, prijmite lyakhkost.",
       "category": "Balance",
       "generated_at": "2026-07-11T20:45:19.340257"
+    },
+    {
+      "english": "This pastry, smells amazing.",
+      "slovak": "Toto pečivo, vonia úžasne.",
+      "transliteration": "Toto pechivo, vonia uzasne.",
+      "category": "Travel",
+      "generated_at": "2026-07-12T02:36:53.169982"
+    },
+    {
+      "english": "Can we, sit over there?",
+      "slovak": "Môžeme, si sadnúť tam?",
+      "transliteration": "Mozeme, si sadnut tam?",
+      "category": "Travel",
+      "generated_at": "2026-07-12T02:36:53.169992"
+    },
+    {
+      "english": "What's, the local specialty?",
+      "slovak": "Čo je, miestna špecialita?",
+      "transliteration": "Co je, miestna specialita?",
+      "category": "Travel",
+      "generated_at": "2026-07-12T02:36:53.169994"
+    },
+    {
+      "english": "This river, is so peaceful.",
+      "slovak": "Táto rieka, je taká pokojná.",
+      "transliteration": "Tato rieka, je taka pokojna.",
+      "category": "Travel",
+      "generated_at": "2026-07-12T02:36:53.169995"
+    },
+    {
+      "english": "Let's try, some street food.",
+      "slovak": "Skúsme, nejaké pouličné jedlo.",
+      "transliteration": "Skusme, nejake pulicne jedlo.",
+      "category": "Travel",
+      "generated_at": "2026-07-12T02:36:53.169996"
     }
   ],
-  "last_updated": "2026-07-11T20:45:19.340259"
+  "last_updated": "2026-07-12T02:36:53.169998"
 }
