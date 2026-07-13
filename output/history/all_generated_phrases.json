@@ -3989,7 +3989,42 @@
       "transliteration": "Ko-shik s chle-bom, ye dop-le-nye-ny.",
       "category": "Restaurant",
       "generated_at": "2026-07-13T02:38:20.779824"
+    },
+    {
+      "english": "My Slovak journey, unfolds.",
+      "slovak": "Moja slovenská cesta, sa odvíja.",
+      "transliteration": "Moya slovenská cesta, sa odvíja.",
+      "category": "Confidence",
+      "generated_at": "2026-07-13T14:04:18.091181"
+    },
+    {
+      "english": "New words, feel right.",
+      "slovak": "Nové slová, znejú správne.",
+      "transliteration": "Nové slová, znejú správne.",
+      "category": "Confidence",
+      "generated_at": "2026-07-13T14:04:18.091191"
+    },
+    {
+      "english": "Understanding dawns, slowly.",
+      "slovak": "Pochopenie svitá, pomaly.",
+      "transliteration": "Pochopenie svitá, pomaly.",
+      "category": "Confidence",
+      "generated_at": "2026-07-13T14:04:18.091192"
+    },
+    {
+      "english": "Each sentence, a triumph.",
+      "slovak": "Každá veta, je triumf.",
+      "transliteration": "Každá veta, je triumf.",
+      "category": "Confidence",
+      "generated_at": "2026-07-13T14:04:18.091194"
+    },
+    {
+      "english": "Speaking Slovak, feels natural.",
+      "slovak": "Hovoriť po slovensky, je prirodzené.",
+      "transliteration": "Hovoriť po slovensky, je prirodzené.",
+      "category": "Confidence",
+      "generated_at": "2026-07-13T14:04:18.091195"
     }
   ],
-  "last_updated": "2026-07-13T02:38:20.779826"
+  "last_updated": "2026-07-13T14:04:18.091196"
 }
