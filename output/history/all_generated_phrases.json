@@ -4024,7 +4024,42 @@
       "transliteration": "Hovoriť po slovensky, je prirodzené.",
       "category": "Confidence",
       "generated_at": "2026-07-13T14:04:18.091195"
+    },
+    {
+      "english": "Now, the moment is here.",
+      "slovak": "Teraz, ten moment je tu.",
+      "transliteration": "Ter-az, ten mo-ment yeh tu.",
+      "category": "Time",
+      "generated_at": "2026-07-13T16:38:23.338709"
+    },
+    {
+      "english": "The present, holds everything.",
+      "slovak": "Prítomnosť, drží všetko.",
+      "transliteration": "Pritom-nost, dŕ-zhi vshet-ko.",
+      "category": "Time",
+      "generated_at": "2026-07-13T16:38:23.338723"
+    },
+    {
+      "english": "Soon, a new day dawns.",
+      "slovak": "Čoskoro, nový deň svitne.",
+      "transliteration": "Čos-ko-ro, no-vyy deň svit-ne.",
+      "category": "Time",
+      "generated_at": "2026-07-13T16:38:23.338725"
+    },
+    {
+      "english": "A brief pause, for thought.",
+      "slovak": "Krátka pauza, na zamyslenie.",
+      "transliteration": "Krát-ka pau-za, na za-mys-le-nie.",
+      "category": "Time",
+      "generated_at": "2026-07-13T16:38:23.338726"
+    },
+    {
+      "english": "Each tick, a tiny step.",
+      "slovak": "Každé tiknutie, malý krok.",
+      "transliteration": "Ka-ždé tik-nu-tie, ma-lyy krok.",
+      "category": "Time",
+      "generated_at": "2026-07-13T16:38:23.338727"
     }
   ],
-  "last_updated": "2026-07-13T14:04:18.091196"
+  "last_updated": "2026-07-13T16:38:23.338729"
 }
