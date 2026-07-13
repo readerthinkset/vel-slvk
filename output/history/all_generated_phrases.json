@@ -3954,7 +3954,42 @@
       "transliteration": "Sku-s nie-čo no-ve, dnes.",
       "category": "Courage",
       "generated_at": "2026-07-12T20:45:24.467644"
+    },
+    {
+      "english": "This soup, is surprisingly good.",
+      "slovak": "Táto polievka, je prekvapivo dobrá.",
+      "transliteration": "Ta-ta po-lyev-ka, ye pre-kva-pi-vo dob-ra.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T02:38:20.779810"
+    },
+    {
+      "english": "My plate, looks quite empty.",
+      "slovak": "Môj tanier, vyzerá dosť prázdny.",
+      "transliteration": " Moy tan-yer, vy-ze-ra dosht prazd-ny.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T02:38:20.779820"
+    },
+    {
+      "english": "Could I have, a doggy bag?",
+      "slovak": "Mohol by som dostať, krabičku na zvyšky?",
+      "transliteration": "Mo-hol by som dos-tat, kra-bič-ku na zvyš-ky?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T02:38:20.779822"
+    },
+    {
+      "english": "Is this, a local specialty?",
+      "slovak": "Je toto, miestna špecialita?",
+      "transliteration": "Ye to-to, myeest-na shpe-tsi-a-li-ta?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T02:38:20.779823"
+    },
+    {
+      "english": "The bread basket, is refilled.",
+      "slovak": "Košík s chlebom, je doplnený.",
+      "transliteration": "Ko-shik s chle-bom, ye dop-le-nye-ny.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-13T02:38:20.779824"
     }
   ],
-  "last_updated": "2026-07-12T20:45:24.467646"
+  "last_updated": "2026-07-13T02:38:20.779826"
 }
