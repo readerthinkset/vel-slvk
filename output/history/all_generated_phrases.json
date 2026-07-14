@@ -4199,7 +4199,42 @@
       "transliteration": "Moje srdce, je plne vďaky.",
       "category": "Gratitude",
       "generated_at": "2026-07-14T13:06:20.768101"
+    },
+    {
+      "english": "My dad, a steady hand.",
+      "slovak": "Môj otec, pevná ruka.",
+      "transliteration": "Moy otets, pevna ruka.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T17:59:28.698807"
+    },
+    {
+      "english": "Mom's hug, pure comfort.",
+      "slovak": "Objatie mamy, čistá útecha.",
+      "transliteration": "Obyatie mam-y, chista utecha.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T17:59:28.698819"
+    },
+    {
+      "english": "My brother, my partner in crime.",
+      "slovak": "Môj brat, môj spolupáchateľ.",
+      "transliteration": "Moy brat, moy spolupachetel.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T17:59:28.698821"
+    },
+    {
+      "english": "Sister, you shine so bright.",
+      "slovak": "Sestra, ty tak jasne žiariš.",
+      "transliteration": "Sestra, ti tak yasne zhyarish.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T17:59:28.698822"
+    },
+    {
+      "english": "Grandpa's wisdom, a guiding light.",
+      "slovak": "Múdrosť dedka, svetlo na cestu.",
+      "transliteration": "Mudrost ded-ka, svetlo na cestu.",
+      "category": "Family Terms",
+      "generated_at": "2026-07-14T17:59:28.698823"
     }
   ],
-  "last_updated": "2026-07-14T13:06:20.768103"
+  "last_updated": "2026-07-14T17:59:28.698825"
 }
