@@ -4374,7 +4374,42 @@
       "transliteration": "Tech ako voda, udri ako hrom.",
       "category": "Sports",
       "generated_at": "2026-07-15T15:28:07.140084"
+    },
+    {
+      "english": "Warm air, a welcome feeling.",
+      "slovak": "Teplý vzduch, príjemný pocit.",
+      "transliteration": "Tep-liy vookh, pree-yem-ny poh-tseet.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T18:03:53.494273"
+    },
+    {
+      "english": "Frosty mornings, crisp air.",
+      "slovak": "Mrazivé rána, svieži vzduch.",
+      "transliteration": "Mra-zee-veh raa-na, svye-zhee vookh.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T18:03:53.494286"
+    },
+    {
+      "english": "Thunder rumbles, far away.",
+      "slovak": "Hrom buráca, v dialke.",
+      "transliteration": "Hrom boo-raa-tsa, v dyaa-lke.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T18:03:53.494288"
+    },
+    {
+      "english": "Snowflakes dance, softly down.",
+      "slovak": "Snehové vločky tancujú, potichu.",
+      "transliteration": "Snye-ho-veh vlohk-tsee tan-tsu-yoo, poh-tee-khoo.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T18:03:53.494289"
+    },
+    {
+      "english": "Wind whispers, through the trees.",
+      "slovak": "Vietor šepká, cez stromy.",
+      "transliteration": "Vye-tor shep-ka, tsez stro-my.",
+      "category": "Weather",
+      "generated_at": "2026-07-15T18:03:53.494291"
     }
   ],
-  "last_updated": "2026-07-15T15:28:07.140086"
+  "last_updated": "2026-07-15T18:03:53.494293"
 }
