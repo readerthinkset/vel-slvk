@@ -4339,7 +4339,42 @@
       "transliteration": "Tah-keh doh-breh shtyah-styeh, wow.",
       "category": "Joy",
       "generated_at": "2026-07-15T13:12:47.162231"
+    },
+    {
+      "english": "Move with the ball, feel the ground.",
+      "slovak": "Pohybuj sa s loptou, cíť zem.",
+      "transliteration": "Pohybuy sa s loptou, cit zem.",
+      "category": "Sports",
+      "generated_at": "2026-07-15T15:28:07.140067"
+    },
+    {
+      "english": "See the space, take the chance.",
+      "slovak": "Vidíš priestor, využij šancu.",
+      "transliteration": "Vidish priestor, vyuij shantsu.",
+      "category": "Sports",
+      "generated_at": "2026-07-15T15:28:07.140079"
+    },
+    {
+      "english": "Calm mind, sharp action.",
+      "slovak": "Kľudná myseľ, ostrá akcia.",
+      "transliteration": "Kludna mysel, ostra aktsia.",
+      "category": "Sports",
+      "generated_at": "2026-07-15T15:28:07.140081"
+    },
+    {
+      "english": "Every step matters, so learn.",
+      "slovak": "Každý krok má význam, uč sa.",
+      "transliteration": "Kazhdy krok ma vyznam, uch sa.",
+      "category": "Sports",
+      "generated_at": "2026-07-15T15:28:07.140083"
+    },
+    {
+      "english": "Flow like water, hit like thunder.",
+      "slovak": "Teč ako voda, udri ako hrom.",
+      "transliteration": "Tech ako voda, udri ako hrom.",
+      "category": "Sports",
+      "generated_at": "2026-07-15T15:28:07.140084"
     }
   ],
-  "last_updated": "2026-07-15T13:12:47.162232"
+  "last_updated": "2026-07-15T15:28:07.140086"
 }
