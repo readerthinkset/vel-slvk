@@ -4479,7 +4479,42 @@
       "transliteration": "Von z dveri, pozdrav ulicu.",
       "category": "Daily Routine",
       "generated_at": "2026-07-16T02:28:10.023801"
+    },
+    {
+      "english": "A bright day, my friend.",
+      "slovak": "Jasný deň, priateľ môj.",
+      "transliteration": "Yas-ny den, pri-a-tel moy.",
+      "category": "Greetings",
+      "generated_at": "2026-07-16T15:41:32.284955"
+    },
+    {
+      "english": "So glad, to see you.",
+      "slovak": "Tak rád, ťa vidím.",
+      "transliteration": "Tak rad, t'a vidim.",
+      "category": "Greetings",
+      "generated_at": "2026-07-16T15:41:32.284964"
+    },
+    {
+      "english": "Welcome, traveler.",
+      "slovak": "Vitaj, cestovateľ.",
+      "transliteration": "Vi-tay, ces-to-va-tel.",
+      "category": "Greetings",
+      "generated_at": "2026-07-16T15:41:32.284966"
+    },
+    {
+      "english": "What a surprise, today!",
+      "slovak": "Aké prekvapenie, dnes!",
+      "transliteration": "A-ke pre-kva-pe-nie, dnes!",
+      "category": "Greetings",
+      "generated_at": "2026-07-16T15:41:32.284967"
+    },
+    {
+      "english": "Good to cross paths.",
+      "slovak": "Dobre, že sme sa stretli.",
+      "transliteration": "Dob-re, zhe sme sa stre-tli.",
+      "category": "Greetings",
+      "generated_at": "2026-07-16T15:41:32.284968"
     }
   ],
-  "last_updated": "2026-07-16T02:28:10.023803"
+  "last_updated": "2026-07-16T15:41:32.284969"
 }
