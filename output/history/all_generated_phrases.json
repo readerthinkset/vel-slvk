@@ -4514,7 +4514,42 @@
       "transliteration": "Dob-re, zhe sme sa stre-tli.",
       "category": "Greetings",
       "generated_at": "2026-07-16T15:41:32.284968"
+    },
+    {
+      "english": "Butterflies flutter, colors ignite.",
+      "slovak": "Motýle poletujú, farby žiaria.",
+      "transliteration": "Moty-lye po-le-tyoo-yoo, far-by zhee-a-ree-a.",
+      "category": "Nature",
+      "generated_at": "2026-07-16T20:57:35.130816"
+    },
+    {
+      "english": "Wildflowers bloom, in meadows wide.",
+      "slovak": "Lúčne kvety kvitnú, na šírych lúkach.",
+      "transliteration": "Looch-nye kvyet-y kvit-noo, na shee-reekh loo-kakh.",
+      "category": "Nature",
+      "generated_at": "2026-07-16T20:57:35.130824"
+    },
+    {
+      "english": "Crickets chirp, evening's song.",
+      "slovak": "Svrčky cvrlikajú, večerná pieseň.",
+      "transliteration": "Svyrch-ky cvyr-lee-ka-yoo, vech-ern-a pyess-en'.",
+      "category": "Nature",
+      "generated_at": "2026-07-16T20:57:35.130826"
+    },
+    {
+      "english": "Stones tumble, down the slope.",
+      "slovak": "Kamene sa kotúľajú, z úbočia.",
+      "transliteration": "Ka-men-e sa ko-tool'-ya-yoo, z oo-boh-chee-a.",
+      "category": "Nature",
+      "generated_at": "2026-07-16T20:57:35.130828"
+    },
+    {
+      "english": "Raindrops fall, earth drinks deep.",
+      "slovak": "Kvapky dažďa padajú, zem pije zhlboka.",
+      "transliteration": "Kvap-ky daž-dya pa-da-yoo, zem pyee-ye zhlo-boh-ka.",
+      "category": "Nature",
+      "generated_at": "2026-07-16T20:57:35.130829"
     }
   ],
-  "last_updated": "2026-07-16T15:41:32.284969"
+  "last_updated": "2026-07-16T20:57:35.130833"
 }
