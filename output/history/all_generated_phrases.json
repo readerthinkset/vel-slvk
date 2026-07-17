@@ -4619,7 +4619,42 @@
       "transliteration": "Chy-tra na-vy-ky s pen-ya-zmi, sa vy-pla-tya.",
       "category": "Finance",
       "generated_at": "2026-07-17T15:17:13.791907"
+    },
+    {
+      "english": "This jam, smells wonderful.",
+      "slovak": "Tento džem, vonia úžasne.",
+      "transliteration": "Tento džem, vonia úžasne.",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T18:03:34.549097"
+    },
+    {
+      "english": "Could I see, that other sweater?",
+      "slovak": "Mohol by som vidieť, tamten sveter?",
+      "transliteration": "Mohol by som vidieť, tamten sveter?",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T18:03:34.549108"
+    },
+    {
+      "english": "Is this, locally made?",
+      "slovak": "Je toto, vyrobené lokálne?",
+      "transliteration": "Je toto, vyrobené lokálne?",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T18:03:34.549109"
+    },
+    {
+      "english": "I'm looking for, some good coffee.",
+      "slovak": "Hľadám, dobrú kávu.",
+      "transliteration": "Hľadám, dobrú kávu.",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T18:03:34.549111"
+    },
+    {
+      "english": "Where are the, fresh vegetables?",
+      "slovak": "Kde sú, čerstvé zeleniny?",
+      "transliteration": "Kde sú, čerstvé zeleniny?",
+      "category": "Shopping",
+      "generated_at": "2026-07-17T18:03:34.549112"
     }
   ],
-  "last_updated": "2026-07-17T15:17:13.791909"
+  "last_updated": "2026-07-17T18:03:34.549114"
 }
