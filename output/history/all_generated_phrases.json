@@ -4794,7 +4794,42 @@
       "transliteration": "Vla-na po-ko-ya, pri-kha-dza.",
       "category": "Feelings",
       "generated_at": "2026-07-18T14:57:52.031194"
+    },
+    {
+      "english": "This smells, amazing.",
+      "slovak": "Toto vonia, úžasne.",
+      "transliteration": "Toto vonia, uzhasne.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-18T17:54:34.494749"
+    },
+    {
+      "english": "Just a little, water.",
+      "slovak": "Len trocha, vody.",
+      "transliteration": "Len trocha, vody.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-18T17:54:34.494764"
+    },
+    {
+      "english": "How much, is this?",
+      "slovak": "Koľko, to stojí?",
+      "transliteration": "Kol'ko, to stoi?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-18T17:54:34.494766"
+    },
+    {
+      "english": "Is there, a special?",
+      "slovak": "Máte, nejaký denný špecial?",
+      "transliteration": "Máte, nejaky denny special?",
+      "category": "Restaurant",
+      "generated_at": "2026-07-18T17:54:34.494767"
+    },
+    {
+      "english": "This looks, beautiful.",
+      "slovak": "Toto vyzerá, nádherne.",
+      "transliteration": "Toto vyzerá, nádherne.",
+      "category": "Restaurant",
+      "generated_at": "2026-07-18T17:54:34.494771"
     }
   ],
-  "last_updated": "2026-07-18T14:57:52.031196"
+  "last_updated": "2026-07-18T17:54:34.494774"
 }
