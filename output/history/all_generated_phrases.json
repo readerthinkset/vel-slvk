@@ -4829,7 +4829,42 @@
       "transliteration": "Toto vyzerá, nádherne.",
       "category": "Restaurant",
       "generated_at": "2026-07-18T17:54:34.494771"
+    },
+    {
+      "english": "Listen closely, time is speaking.",
+      "slovak": "Počúvaj pozorne, čas hovorí.",
+      "transliteration": "Pochuvay pozorne, chas hovorí.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:45:02.350779"
+    },
+    {
+      "english": "The clock ticks, forward we go.",
+      "slovak": "Hodiny tikajú, ideme vpred.",
+      "transliteration": "Hodin'y tikayú, ideme vpred.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:45:02.350786"
+    },
+    {
+      "english": "Don't rush, savor this instant.",
+      "slovak": "Neponáhľaj sa, vychutnaj si tento okamih.",
+      "transliteration": "Neponahlay sa, vychutnay si tento okamih.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:45:02.350789"
+    },
+    {
+      "english": "A heartbeat later, it's different.",
+      "slovak": "O úder srdca neskôr, je to iné.",
+      "transliteration": "O úder srdca neskôr, je to íne.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:45:02.350790"
+    },
+    {
+      "english": "The shadow lengthens, day is fading.",
+      "slovak": "Tieň sa predlžuje, deň sa stráca.",
+      "transliteration": "Tieň sa predlžuje, deň sa stráca.",
+      "category": "Time",
+      "generated_at": "2026-07-18T20:45:02.350791"
     }
   ],
-  "last_updated": "2026-07-18T17:54:34.494774"
+  "last_updated": "2026-07-18T20:45:02.350793"
 }
