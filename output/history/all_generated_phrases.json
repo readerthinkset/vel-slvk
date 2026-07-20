@@ -5179,7 +5179,42 @@
       "transliteration": "Slovenský jazyk, jemná cesta.",
       "category": "Education",
       "generated_at": "2026-07-20T18:51:35.248580"
+    },
+    {
+      "english": "This language, it's my new playground.",
+      "slovak": "Tento jazyk, moje nové ihrisko.",
+      "transliteration": "Tento yazyk, moye nov-eh-ye eeh-reesko.",
+      "category": "Confidence",
+      "generated_at": "2026-07-20T21:12:59.223156"
+    },
+    {
+      "english": "My Slovak voice, finding its rhythm.",
+      "slovak": "Môj slovenský hlas, nachádza rytmus.",
+      "transliteration": "Moy sloven-skee hlas, nah-kha-za rheet-moos.",
+      "category": "Confidence",
+      "generated_at": "2026-07-20T21:12:59.223168"
+    },
+    {
+      "english": "Each word spoken, a small victory.",
+      "slovak": "Každé slovo, malý úspech.",
+      "transliteration": "Kadh-deh slovo, mah-lee oos-pekh.",
+      "category": "Confidence",
+      "generated_at": "2026-07-20T21:12:59.223170"
+    },
+    {
+      "english": "Slovak sounds, becoming familiar friends.",
+      "slovak": "Slovenské zvuky, známi priatelia.",
+      "transliteration": "Sloven-skeh zvooky, znah-mee pree-a-teh-lya.",
+      "category": "Confidence",
+      "generated_at": "2026-07-20T21:12:59.223172"
+    },
+    {
+      "english": "I understand more, with every listen.",
+      "slovak": "Rozumiem viac, s každým počúvaním.",
+      "transliteration": "Roz-oo-myem vyats, s kadh-deem poch-oo-vah-neem.",
+      "category": "Confidence",
+      "generated_at": "2026-07-20T21:12:59.223173"
     }
   ],
-  "last_updated": "2026-07-20T18:51:35.248582"
+  "last_updated": "2026-07-20T21:12:59.223175"
 }
