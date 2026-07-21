@@ -5319,7 +5319,42 @@
       "transliteration": "Taka dobra nalada, tu.",
       "category": "Joy",
       "generated_at": "2026-07-21T15:46:26.010119"
+    },
+    {
+      "english": "A pleasant day, to you.",
+      "slovak": "Príjemný deň, vám.",
+      "transliteration": "Pree-yem-ny dyen, vam.",
+      "category": "Greetings",
+      "generated_at": "2026-07-21T18:14:45.931082"
+    },
+    {
+      "english": "What a joy, to meet.",
+      "slovak": "Aká radosť, stretnúť sa.",
+      "transliteration": "A-ka rad-ost, stretn-oot sa.",
+      "category": "Greetings",
+      "generated_at": "2026-07-21T18:14:45.931093"
+    },
+    {
+      "english": "Greetings, kind soul.",
+      "slovak": "Zdravím, dobrá duša.",
+      "transliteration": "Zdrah-veem, dob-ra doo-sha.",
+      "category": "Greetings",
+      "generated_at": "2026-07-21T18:14:45.931095"
+    },
+    {
+      "english": "May your day shine.",
+      "slovak": "Nech váš deň žiari.",
+      "transliteration": "Nyech vash dyen zhyah-ree.",
+      "category": "Greetings",
+      "generated_at": "2026-07-21T18:14:45.931097"
+    },
+    {
+      "english": "Warm wishes, always.",
+      "slovak": "Srdečné pozdravy, vždy.",
+      "transliteration": "Sker-dyech-ne poz-drah-vee, vzdy.",
+      "category": "Greetings",
+      "generated_at": "2026-07-21T18:14:45.931098"
     }
   ],
-  "last_updated": "2026-07-21T15:46:26.010121"
+  "last_updated": "2026-07-21T18:14:45.931100"
 }
