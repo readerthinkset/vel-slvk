@@ -5214,7 +5214,42 @@
       "transliteration": "Roz-oo-myem vyats, s kadh-deem poch-oo-vah-neem.",
       "category": "Confidence",
       "generated_at": "2026-07-20T21:12:59.223173"
+    },
+    {
+      "english": "He's, my father, a wise man.",
+      "slovak": "Je, môj otec, múdry muž.",
+      "transliteration": "Yeh, moy otets, moo-dree moozh.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T02:32:02.287402"
+    },
+    {
+      "english": "She's, my mother, so kind.",
+      "slovak": "Je, moja matka, taká milá.",
+      "transliteration": "Yeh, moy-ah mat-kah, tah-kah mee-lah.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T02:32:02.287412"
+    },
+    {
+      "english": "We are, lifelong friends, since childhood.",
+      "slovak": "Sme, celoživotní priatelia, od detstva.",
+      "transliteration": "Smeh, tseh-lo-zhee-vot-nee pry-ah-teh-lee-ah, od det-stvah.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T02:32:02.287414"
+    },
+    {
+      "english": "He is, my partner, in crime.",
+      "slovak": "Je, môj partner, v zločine.",
+      "transliteration": "Yeh, moy par-tner, v zlo-chee-neh.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T02:32:02.287415"
+    },
+    {
+      "english": "She's, my better half, truly.",
+      "slovak": "Je, moja lepšia polovička, naozaj.",
+      "transliteration": "Yeh, moy-ah lep-shyah poh-lo-vee-chkah, na-oh-zay.",
+      "category": "Relationships",
+      "generated_at": "2026-07-21T02:32:02.287416"
     }
   ],
-  "last_updated": "2026-07-20T21:12:59.223175"
+  "last_updated": "2026-07-21T02:32:02.287418"
 }
