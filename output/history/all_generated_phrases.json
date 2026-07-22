@@ -5529,7 +5529,42 @@
       "transliteration": "Ponúkni povzbudenie, kývnutím.",
       "category": "Kindness",
       "generated_at": "2026-07-22T18:06:27.177002"
+    },
+    {
+      "english": "Let's build it, word by word.",
+      "slovak": "Staviame to, slovo po slove.",
+      "transliteration": "Stavyame to, slovo po slove.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T21:05:42.815167"
+    },
+    {
+      "english": "Feel the flow, speak it now.",
+      "slovak": "Cíť prúd, povedz to hneď.",
+      "transliteration": "Ceeť prúd, povedz to hned'.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T21:05:42.815177"
+    },
+    {
+      "english": "Paint the sound, with your voice.",
+      "slovak": "Namaľuj zvuk, hlasom svojím.",
+      "transliteration": "Namaľuj zvuk, hlasom svojím.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T21:05:42.815179"
+    },
+    {
+      "english": "Hear the echo, send it back.",
+      "slovak": "Počuj ozvenu, vráť ju.",
+      "transliteration": "Počuj ozvenu, vráť ju.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T21:05:42.815181"
+    },
+    {
+      "english": "Your turn now, make a sound.",
+      "slovak": "Tvoj rad teraz, urob zvuk.",
+      "transliteration": "Tvoj rad teraz, urob zvuk.",
+      "category": "Directions",
+      "generated_at": "2026-07-22T21:05:42.815182"
     }
   ],
-  "last_updated": "2026-07-22T18:06:27.177004"
+  "last_updated": "2026-07-22T21:05:42.815183"
 }
