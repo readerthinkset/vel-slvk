@@ -5459,7 +5459,42 @@
       "transliteration": "Mo-ye mys-lien-ki, sa vra-ca-yu, k te-be.",
       "category": "Love",
       "generated_at": "2026-07-22T13:21:47.771272"
+    },
+    {
+      "english": "Welcome, please sit.",
+      "slovak": "Vitajte, prosím, sadnite si.",
+      "transliteration": "Vitayte, prosim, sadnite si.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T15:44:41.760156"
+    },
+    {
+      "english": "Let's go, slowly.",
+      "slovak": "Poďme, pomaly.",
+      "transliteration": "Poyme, pomaly.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T15:44:41.760170"
+    },
+    {
+      "english": "This is delicious.",
+      "slovak": "Toto je výborné.",
+      "transliteration": "Toto ye vyborne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T15:44:41.760172"
+    },
+    {
+      "english": "Can I help you?",
+      "slovak": "Môžem vám pomôcť?",
+      "transliteration": "Moyzhem vam pomoct?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T15:44:41.760174"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "slovak": "Kde je toaleta?",
+      "transliteration": "Gde ye toaleta?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-07-22T15:44:41.760175"
     }
   ],
-  "last_updated": "2026-07-22T13:21:47.771274"
+  "last_updated": "2026-07-22T15:44:41.760177"
 }
