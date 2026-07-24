@@ -5844,7 +5844,42 @@
       "transliteration": "Rieka tečie, odnáša momenty preč.",
       "category": "Time",
       "generated_at": "2026-07-24T13:16:44.981986"
+    },
+    {
+      "english": "Brook babbles, over pebbles.",
+      "slovak": "Potôčik žblnká, cez kamienky.",
+      "transliteration": "Potocheek zblnka, cez kamienky.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T15:27:46.208069"
+    },
+    {
+      "english": "Sun warms, the quiet earth.",
+      "slovak": "Slnko hreje, tichú zem.",
+      "transliteration": "Slnko hreje, tichu zem.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T15:27:46.208078"
+    },
+    {
+      "english": "Fern unfurls, in shaded glen.",
+      "slovak": "Papraď sa rozvinie, v tôni údolia.",
+      "transliteration": "Papraď sa rozvinie, v tôni údolia.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T15:27:46.208080"
+    },
+    {
+      "english": "Clouds drift, across the blue.",
+      "slovak": "Oblaky plávajú, po modrej oblohe.",
+      "transliteration": "Oblaky plávajú, po modrej oblohe.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T15:27:46.208082"
+    },
+    {
+      "english": "Pine needles fall, a soft carpet.",
+      "slovak": "Ihlice sa snášajú, mäkký koberec.",
+      "transliteration": "Ihlice sa snášajú, mäkký koberec.",
+      "category": "Nature",
+      "generated_at": "2026-07-24T15:27:46.208083"
     }
   ],
-  "last_updated": "2026-07-24T13:16:44.981988"
+  "last_updated": "2026-07-24T15:27:46.208084"
 }
