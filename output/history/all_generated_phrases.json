@@ -6194,7 +6194,42 @@
       "transliteration": "Kon-troh-loh-vah-nah ag-reh-see-yah, moo-drah hrah.",
       "category": "Sports",
       "generated_at": "2026-07-26T18:01:48.768537"
+    },
+    {
+      "english": "My, glasses, fell off.",
+      "slovak": "Moje, okuliare, spadli.",
+      "transliteration": "Moy-eh, ok-oo-lyah-reh, spa-dlee.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T20:57:10.914568"
+    },
+    {
+      "english": "I, need, to sit down.",
+      "slovak": "Potrebujem, sa posadiť.",
+      "transliteration": "Pot-reh-boo-yem, sa pos-ah-deet.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T20:57:10.914578"
+    },
+    {
+      "english": "This, is, an emergency.",
+      "slovak": "Toto, je, núdzová situácia.",
+      "transliteration": "Tot-o, yeh, noo-dzo-vah sit-oo-ah-tsee-yah.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T20:57:10.914580"
+    },
+    {
+      "english": "I, can't, breathe well.",
+      "slovak": "Nemôžem, dobre, dýchať.",
+      "transliteration": "Nem-oh-zhem, dob-reh, dee-khath.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T20:57:10.914582"
+    },
+    {
+      "english": "My, leg, hurts badly.",
+      "slovak": "Moja, noha, veľmi bolí.",
+      "transliteration": "Moy-ah, noh-hah, vel-mee bol-ee.",
+      "category": "Emergency",
+      "generated_at": "2026-07-26T20:57:10.914583"
     }
   ],
-  "last_updated": "2026-07-26T18:01:48.768538"
+  "last_updated": "2026-07-26T20:57:10.914584"
 }
