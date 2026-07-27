@@ -6299,7 +6299,42 @@
       "transliteration": "uzh sa neskorí, zhal.",
       "category": "Common Expressions",
       "generated_at": "2026-07-27T14:09:52.257943"
+    },
+    {
+      "english": "A sly fox, watches silently.",
+      "slovak": "Liška prefíkaná, ticho sleduje.",
+      "transliteration": "Lishka pref'ikana, tikho sleduye.",
+      "category": "Animals",
+      "generated_at": "2026-07-27T16:24:12.593433"
+    },
+    {
+      "english": "The owl hoots, in the dark.",
+      "slovak": "Sova húka, v tme.",
+      "transliteration": "Sova huka, f tme.",
+      "category": "Animals",
+      "generated_at": "2026-07-27T16:24:12.593445"
+    },
+    {
+      "english": "A playful otter, slides by.",
+      "slovak": "Hravá vydra, skĺzne sa.",
+      "transliteration": "Hrava vydra, skl'izne sa.",
+      "category": "Animals",
+      "generated_at": "2026-07-27T16:24:12.593447"
+    },
+    {
+      "english": "The elephant trumpets, a loud call.",
+      "slovak": "Slon trúbi, hlasný zvuk.",
+      "transliteration": "Slon trubi, hlasni zvuk.",
+      "category": "Animals",
+      "generated_at": "2026-07-27T16:24:12.593448"
+    },
+    {
+      "english": "A tiny mouse, nibbles cheese.",
+      "slovak": "Myška malá, hryzie syr.",
+      "transliteration": "Myshka mala, hryzye syr.",
+      "category": "Animals",
+      "generated_at": "2026-07-27T16:24:12.593450"
     }
   ],
-  "last_updated": "2026-07-27T14:09:52.257945"
+  "last_updated": "2026-07-27T16:24:12.593452"
 }
