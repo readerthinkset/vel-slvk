@@ -6579,7 +6579,42 @@
       "transliteration": "Nájdite pokoj, v čakaní.",
       "category": "Patience",
       "generated_at": "2026-07-30T02:11:53.116733"
+    },
+    {
+      "english": "This is, my confidante.",
+      "slovak": "Toto je, moja dôverníčka.",
+      "transliteration": "Toto ye, moya doviernichka.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T13:25:49.836172"
+    },
+    {
+      "english": "They're, my hiking buddies.",
+      "slovak": "Sú to, moji turistickí kamaráti.",
+      "transliteration": "Su to, moyi turistichi kamaráti.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T13:25:49.836200"
+    },
+    {
+      "english": "He's, my workout partner.",
+      "slovak": "Je to, môj sparingpartner.",
+      "transliteration": "Ye to, moy sparingpartner.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T13:25:49.836202"
+    },
+    {
+      "english": "She's, my creative muse.",
+      "slovak": "Je moja, tvorivá múza.",
+      "transliteration": "Ye moya, tvoriva muza.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T13:25:49.836203"
+    },
+    {
+      "english": "We're, project collaborators.",
+      "slovak": "Sme, projektoví spolupracovníci.",
+      "transliteration": "Sme, projektovi spulapracovnici.",
+      "category": "Relationships",
+      "generated_at": "2026-07-30T13:25:49.836204"
     }
   ],
-  "last_updated": "2026-07-30T02:11:53.116735"
+  "last_updated": "2026-07-30T13:25:49.836206"
 }
