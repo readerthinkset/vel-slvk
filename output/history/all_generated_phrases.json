@@ -6719,7 +6719,42 @@
       "transliteration": "Shti-ree veh-try, shehp-kah-yoo tah-yomst-vah.",
       "category": "Numbers",
       "generated_at": "2026-07-30T21:08:31.387676"
+    },
+    {
+      "english": "This blouse, has a lovely pattern.",
+      "slovak": "Toto tričko, má pekný vzor.",
+      "transliteration": "Toto trichko, ma pekny vzor.",
+      "category": "Clothes",
+      "generated_at": "2026-07-31T02:39:56.219097"
+    },
+    {
+      "english": "My skirt, is quite flowy.",
+      "slovak": "Moja sukňa, je taká vzdušná.",
+      "transliteration": "Moya suknya, ye taka vzdušna.",
+      "category": "Clothes",
+      "generated_at": "2026-07-31T02:39:56.219108"
+    },
+    {
+      "english": "These jeans, are a bit faded.",
+      "slovak": "Tieto rifle, sú mierne vyblednuté.",
+      "transliteration": "Tieto rifle, su mierne vyblednute.",
+      "category": "Clothes",
+      "generated_at": "2026-07-31T02:39:56.219109"
+    },
+    {
+      "english": "He's wearing, a smart waistcoat.",
+      "slovak": "Má oblečenú, elegantnú vestu.",
+      "transliteration": "Ma oblečenu, elegantnu vestu.",
+      "category": "Clothes",
+      "generated_at": "2026-07-31T02:39:56.219111"
+    },
+    {
+      "english": "Her coat, is waterproof.",
+      "slovak": "Jej kabát, je nepremokavý.",
+      "transliteration": "Yey kabaat, ye nepremokavy.",
+      "category": "Clothes",
+      "generated_at": "2026-07-31T02:39:56.219112"
     }
   ],
-  "last_updated": "2026-07-30T21:08:31.387678"
+  "last_updated": "2026-07-31T02:39:56.219114"
 }
