@@ -7104,7 +7104,42 @@
       "transliteration": "Moh-yah toh-pahn-kah, yeh roz-bee-tah.",
       "category": "Emergency",
       "generated_at": "2026-08-02T15:06:23.392872"
+    },
+    {
+      "english": "Sun's up, let's go!",
+      "slovak": "Slnko svieti, poďme!",
+      "transliteration": "Slunko svieti, podme!",
+      "category": "Greetings",
+      "generated_at": "2026-08-02T17:59:54.990456"
+    },
+    {
+      "english": "A new day, begins.",
+      "slovak": "Nový deň, začína.",
+      "transliteration": "Novy den, zacina.",
+      "category": "Greetings",
+      "generated_at": "2026-08-02T17:59:54.990466"
+    },
+    {
+      "english": "Pleasant to meet, you.",
+      "slovak": "Milé stretnúť, vás.",
+      "transliteration": "Mile stretnut, vas.",
+      "category": "Greetings",
+      "generated_at": "2026-08-02T17:59:54.990467"
+    },
+    {
+      "english": "How's your journey?",
+      "slovak": "Ako tvoja cesta?",
+      "transliteration": "Ako tvoja cesta?",
+      "category": "Greetings",
+      "generated_at": "2026-08-02T17:59:54.990468"
+    },
+    {
+      "english": "Ready for anything?",
+      "slovak": "Pripravený na všetko?",
+      "transliteration": "Pripraveny na vsetko?",
+      "category": "Greetings",
+      "generated_at": "2026-08-02T17:59:54.990470"
     }
   ],
-  "last_updated": "2026-08-02T15:06:23.392874"
+  "last_updated": "2026-08-02T17:59:54.990471"
 }
