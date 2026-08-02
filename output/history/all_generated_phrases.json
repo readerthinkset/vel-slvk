@@ -7069,7 +7069,42 @@
       "transliteration": "Slnecny zablesk, hreje mi tvar.",
       "category": "Weather",
       "generated_at": "2026-08-02T12:57:25.714276"
+    },
+    {
+      "english": "My keys, I can't find them.",
+      "slovak": "Kľúče, nemôžem ich nájsť.",
+      "transliteration": "Klyoo-cheh, neh-moh-zhem yikh na-yeest.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T15:06:23.392856"
+    },
+    {
+      "english": "Someone is following, me.",
+      "slovak": "Niekto ma sleduje.",
+      "transliteration": "Nyehkh-toh mah sleh-doo-yeh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T15:06:23.392867"
+    },
+    {
+      "english": "I need, to get home.",
+      "slovak": "Potrebujem, ísť domov.",
+      "transliteration": "Poh-treh-boo-yem, eest doh-mohf.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T15:06:23.392869"
+    },
+    {
+      "english": "There's a strange noise.",
+      "slovak": "Počujem čudný zvuk.",
+      "transliteration": "Poh-choo-yem choohd-nee zvoohk.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T15:06:23.392871"
+    },
+    {
+      "english": "My shoe, is broken.",
+      "slovak": "Moja topánka, je rozbitá.",
+      "transliteration": "Moh-yah toh-pahn-kah, yeh roz-bee-tah.",
+      "category": "Emergency",
+      "generated_at": "2026-08-02T15:06:23.392872"
     }
   ],
-  "last_updated": "2026-08-02T12:57:25.714278"
+  "last_updated": "2026-08-02T15:06:23.392874"
 }
