@@ -7034,7 +7034,42 @@
       "transliteration": "Oo-cheesh sah, ah ras-tyesh.",
       "category": "Strength",
       "generated_at": "2026-08-02T02:37:20.739898"
+    },
+    {
+      "english": "Misty dawn, hangs low.",
+      "slovak": "Hmlistný úsvit, visí nízko.",
+      "transliteration": "Hmlistny usvit, visi nizko.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T12:57:25.714260"
+    },
+    {
+      "english": "Golden hour, paints the fields.",
+      "slovak": "Zlatá hodinka, maľuje polia.",
+      "transliteration": "Zlata hodinka, maluje polia.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T12:57:25.714272"
+    },
+    {
+      "english": "Sudden shower, catches us.",
+      "slovak": "Náhly lejak, nás prekvapí.",
+      "transliteration": "Nahly lejak, nas prekvapi.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T12:57:25.714274"
+    },
+    {
+      "english": "Chilly evening, draws in.",
+      "slovak": "Chladný večer, prichádza.",
+      "transliteration": "Chladny vecer, prichadza.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T12:57:25.714275"
+    },
+    {
+      "english": "Sunny spell, warms my face.",
+      "slovak": "Slnečný záblesk, hreje mi tvár.",
+      "transliteration": "Slnecny zablesk, hreje mi tvar.",
+      "category": "Weather",
+      "generated_at": "2026-08-02T12:57:25.714276"
     }
   ],
-  "last_updated": "2026-08-02T02:37:20.739900"
+  "last_updated": "2026-08-02T12:57:25.714278"
 }
