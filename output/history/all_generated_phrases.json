@@ -7594,7 +7594,42 @@
       "transliteration": "Otvor uši, slovenčine.",
       "category": "Growth",
       "generated_at": "2026-08-05T02:23:02.669400"
+    },
+    {
+      "english": "Do you sell, local pastries?",
+      "slovak": "Predávate, domáce koláče?",
+      "transliteration": "Preda-va-tye, do-ma-tse ko-la-tse?",
+      "category": "Shopping",
+      "generated_at": "2026-08-05T13:41:44.108259"
+    },
+    {
+      "english": "I'm searching for, something unique.",
+      "slovak": "Hľadám, niečo originálne.",
+      "transliteration": "Hla-dam, nie-tso o-ri-gi-nal-ne.",
+      "category": "Shopping",
+      "generated_at": "2026-08-05T13:41:44.108269"
+    },
+    {
+      "english": "This scarf, is quite lovely.",
+      "slovak": "Táto šatka, je celkom pekná.",
+      "transliteration": "Ta-to shat-ka, ye tsel-kom pek-na.",
+      "category": "Shopping",
+      "generated_at": "2026-08-05T13:41:44.108271"
+    },
+    {
+      "english": "May I pay, by card?",
+      "slovak": "Môžem platiť, kartou?",
+      "transliteration": "Mo-zhem pla-tit, kar-tou?",
+      "category": "Shopping",
+      "generated_at": "2026-08-05T13:41:44.108272"
+    },
+    {
+      "english": "Is this, fresh today?",
+      "slovak": "Je toto, dnes čerstvé?",
+      "transliteration": "Ye to-to, dnes cherst-ve?",
+      "category": "Shopping",
+      "generated_at": "2026-08-05T13:41:44.108274"
     }
   ],
-  "last_updated": "2026-08-05T02:23:02.669402"
+  "last_updated": "2026-08-05T13:41:44.108275"
 }
