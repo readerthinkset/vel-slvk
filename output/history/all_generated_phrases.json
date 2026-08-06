@@ -7734,7 +7734,42 @@
       "transliteration": "Fah-reb-ny pah-pah-guy, nah-po-doh-booh-yeh zvuh-kee.",
       "category": "Animals",
       "generated_at": "2026-08-05T21:06:32.521847"
+    },
+    {
+      "english": "Taste this, the honey is divine.",
+      "slovak": "Ochutnaj toto, med je božský.",
+      "transliteration": "Ochutnaj toto, med ye bozhsky.",
+      "category": "Food",
+      "generated_at": "2026-08-06T02:25:55.500392"
+    },
+    {
+      "english": "Lemonade, so refreshing.",
+      "slovak": "Limonáda, tak osviežujúca.",
+      "transliteration": "Limonada, tak osviezujuca.",
+      "category": "Food",
+      "generated_at": "2026-08-06T02:25:55.500402"
+    },
+    {
+      "english": "A bit of salt, please.",
+      "slovak": "Trochu soli, prosím.",
+      "transliteration": "Trochu soli, prosim.",
+      "category": "Food",
+      "generated_at": "2026-08-06T02:25:55.500404"
+    },
+    {
+      "english": "This coffee, smells amazing.",
+      "slovak": "Táto káva, vonia úžasne.",
+      "transliteration": "Tato kava, vonia uzasne.",
+      "category": "Food",
+      "generated_at": "2026-08-06T02:25:55.500405"
+    },
+    {
+      "english": "Try the olives, they're salty.",
+      "slovak": "Skús olivy, sú slané.",
+      "transliteration": "Skus olivy, su slane.",
+      "category": "Food",
+      "generated_at": "2026-08-06T02:25:55.500406"
     }
   ],
-  "last_updated": "2026-08-05T21:06:32.521849"
+  "last_updated": "2026-08-06T02:25:55.500408"
 }
