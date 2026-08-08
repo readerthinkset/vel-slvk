@@ -8119,7 +8119,42 @@
       "transliteration": "Prey-dee-tye ho-ry, o-pee-tay-tye sa tses-ty.",
       "category": "Purpose",
       "generated_at": "2026-08-08T12:25:11.656069"
+    },
+    {
+      "english": "My, glasses, broke.",
+      "slovak": "Moje, okuliare, sú rozbité.",
+      "transliteration": "Mo-ye, ok-u-lyah-re, soo roz-bee-teh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-08T14:34:44.540061"
+    },
+    {
+      "english": "I, need, quiet, now.",
+      "slovak": "Potrebujem, ticho, hneď.",
+      "transliteration": "Po-tre-bu-yem, tee-kho, hned'.",
+      "category": "Emergency",
+      "generated_at": "2026-08-08T14:34:44.540071"
+    },
+    {
+      "english": "This, is, not normal.",
+      "slovak": "Toto, nie je, normálne.",
+      "transliteration": "To-to, nye ye, nor-mal-ne.",
+      "category": "Emergency",
+      "generated_at": "2026-08-08T14:34:44.540073"
+    },
+    {
+      "english": "I, feel, very weak.",
+      "slovak": "Cítim, sa, veľmi slabo.",
+      "transliteration": "Tzee-teem, sa, vel-mee sla-bo.",
+      "category": "Emergency",
+      "generated_at": "2026-08-08T14:34:44.540074"
+    },
+    {
+      "english": "My, direction, is wrong.",
+      "slovak": "Môj, smer, je, zlý.",
+      "transliteration": "Moy, smer, ye, zlee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-08T14:34:44.540076"
     }
   ],
-  "last_updated": "2026-08-08T12:25:11.656074"
+  "last_updated": "2026-08-08T14:34:44.540077"
 }
