@@ -8329,7 +8329,42 @@
       "transliteration": "Kahzh-dee zvoook, no-vee o-byav.",
       "category": "Success",
       "generated_at": "2026-08-09T14:38:10.737910"
+    },
+    {
+      "english": "Excuse me, what time is it?",
+      "slovak": "Prepáčte, koľko je hodín?",
+      "transliteration": "Pre-pach-te, ko-lko ye ho-din?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-09T17:27:47.984816"
+    },
+    {
+      "english": "Could you repeat that, please?",
+      "slovak": "Môžete to zopakovať, prosím?",
+      "transliteration": "Mo-zhe-te to zo-pa-ko-vat, pro-sim?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-09T17:27:47.984826"
+    },
+    {
+      "english": "I understand, completely.",
+      "slovak": "Rozumiem, úplne.",
+      "transliteration": "Ro-zu-miem, up-lne.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-09T17:27:47.984828"
+    },
+    {
+      "english": "This is very interesting.",
+      "slovak": "Toto je veľmi zaujímavé.",
+      "transliteration": "To-to ye ve-lmi za-u-i-ma-ve.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-09T17:27:47.984829"
+    },
+    {
+      "english": "Where can I find this?",
+      "slovak": "Kde to môžem nájsť?",
+      "transliteration": "Kde to mo-zhem nayst?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-08-09T17:27:47.984831"
     }
   ],
-  "last_updated": "2026-08-09T14:38:10.737912"
+  "last_updated": "2026-08-09T17:27:47.984832"
 }
