@@ -8434,7 +8434,42 @@
       "transliteration": "Ve-do-ma pau-za, vnu-torn-na si-la.",
       "category": "Health",
       "generated_at": "2026-08-10T01:40:22.347906"
+    },
+    {
+      "english": "His back, it carries weight.",
+      "slovak": "Jeho chrbát, nesie bremeno.",
+      "transliteration": "Yey-ho khrbat, nes-ye breh-men-o.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-10T12:43:12.769777"
+    },
+    {
+      "english": "Her legs, they walk far.",
+      "slovak": "Jej nohy, idú ďaleko.",
+      "transliteration": "Yey noh-hy, ee-doo dal-ye-ko.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-10T12:43:12.769788"
+    },
+    {
+      "english": "My elbow, it bumped hard.",
+      "slovak": "Môj lakeť, udrel tvrdo.",
+      "transliteration": "Moy lah-ket, oo-drel tvr-do.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-10T12:43:12.769790"
+    },
+    {
+      "english": "Your wrist, it feels weak.",
+      "slovak": "Tvoje zápästie, cíti sa slabo.",
+      "transliteration": "Tvo-ye zah-pes-tee-eh, tsee-tee sah slab-o.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-10T12:43:12.769792"
+    },
+    {
+      "english": "Her ankle, it turned slightly.",
+      "slovak": "Jej členok, mierne sa otočil.",
+      "transliteration": "Yey chlyen-ok, myer-nye sah oh-toh-chil.",
+      "category": "Body Parts",
+      "generated_at": "2026-08-10T12:43:12.769793"
     }
   ],
-  "last_updated": "2026-08-10T01:40:22.347907"
+  "last_updated": "2026-08-10T12:43:12.769795"
 }
