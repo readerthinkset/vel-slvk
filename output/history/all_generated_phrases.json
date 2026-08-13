@@ -8889,7 +8889,42 @@
       "transliteration": "Hovor po slovensky, rozkvitni.",
       "category": "Motivation",
       "generated_at": "2026-08-13T01:50:13.059144"
+    },
+    {
+      "english": "Could I get, a glass of wine?",
+      "slovak": "Mohol by som, pohár vína?",
+      "transliteration": "Mohol by som, pohar veena?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-13T12:44:10.030040"
+    },
+    {
+      "english": "What's today's, soup special?",
+      "slovak": "Čo je dnes, polievka dňa?",
+      "transliteration": "Tso ye dnes, polievka dnya?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-13T12:44:10.030052"
+    },
+    {
+      "english": "This pasta, is cooked perfectly.",
+      "slovak": "Tieto cestoviny, sú uvarené dokonale.",
+      "transliteration": "Tieto cestoviny, su uvarene dokonale.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-13T12:44:10.030053"
+    },
+    {
+      "english": "We'd like, a table for two.",
+      "slovak": "Chceli by sme, stôl pre dvoch.",
+      "transliteration": "Chceli by sme, stol pre dvoh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-13T12:44:10.030054"
+    },
+    {
+      "english": "Is this, vegetarian?",
+      "slovak": "Je toto, vegetariánske?",
+      "transliteration": "Ye toto, vegetarianske?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-13T12:44:10.030055"
     }
   ],
-  "last_updated": "2026-08-13T01:50:13.059146"
+  "last_updated": "2026-08-13T12:44:10.030057"
 }
