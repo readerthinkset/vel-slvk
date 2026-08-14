@@ -9029,7 +9029,42 @@
       "transliteration": "Ah-keh mee-leh stre-t-noo-tye, nah-oh-zaj.",
       "category": "Greetings",
       "generated_at": "2026-08-13T20:40:47.396936"
+    },
+    {
+      "english": "Sunlight streams, a gentle nudge.",
+      "slovak": "Svieti slnko, jemné šťuchnutie.",
+      "transliteration": "Svee-tee sln-ko, yém-né shtookh-nyoo-tye.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-14T01:48:03.958504"
+    },
+    {
+      "english": "Eyes flutter open, slowly.",
+      "slovak": "Oči sa pomaly otvárajú.",
+      "transliteration": "O-chi sa po-má-ly o-tva-rá-yoo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-14T01:48:03.958512"
+    },
+    {
+      "english": "Warm blanket, a cozy start.",
+      "slovak": "Teplá deka, útulný začiatok.",
+      "transliteration": "Tep-lá dé-ka, oo-too-lnyy za-chee-a-tok.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-14T01:48:03.958513"
+    },
+    {
+      "english": "Birds are singing, a sweet song.",
+      "slovak": "Vtáci spievajú, pekná pieseň.",
+      "transliteration": "Vtá-tsi spee-vá-yoo, pek-ná pee-sen'.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-14T01:48:03.958515"
+    },
+    {
+      "english": "First thought, what's for breakfast?",
+      "slovak": "Prvá myšlienka, čo na raňajky?",
+      "transliteration": "Pr-vá my-shlee-en-ka, cho na ra-naiy-ky?",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-14T01:48:03.958516"
     }
   ],
-  "last_updated": "2026-08-13T20:40:47.396938"
+  "last_updated": "2026-08-14T01:48:03.958518"
 }
