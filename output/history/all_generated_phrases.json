@@ -9344,7 +9344,42 @@
       "transliteration": "Poh-choo-vai poh-zor-nyeh, ooch sah rreekh-leish-yeh.",
       "category": "Education",
       "generated_at": "2026-08-15T17:18:06.178331"
+    },
+    {
+      "english": "The sounds, are like music.",
+      "slovak": "Zvuky, sú ako hudba.",
+      "transliteration": "Zvuky, su ako hudba.",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:20:32.010113"
+    },
+    {
+      "english": "Your accent, finds its charm.",
+      "slovak": "Tvoj prízvuk, nájde svoje čaro.",
+      "transliteration": "Tvoj prizvuk, najde svoje čaro.",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:20:32.010125"
+    },
+    {
+      "english": "Every grammar rule, a puzzle piece.",
+      "slovak": "Každé pravidlo, kúsok skladačky.",
+      "transliteration": "Každe pravidlo, kusok skladacky.",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:20:32.010127"
+    },
+    {
+      "english": "Let Slovak, shape your thoughts.",
+      "slovak": "Nech slovenčina, formuje myšlienky.",
+      "transliteration": "Nech slovenčina, formuje myšlienky.",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:20:32.010129"
+    },
+    {
+      "english": "You are building, a new language.",
+      "slovak": "Staviaš, nový jazyk.",
+      "transliteration": "Staviaš, novy jazyk.",
+      "category": "Success",
+      "generated_at": "2026-08-15T20:20:32.010130"
     }
   ],
-  "last_updated": "2026-08-15T17:18:06.178333"
+  "last_updated": "2026-08-15T20:20:32.010132"
 }
