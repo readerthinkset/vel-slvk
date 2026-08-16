@@ -9379,7 +9379,42 @@
       "transliteration": "Staviaš, novy jazyk.",
       "category": "Success",
       "generated_at": "2026-08-15T20:20:32.010130"
+    },
+    {
+      "english": "Something's burning, fast.",
+      "slovak": "Niečo, horí, rýchlo.",
+      "transliteration": "Nye-shcho, ho-ree, rip-skoh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T01:11:42.110456"
+    },
+    {
+      "english": "I need, a safe place.",
+      "slovak": "Potrebujem, bezpečné miesto.",
+      "transliteration": "Pot-reh-boo-yem, bez-pesh-neh myes-toh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T01:11:42.110474"
+    },
+    {
+      "english": "My head, is spinning.",
+      "slovak": "Hlava, sa mi točí.",
+      "transliteration": "Hla-va, sa mee toh-chee.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T01:11:42.110477"
+    },
+    {
+      "english": "Please, be quiet, now.",
+      "slovak": "Prosím, ticho, teraz.",
+      "transliteration": "Pro-seem, tee-kho, teh-ras.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T01:11:42.110479"
+    },
+    {
+      "english": "I'm feeling, very dizzy.",
+      "slovak": "Cítim, sa veľmi závrate.",
+      "transliteration": "Tsee-teem, sa vel-mee za-vra-teh.",
+      "category": "Emergency",
+      "generated_at": "2026-08-16T01:11:42.110481"
     }
   ],
-  "last_updated": "2026-08-15T20:20:32.010132"
+  "last_updated": "2026-08-16T01:11:42.110483"
 }
