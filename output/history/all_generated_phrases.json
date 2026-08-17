@@ -9659,7 +9659,42 @@
       "transliteration": "mee-ehr-neh pod-razh-deh-nee-yeh, mee-hne sa",
       "category": "Feelings",
       "generated_at": "2026-08-17T17:24:56.256610"
+    },
+    {
+      "english": "Let's get started, team.",
+      "slovak": "Začnime, tím.",
+      "transliteration": "Zachy'nime, ty'm.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:25:04.048669"
+    },
+    {
+      "english": "What's on your mind, friend?",
+      "slovak": "Čo máš na mysli, priateľ?",
+      "transliteration": "Cho ma'sh na mysli, pri'atel'?",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:25:04.048679"
+    },
+    {
+      "english": "That's quite interesting, indeed.",
+      "slovak": "To je celkom zaujímavé, naozaj.",
+      "transliteration": "To ye tselkom zau'jimavye, naozaj.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:25:04.048681"
+    },
+    {
+      "english": "Take a deep breath, slowly.",
+      "slovak": "Zhlboka sa nadýchni, pomaly.",
+      "transliteration": "Zhlboka sa nadýchni, pomaly.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:25:04.048683"
+    },
+    {
+      "english": "We can figure this out.",
+      "slovak": "Toto zvládneme, isto.",
+      "transliteration": "Toto zvla'dneme, isto.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-17T20:25:04.048684"
     }
   ],
-  "last_updated": "2026-08-17T17:24:56.256612"
+  "last_updated": "2026-08-17T20:25:04.048686"
 }
