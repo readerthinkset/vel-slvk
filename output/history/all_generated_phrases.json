@@ -10044,7 +10044,42 @@
       "transliteration": "Nech vash dookh, lee-e-ta vi-so-ko.",
       "category": "Holidays",
       "generated_at": "2026-08-19T20:25:39.553151"
+    },
+    {
+      "english": "My Slovak, is growing.",
+      "slovak": "Moja slovenčina, rastie.",
+      "transliteration": "Moya slovenchina, rastie.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T01:07:29.787635"
+    },
+    {
+      "english": "I embrace, the challenge.",
+      "slovak": "Prijímam, tú výzvu.",
+      "transliteration": "Prijimam, tu vyzvu.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T01:07:29.787645"
+    },
+    {
+      "english": "New sounds, now make sense.",
+      "slovak": "Nové zvuky, dávajú zmysel.",
+      "transliteration": "Nove zvuky, davaju zmysel.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T01:07:29.787647"
+    },
+    {
+      "english": "My mind, opens wider.",
+      "slovak": "Moja myseľ, sa otvára.",
+      "transliteration": "Moya mysel, sa otvara.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T01:07:29.787648"
+    },
+    {
+      "english": "I speak, with growing ease.",
+      "slovak": "Hovorím, s rastúcou ľahkosťou.",
+      "transliteration": "Hovorim, s rastucou lahkostou.",
+      "category": "Confidence",
+      "generated_at": "2026-08-20T01:07:29.787648"
     }
   ],
-  "last_updated": "2026-08-19T20:25:39.553153"
+  "last_updated": "2026-08-20T01:07:29.787650"
 }
