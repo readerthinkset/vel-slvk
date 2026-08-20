@@ -10079,7 +10079,42 @@
       "transliteration": "Hovorim, s rastucou lahkostou.",
       "category": "Confidence",
       "generated_at": "2026-08-20T01:07:29.787648"
+    },
+    {
+      "english": "The fluffy sheepdog, guards the flock.",
+      "slovak": "Poddajný ovčiak, stráži stádo.",
+      "transliteration": "Poddajny ovchiak, strazi stado.",
+      "category": "Animals",
+      "generated_at": "2026-08-20T12:25:00.583726"
+    },
+    {
+      "english": "A sleek panther, prowls the jungle.",
+      "slovak": "Hladký panter, plíži sa džungľou.",
+      "transliteration": "Hladky panter, plizi sa dzunglou.",
+      "category": "Animals",
+      "generated_at": "2026-08-20T12:25:00.583740"
+    },
+    {
+      "english": "The chirping sparrow, lands on a branch.",
+      "slovak": "Čvirikajúci vrabec, pristane na konári.",
+      "transliteration": "Chvirikajuci vrabec, pristane na konari.",
+      "category": "Animals",
+      "generated_at": "2026-08-20T12:25:00.583743"
+    },
+    {
+      "english": "A clumsy bear, searches for honey.",
+      "slovak": "Nemotorný medveď, hľadá med.",
+      "transliteration": "Nemotorny medved, hlada med.",
+      "category": "Animals",
+      "generated_at": "2026-08-20T12:25:00.583746"
+    },
+    {
+      "english": "The flapping bat, hunts at night.",
+      "slovak": "Mávajúci netopier, loví v noci.",
+      "transliteration": "Mavajuci netopier, lovi v noci.",
+      "category": "Animals",
+      "generated_at": "2026-08-20T12:25:00.583748"
     }
   ],
-  "last_updated": "2026-08-20T01:07:29.787650"
+  "last_updated": "2026-08-20T12:25:00.583751"
 }
