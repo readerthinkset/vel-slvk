@@ -10499,7 +10499,42 @@
       "transliteration": "Zmyak-chee oo-khop, oo-vol-nee na-pa-tyeh.",
       "category": "Balance",
       "generated_at": "2026-08-22T14:25:15.530314"
+    },
+    {
+      "english": "May I, have a moment?",
+      "slovak": "Môžem, mať chvíľku?",
+      "transliteration": "Moh-zhem, mah-teev khee-l'ko?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-22T17:17:20.021827"
+    },
+    {
+      "english": "This is, quite filling.",
+      "slovak": "Toto je, celkom sýte.",
+      "transliteration": "To-to ye, tsehl-kom see-teh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-22T17:17:20.021840"
+    },
+    {
+      "english": "Is the, fish fresh?",
+      "slovak": "Je tá, ryba čerstvá?",
+      "transliteration": "Ye tah, rih-bah cher-stvo-ah?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-22T17:17:20.021842"
+    },
+    {
+      "english": "I'd like, something light.",
+      "slovak": "Dal by som, niečo ľahké.",
+      "transliteration": "Dahl bih som, nyeh-choh lyah-kheh.",
+      "category": "Restaurant",
+      "generated_at": "2026-08-22T17:17:20.021844"
+    },
+    {
+      "english": "Could you, bring the bill?",
+      "slovak": "Môžete, priniesť účet?",
+      "transliteration": "Moh-zhe-teh, preeh-nyeh-st' ooch-et?",
+      "category": "Restaurant",
+      "generated_at": "2026-08-22T17:17:20.021845"
     }
   ],
-  "last_updated": "2026-08-22T14:25:15.530316"
+  "last_updated": "2026-08-22T17:17:20.021847"
 }
