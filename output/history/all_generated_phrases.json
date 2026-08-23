@@ -10639,7 +10639,42 @@
       "transliteration": "Moment spojenia, krásne.",
       "category": "Greetings",
       "generated_at": "2026-08-23T12:18:48.509350"
+    },
+    {
+      "english": "One, two, buttons, sewn.",
+      "slovak": "Jedna, dva, gombíky, prišité.",
+      "transliteration": "Jedna, dva, gombíky, prišité.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T14:26:48.312946"
+    },
+    {
+      "english": "Three cheers, for learning.",
+      "slovak": "Tri potlesky, za učenie.",
+      "transliteration": "Tri potlesky, za učenie.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T14:26:48.312957"
+    },
+    {
+      "english": "Four walls, a cozy room.",
+      "slovak": "Štyri steny, útulná izba.",
+      "transliteration": "Štyri steny, útulná izba.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T14:26:48.312958"
+    },
+    {
+      "english": "Five fingers, can you count?",
+      "slovak": "Päť prstov, spočítaš?",
+      "transliteration": "Päť prstov, spočítaš?",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T14:26:48.312960"
+    },
+    {
+      "english": "Six eggs, for breakfast.",
+      "slovak": "Šesť vajec, na raňajky.",
+      "transliteration": "Šesť vajec, na raňajky.",
+      "category": "Numbers",
+      "generated_at": "2026-08-23T14:26:48.312961"
     }
   ],
-  "last_updated": "2026-08-23T12:18:48.509352"
+  "last_updated": "2026-08-23T14:26:48.312963"
 }
