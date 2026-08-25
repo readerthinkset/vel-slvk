@@ -10954,7 +10954,42 @@
       "transliteration": "Prvá námraza, namaľovala trávu.",
       "category": "Weather",
       "generated_at": "2026-08-25T01:09:26.461691"
+    },
+    {
+      "english": "Morning light, a gentle glow.",
+      "slovak": "Ranné svetlo, jemný jas.",
+      "transliteration": "Ran-neh svet-lo, yem-niy yas.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-25T12:26:30.083943"
+    },
+    {
+      "english": "The alarm calls, time to rise.",
+      "slovak": "Budík zvoní, čas vstať.",
+      "transliteration": "Boo-deek zvoh-nee, chas vstaht.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-25T12:26:30.083951"
+    },
+    {
+      "english": "Open the curtains, see the day.",
+      "slovak": "Otvoriť záclony, vidieť deň.",
+      "transliteration": "Ot-voh-reet' za-kloh-ni, vee-dyet' dyen'.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-25T12:26:30.083953"
+    },
+    {
+      "english": "A warm drink, to start anew.",
+      "slovak": "Teplý nápoj, začať znovu.",
+      "transliteration": "Tep-lee naa-poy, cha-chat' zno-voo.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-25T12:26:30.083955"
+    },
+    {
+      "english": "Stretch your limbs, feel awake.",
+      "slovak": "Preťahuj končatiny, cítiť sa prebudený.",
+      "transliteration": "Preh-tah-hoo-y kon-cha-ti-ni, cee-teet' sa preh-boo-deh-nee.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-25T12:26:30.083956"
     }
   ],
-  "last_updated": "2026-08-25T01:09:26.461692"
+  "last_updated": "2026-08-25T12:26:30.083958"
 }
