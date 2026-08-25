@@ -10919,7 +10919,42 @@
       "transliteration": "Ochutnaj ticho, medzi vetami.",
       "category": "Wisdom",
       "generated_at": "2026-08-24T20:28:19.464392"
+    },
+    {
+      "english": "Sky, turning gray, hints of storm.",
+      "slovak": "Obloha, sivie, naznačuje búrku.",
+      "transliteration": "Obloha, sivie, naznačuje búrku.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T01:09:26.461671"
+    },
+    {
+      "english": "Sun peeked, through clouds, a surprise.",
+      "slovak": "Slnko nakuklo, spoza mrakov, prekvapenie.",
+      "transliteration": "Slnko nakuklo, spoza mrakov, prekvapenie.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T01:09:26.461685"
+    },
+    {
+      "english": "Wind picked up, rustling leaves.",
+      "slovak": "Vietor zosilnel, šušťalo lístie.",
+      "transliteration": "Vietor zosilnel, šušťalo lístie.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T01:09:26.461687"
+    },
+    {
+      "english": "Heavy downpour, soaked us quickly.",
+      "slovak": "Intenzívny lejak, rýchlo nás zmáčal.",
+      "transliteration": "Intenzívny lejak, rýchlo nás zmáčal.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T01:09:26.461689"
+    },
+    {
+      "english": "First frost, painted the grass.",
+      "slovak": "Prvá námraza, namaľovala trávu.",
+      "transliteration": "Prvá námraza, namaľovala trávu.",
+      "category": "Weather",
+      "generated_at": "2026-08-25T01:09:26.461691"
     }
   ],
-  "last_updated": "2026-08-24T20:28:19.464393"
+  "last_updated": "2026-08-25T01:09:26.461692"
 }
