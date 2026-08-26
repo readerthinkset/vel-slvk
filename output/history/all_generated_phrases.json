@@ -11129,7 +11129,42 @@
       "transliteration": "Jednoduché jedlá, veselá nálada.",
       "category": "Health",
       "generated_at": "2026-08-26T01:11:36.650459"
+    },
+    {
+      "english": "Warm milk, so comforting.",
+      "slovak": "Teplé mlieko, tak upokojujúce.",
+      "transliteration": "Tep-leh mlee-ko, tak oo-ka-poy-yoo-tse.",
+      "category": "Food",
+      "generated_at": "2026-08-26T12:28:52.440612"
+    },
+    {
+      "english": "Ripe tomato, tastes like sunshine.",
+      "slovak": "Zrelé paradajky, chutia ako slnko.",
+      "transliteration": "Zre-leh pa-ra-daay-kee, khoo-tya ko-slohn-ko.",
+      "category": "Food",
+      "generated_at": "2026-08-26T12:28:52.440621"
+    },
+    {
+      "english": "Crunchy nuts, a good snack.",
+      "slovak": "Chrumkavé orechy, dobrá pochúťka.",
+      "transliteration": "Khroom-ka-veh o-re-khee, dob-ra po-khooch-ka.",
+      "category": "Food",
+      "generated_at": "2026-08-26T12:28:52.440623"
+    },
+    {
+      "english": "Sweet melon, refreshing summer treat.",
+      "slovak": "Sladký melón, osviežujúca letná pochúťka.",
+      "transliteration": "Slad-kee me-lon, osv-ee-zhoo-yoo-tsa let-na po-khooch-ka.",
+      "category": "Food",
+      "generated_at": "2026-08-26T12:28:52.440625"
+    },
+    {
+      "english": "Savory cheese, melts in mouth.",
+      "slovak": "Výborný syr, rozplýva sa v ústach.",
+      "transliteration": "Vee-bor-nee seer, roz-plee-va sa v oos-takh.",
+      "category": "Food",
+      "generated_at": "2026-08-26T12:28:52.440626"
     }
   ],
-  "last_updated": "2026-08-26T01:11:36.650460"
+  "last_updated": "2026-08-26T12:28:52.440627"
 }
