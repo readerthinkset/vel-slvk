@@ -11514,7 +11514,42 @@
       "transliteration": "Ba-bich-ki-ne po-hlad-ye-nye, chist-a las-ka.",
       "category": "Family Terms",
       "generated_at": "2026-08-28T23:28:51.925247"
+    },
+    {
+      "english": "My Slovak is blooming, beautifully.",
+      "slovak": "Môj slovenčina, krásne kvitne.",
+      "transliteration": "Moy slovenchina, krasne kvitne.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:51:58.459754"
+    },
+    {
+      "english": "New sounds, I'm mastering.",
+      "slovak": "Nové zvuky, zvládam.",
+      "transliteration": "Nove zvuki, zvladam.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:51:58.459762"
+    },
+    {
+      "english": "This language, it calls me.",
+      "slovak": "Tento jazyk, volá ma.",
+      "transliteration": "Tento yazyk, vola ma.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:51:58.459764"
+    },
+    {
+      "english": "I connect, with words.",
+      "slovak": "Spojím sa, so slovami.",
+      "transliteration": "Spojim sa, so slovami.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:51:58.459765"
+    },
+    {
+      "english": "My thoughts, in Slovak.",
+      "slovak": "Moje myšlienky, v slovenčine.",
+      "transliteration": "Moje myslienky, v slovenchine.",
+      "category": "Confidence",
+      "generated_at": "2026-08-29T00:51:58.459766"
     }
   ],
-  "last_updated": "2026-08-28T23:28:51.925249"
+  "last_updated": "2026-08-29T00:51:58.459768"
 }
