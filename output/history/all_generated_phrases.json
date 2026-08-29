@@ -11549,7 +11549,42 @@
       "transliteration": "Moje myslienky, v slovenchine.",
       "category": "Confidence",
       "generated_at": "2026-08-29T00:51:58.459766"
+    },
+    {
+      "english": "Let's catch up, soon.",
+      "slovak": "Stretneme sa, čoskoro.",
+      "transliteration": "Stretneme sa, choskoró.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T02:43:01.991990"
+    },
+    {
+      "english": "That's quite something, wow.",
+      "slovak": "To je niečo, naozaj.",
+      "transliteration": "To je niečo, naozaj.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T02:43:01.992000"
+    },
+    {
+      "english": "Just a thought, maybe.",
+      "slovak": "Len taká myšlienka, možno.",
+      "transliteration": "Len taká myšlienka, možno.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T02:43:01.992002"
+    },
+    {
+      "english": "Don't overthink it, friend.",
+      "slovak": "Nemysli na to, priateľ.",
+      "transliteration": "Nemysli na to, priateľ.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T02:43:01.992003"
+    },
+    {
+      "english": "This is quite enjoyable, yes.",
+      "slovak": "Toto je celkom príjemné, áno.",
+      "transliteration": "Toto je celkom príjemné, áno.",
+      "category": "Common Expressions",
+      "generated_at": "2026-08-29T02:43:01.992004"
     }
   ],
-  "last_updated": "2026-08-29T00:51:58.459768"
+  "last_updated": "2026-08-29T02:43:01.992006"
 }
