@@ -11899,7 +11899,42 @@
       "transliteration": "Si majstrovske dielo, vyvijajuce sa.",
       "category": "Strength",
       "generated_at": "2026-08-30T19:38:03.852471"
+    },
+    {
+      "english": "First light, a soft whisper.",
+      "slovak": "Prvé svetlo, tichý šepot.",
+      "transliteration": "Prve svetlo, tichy shepot.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-30T22:24:27.307641"
+    },
+    {
+      "english": "Slow blink, the world awakes.",
+      "slovak": "Pomaly žmurkni, svet sa prebudí.",
+      "transliteration": "Pomaly zhmurkni, svet sa prebudi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-30T22:24:27.307648"
+    },
+    {
+      "english": "Warm sheets, a gentle pull.",
+      "slovak": "Teplé plachty, jemné priťahovanie.",
+      "transliteration": "Teple plachty, jemne pritahovanie.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-30T22:24:27.307650"
+    },
+    {
+      "english": "Fresh air, through the window.",
+      "slovak": "Svieži vzduch, cez okno prúdi.",
+      "transliteration": "Sviezi vzduch, cez okno prudi.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-30T22:24:27.307651"
+    },
+    {
+      "english": "Yawn wide, greet the dawn.",
+      "slovak": "Zívni zhlboka, pozdrav úsvit.",
+      "transliteration": "Zivni zhlboka, pozdrav usvit.",
+      "category": "Daily Routine",
+      "generated_at": "2026-08-30T22:24:27.307652"
     }
   ],
-  "last_updated": "2026-08-30T19:38:03.852473"
+  "last_updated": "2026-08-30T22:24:27.307654"
 }
