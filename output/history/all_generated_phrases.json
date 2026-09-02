@@ -12389,7 +12389,42 @@
       "transliteration": "Silny byk, dupotom udiera zem.",
       "category": "Animals",
       "generated_at": "2026-09-02T17:44:34.487409"
+    },
+    {
+      "english": "This path, winds through the hills.",
+      "slovak": "Táto cesta, sa vinie kopcami.",
+      "transliteration": "Tahta chesta, sa vinye koptsami.",
+      "category": "Travel",
+      "generated_at": "2026-09-02T19:37:58.622689"
+    },
+    {
+      "english": "A moment, of pure calm.",
+      "slovak": "Okamih, čistej pohody.",
+      "transliteration": "Okamih, chistej pohody.",
+      "category": "Travel",
+      "generated_at": "2026-09-02T19:37:58.622704"
+    },
+    {
+      "english": "Let's explore, this tiny village.",
+      "slovak": "Preskúmajme, túto drobnú dedinku.",
+      "transliteration": "Preskúmajme, tuto drobnú dedinku.",
+      "category": "Travel",
+      "generated_at": "2026-09-02T19:37:58.622706"
+    },
+    {
+      "english": "The air, smells of pine.",
+      "slovak": "Vzduch, vonia ihličím.",
+      "transliteration": "Vzduh, vonya ihlichím.",
+      "category": "Travel",
+      "generated_at": "2026-09-02T19:37:58.622708"
+    },
+    {
+      "english": "Sunlight, through the leaves.",
+      "slovak": "Slnko, cez listy.",
+      "transliteration": "Slnko, cez listy.",
+      "category": "Travel",
+      "generated_at": "2026-09-02T19:37:58.622709"
     }
   ],
-  "last_updated": "2026-09-02T17:44:34.487411"
+  "last_updated": "2026-09-02T19:37:58.622711"
 }
