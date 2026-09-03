@@ -12599,7 +12599,42 @@
       "transliteration": "Poznat ta, je dar.",
       "category": "Friendship",
       "generated_at": "2026-09-03T19:37:47.205348"
+    },
+    {
+      "english": "My family, a warm embrace.",
+      "slovak": "Moja rodina, vrúcne objatie.",
+      "transliteration": "Moya rodina, vruchne obiatie.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-03T22:18:09.336722"
+    },
+    {
+      "english": "Dad's strong shoulders, for me.",
+      "slovak": "Ockove silné plecia, pre mňa.",
+      "transliteration": "Ockove silne plecia, pre mna.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-03T22:18:09.336732"
+    },
+    {
+      "english": "Mom's gentle whisper, so kind.",
+      "slovak": "Mamin tichý šepot, taký milý.",
+      "transliteration": "Mamin tichy sepot, taky mily.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-03T22:18:09.336734"
+    },
+    {
+      "english": "Brother, always ready, to help.",
+      "slovak": "Brat, vždy pripravený, pomôcť.",
+      "transliteration": "Brat, vzdy pripraveny, pomoct.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-03T22:18:09.336735"
+    },
+    {
+      "english": "Sister's bright eyes, full of life.",
+      "slovak": "Sestrine žiarivé oči, plné života.",
+      "transliteration": "Sestrine ziarive oci, plne zivota.",
+      "category": "Family Terms",
+      "generated_at": "2026-09-03T22:18:09.336737"
     }
   ],
-  "last_updated": "2026-09-03T19:37:47.205349"
+  "last_updated": "2026-09-03T22:18:09.336738"
 }
