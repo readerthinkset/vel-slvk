@@ -12774,7 +12774,42 @@
       "transliteration": "Toto tričko, ma vtipnú potlač.",
       "category": "Clothes",
       "generated_at": "2026-09-04T19:21:51.921874"
+    },
+    {
+      "english": "A light fog, drifts in.",
+      "slovak": "Ľahká hmla, sa vznáša.",
+      "transliteration": "Lyah-kha hmla, sa vzná-sha.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:07:48.593804"
+    },
+    {
+      "english": "The sky, is darkening.",
+      "slovak": "Obloha, sa tmavne.",
+      "transliteration": "O-blo-ha, sa tma-vne.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:07:48.593816"
+    },
+    {
+      "english": "Warm sun, on my shoulders.",
+      "slovak": "Teplé slnko, na ramenách.",
+      "transliteration": "Tep-lé sln-ko, na ra-me-nách.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:07:48.593818"
+    },
+    {
+      "english": "A sudden gust, of wind.",
+      "slovak": "Náhly poryv, vetra.",
+      "transliteration": "Ná-hly po-ryv, ve-tra.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:07:48.593819"
+    },
+    {
+      "english": "The air, feels heavy.",
+      "slovak": "Vzduch, je ťažký.",
+      "transliteration": "Vzduch, je tyaž-ký.",
+      "category": "Weather",
+      "generated_at": "2026-09-04T22:07:48.593821"
     }
   ],
-  "last_updated": "2026-09-04T19:21:51.921876"
+  "last_updated": "2026-09-04T22:07:48.593823"
 }
