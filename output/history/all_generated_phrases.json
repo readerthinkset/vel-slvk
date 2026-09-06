@@ -13054,7 +13054,42 @@
       "transliteration": "Mozem si, to vyskusat?",
       "category": "Shopping",
       "generated_at": "2026-09-06T14:35:38.889270"
+    },
+    {
+      "english": "Seven hills, ancient city.",
+      "slovak": "Sedem kopcov, staré mesto.",
+      "transliteration": "Sedem kopcov, staré mesto.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T16:46:46.010401"
+    },
+    {
+      "english": "Eight notes, a melody.",
+      "slovak": "Osem nôt, melódia.",
+      "transliteration": "Osem nôt, melódia.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T16:46:46.010415"
+    },
+    {
+      "english": "Nine planets, orbit sun.",
+      "slovak": "Deväť planét, obieha slnko.",
+      "transliteration": "Deväť planét, obieha slnko.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T16:46:46.010417"
+    },
+    {
+      "english": "Ten fingers, tap lightly.",
+      "slovak": "Desať prstov, ľahko klopú.",
+      "transliteration": "Desať prstov, ľahko klopú.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T16:46:46.010418"
+    },
+    {
+      "english": "Eleven players, on the field.",
+      "slovak": "Jedenásť hráčov, na ihrisku.",
+      "transliteration": "Jedenásť hráčov, na ihrisku.",
+      "category": "Numbers",
+      "generated_at": "2026-09-06T16:46:46.010420"
     }
   ],
-  "last_updated": "2026-09-06T14:35:38.889272"
+  "last_updated": "2026-09-06T16:46:46.010422"
 }
