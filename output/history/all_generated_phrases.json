@@ -13124,7 +13124,42 @@
       "transliteration": "Let-mee poh-lhad, po-tom meez-ne.",
       "category": "Time",
       "generated_at": "2026-09-06T18:50:31.087284"
+    },
+    {
+      "english": "Give it a go, speak it out.",
+      "slovak": "Skúste to, povedzte to.",
+      "transliteration": "Skus-te to, pove-dte to.",
+      "category": "Directions",
+      "generated_at": "2026-09-06T21:58:00.432791"
+    },
+    {
+      "english": "Let's hear it, try your best.",
+      "slovak": "Počujeme, skúste najlepšie.",
+      "transliteration": "Po-chu-ye-me, skus-te naj-lep-she.",
+      "category": "Directions",
+      "generated_at": "2026-09-06T21:58:00.432802"
+    },
+    {
+      "english": "Take a breath, then speak.",
+      "slovak": "Nadýchnite sa, potom hovorte.",
+      "transliteration": "Na-dych-ni-te sa, po-tom ho-vor-te.",
+      "category": "Directions",
+      "generated_at": "2026-09-06T21:58:00.432804"
+    },
+    {
+      "english": "What's the word? Say it now.",
+      "slovak": "Aké je slovo? Povedzte hneď.",
+      "transliteration": "A-ke ye slo-vo? Po-ve-dte hned'.",
+      "category": "Directions",
+      "generated_at": "2026-09-06T21:58:00.432805"
+    },
+    {
+      "english": "Just a moment, then speak.",
+      "slovak": "Len chvíľku, potom hovorte.",
+      "transliteration": "Len chvil'-ku, po-tom ho-vor-te.",
+      "category": "Directions",
+      "generated_at": "2026-09-06T21:58:00.432807"
     }
   ],
-  "last_updated": "2026-09-06T18:50:31.087286"
+  "last_updated": "2026-09-06T21:58:00.432809"
 }
