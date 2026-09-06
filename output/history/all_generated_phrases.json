@@ -13089,7 +13089,42 @@
       "transliteration": "Jedenásť hráčov, na ihrisku.",
       "category": "Numbers",
       "generated_at": "2026-09-06T16:46:46.010420"
+    },
+    {
+      "english": "A blink, and it's gone.",
+      "slovak": "Mihnutie oka, a je preč.",
+      "transliteration": "Mee-hoo-tye o-ka, a ye preh.",
+      "category": "Time",
+      "generated_at": "2026-09-06T18:50:31.087269"
+    },
+    {
+      "english": "Yesterday, a memory.",
+      "slovak": "Včera, spomienka.",
+      "transliteration": "Vche-ra, spo-mee-nka.",
+      "category": "Time",
+      "generated_at": "2026-09-06T18:50:31.087280"
+    },
+    {
+      "english": "Tomorrow, a dream.",
+      "slovak": "Zajtra, sen.",
+      "transliteration": "Zay-tra, sen.",
+      "category": "Time",
+      "generated_at": "2026-09-06T18:50:31.087281"
+    },
+    {
+      "english": "This very second, matters.",
+      "slovak": "Tento presný okamih, má cenu.",
+      "transliteration": "Ten-to pres-nee o-ka-meeh, maa tse-noo.",
+      "category": "Time",
+      "generated_at": "2026-09-06T18:50:31.087283"
+    },
+    {
+      "english": "A fleeting glimpse, then fading.",
+      "slovak": "Letmý pohľad, potom mizne.",
+      "transliteration": "Let-mee poh-lhad, po-tom meez-ne.",
+      "category": "Time",
+      "generated_at": "2026-09-06T18:50:31.087284"
     }
   ],
-  "last_updated": "2026-09-06T16:46:46.010422"
+  "last_updated": "2026-09-06T18:50:31.087286"
 }
