@@ -13264,7 +13264,42 @@
       "transliteration": "Slo-ven-ske my-shli-en-ky, vzli-e-ta-yoo.",
       "category": "Growth",
       "generated_at": "2026-09-07T18:39:11.923441"
+    },
+    {
+      "english": "A striped tiger, stalks through shadows.",
+      "slovak": "Pruhovaný tiger, sa plíži tieňmi.",
+      "transliteration": "Pruh-o-va-ny ti-ger, sa pli-zhi tie-nmi.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:41.409131"
+    },
+    {
+      "english": "The tiny ant, carries a crumb.",
+      "slovak": "Drobný mravec, nesie omrvinku.",
+      "transliteration": "Dro-bny mra-vec, ne-sie om-ru-vin-ku.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:41.409140"
+    },
+    {
+      "english": "A bright butterfly, flutters by.",
+      "slovak": "Svetlý motýľ, poletuje okolo.",
+      "transliteration": "Svet-ly mo-tyľ, po-le-tu-je o-ko-lo.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:41.409142"
+    },
+    {
+      "english": "The slow tortoise, carries its home.",
+      "slovak": "Pomalá korytnačka, nesie svoj domov.",
+      "transliteration": "Po-ma-la ko-ryt-nač-ka, ne-sie svoj do-mov.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:41.409144"
+    },
+    {
+      "english": "A jumping frog, croaks in pond.",
+      "slovak": "Skočná žaba, kváka v jazierku.",
+      "transliteration": "Skoč-na ža-ba, kvá-ka v ja-zier-ku.",
+      "category": "Animals",
+      "generated_at": "2026-09-07T20:21:41.409145"
     }
   ],
-  "last_updated": "2026-09-07T18:39:11.923443"
+  "last_updated": "2026-09-07T20:21:41.409147"
 }
