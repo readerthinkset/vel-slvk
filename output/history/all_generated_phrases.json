@@ -13334,7 +13334,42 @@
       "transliteration": "Šepkaj tajomstvá, po slovensky.",
       "category": "Purpose",
       "generated_at": "2026-09-07T22:31:18.482334"
+    },
+    {
+      "english": "Watch out, ahead!",
+      "slovak": "Pozor, vpredu!",
+      "transliteration": "Pozor, vpredu!",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T15:38:12.673482"
+    },
+    {
+      "english": "Danger, near here.",
+      "slovak": "Nebezpečenstvo, blízko.",
+      "transliteration": "Nebezpečenstvo, blízko.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T15:38:12.673492"
+    },
+    {
+      "english": "Don't touch, that.",
+      "slovak": "Nedotýkaj sa, toho.",
+      "transliteration": "Nedotykaj sa, toho.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T15:38:12.673494"
+    },
+    {
+      "english": "Fire, burning, quickly.",
+      "slovak": "Oheň, horí, rýchlo.",
+      "transliteration": "Oheň, horí, rýchlo.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T15:38:12.673495"
+    },
+    {
+      "english": "I am lost, truly.",
+      "slovak": "Som stratený, naozaj.",
+      "transliteration": "Som stratený, naozaj.",
+      "category": "Emergency",
+      "generated_at": "2026-09-08T15:38:12.673496"
     }
   ],
-  "last_updated": "2026-09-07T22:31:18.482335"
+  "last_updated": "2026-09-08T15:38:12.673497"
 }
