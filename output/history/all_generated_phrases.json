@@ -13509,7 +13509,42 @@
       "transliteration": "Dobre pocity, stupaju nahor.",
       "category": "Joy",
       "generated_at": "2026-09-09T15:31:47.239207"
+    },
+    {
+      "english": "This train, is departing, soon.",
+      "slovak": "Tento vlak, odchádza, čoskoro.",
+      "transliteration": "Tento vlak, odchádza, čoskoro.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:36:05.898733"
+    },
+    {
+      "english": "Can I, buy a ticket, please?",
+      "slovak": "Môžem si, kúpiť lístok, prosím?",
+      "transliteration": "Môžem si, kúpiť lístok, prosím?",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:36:05.898744"
+    },
+    {
+      "english": "Where is, the nearest, bus stop?",
+      "slovak": "Kde je, najbližšia, autobusová zastávka?",
+      "transliteration": "Kde je, najbližšia, autobusová zastávka?",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:36:05.898747"
+    },
+    {
+      "english": "This cafe, has great, coffee.",
+      "slovak": "Táto kaviareň, má skvelú, kávu.",
+      "transliteration": "Táto kaviareň, má skvelú, kávu.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:36:05.898748"
+    },
+    {
+      "english": "I need, directions, to the hotel.",
+      "slovak": "Potrebujem, smer, do hotela.",
+      "transliteration": "Potrebujem, smer, do hotela.",
+      "category": "Travel",
+      "generated_at": "2026-09-09T19:36:05.898750"
     }
   ],
-  "last_updated": "2026-09-09T15:31:47.239209"
+  "last_updated": "2026-09-09T19:36:05.898752"
 }
