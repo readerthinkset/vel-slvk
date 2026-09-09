@@ -13544,7 +13544,42 @@
       "transliteration": "Potrebujem, smer, do hotela.",
       "category": "Travel",
       "generated_at": "2026-09-09T19:36:05.898750"
+    },
+    {
+      "english": "Wild berries ripen, sweet promise.",
+      "slovak": "Lesné plody dozrievajú, sladký sľub.",
+      "transliteration": "Les-nye ploh-dee doh-zree-yah-yoo, slahd-kee shlub.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T22:16:42.964237"
+    },
+    {
+      "english": "Owl hoots, night awakens.",
+      "slovak": "Sova húka, noc sa budí.",
+      "transliteration": "Soh-vah hoo-kah, nohts sah boo-dee.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T22:16:42.964248"
+    },
+    {
+      "english": "Roots grip, the firm soil.",
+      "slovak": "Korene držia, pevnú zem.",
+      "transliteration": "Koh-reh-nyee dzeer-zha, pev-noo zem.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T22:16:42.964250"
+    },
+    {
+      "english": "Dragonflies dance, over the pond.",
+      "slovak": "Vážky tancujú, nad jazierkom.",
+      "transliteration": "Vahzh-kee tahn-tsoo-yoo, nahd yah-zee-er-kom.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T22:16:42.964252"
+    },
+    {
+      "english": "A lone wolf howls, to the moon.",
+      "slovak": "Osamelý vlk vyle, na mesiac.",
+      "transliteration": "Oh-sah-meh-lee vlk vih-leh, nah meh-see-ahhts.",
+      "category": "Nature",
+      "generated_at": "2026-09-09T22:16:42.964253"
     }
   ],
-  "last_updated": "2026-09-09T19:36:05.898752"
+  "last_updated": "2026-09-09T22:16:42.964255"
 }
