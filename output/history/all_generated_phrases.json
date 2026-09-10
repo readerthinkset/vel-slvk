@@ -13649,7 +13649,42 @@
       "transliteration": "Ten-toh rit-mus, tyah-ha tyah dnu.",
       "category": "Music",
       "generated_at": "2026-09-10T15:26:57.096411"
+    },
+    {
+      "english": "My eye, it sees light.",
+      "slovak": "Moje oko, vidí svetlo.",
+      "transliteration": "Mo-ye o-ko, vi-di svet-lo.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-10T17:34:27.631798"
+    },
+    {
+      "english": "His ear, it hears music.",
+      "slovak": "Jeho ucho, počuje hudbu.",
+      "transliteration": "Ye-ho u-cho, po-chu-ye hud-bu.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-10T17:34:27.631812"
+    },
+    {
+      "english": "Her nose, it smells flowers.",
+      "slovak": "Jej nos, cíti kvety.",
+      "transliteration": "Yey nos, ci-ti kve-ty.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-10T17:34:27.631814"
+    },
+    {
+      "english": "Your mouth, it speaks truth.",
+      "slovak": "Tvoja ústa, hovoria pravdu.",
+      "transliteration": "Tvo-ya us-ta, ho-vo-rya prav-du.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-10T17:34:27.631816"
+    },
+    {
+      "english": "My hand, it holds a pen.",
+      "slovak": "Moja ruka, drží pero.",
+      "transliteration": "Mo-ya ru-ka, dr-zhi pe-ro.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-10T17:34:27.631818"
     }
   ],
-  "last_updated": "2026-09-10T15:26:57.096413"
+  "last_updated": "2026-09-10T17:34:27.631819"
 }
