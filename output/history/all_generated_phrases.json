@@ -13964,7 +13964,42 @@
       "transliteration": "Spolu, budujeme sny.",
       "category": "Friendship",
       "generated_at": "2026-09-12T03:11:24.917318"
+    },
+    {
+      "english": "Hello there, welcome.",
+      "slovak": "Ahoj, vitaj.",
+      "transliteration": "A-hoy, vi-tai.",
+      "category": "Greetings",
+      "generated_at": "2026-09-12T14:37:21.311641"
+    },
+    {
+      "english": "A good start, to the day.",
+      "slovak": "Dobrý štart, do dňa.",
+      "transliteration": "Dob-ri sh-tart, do dnya.",
+      "category": "Greetings",
+      "generated_at": "2026-09-12T14:37:21.311654"
+    },
+    {
+      "english": "So glad, you're here.",
+      "slovak": "Tak rád, že si tu.",
+      "transliteration": "Tak rad, zhe si tu.",
+      "category": "Greetings",
+      "generated_at": "2026-09-12T14:37:21.311655"
+    },
+    {
+      "english": "What a bright moment.",
+      "slovak": "Aký jasný moment.",
+      "transliteration": "A-ki yash-ni mo-ment.",
+      "category": "Greetings",
+      "generated_at": "2026-09-12T14:37:21.311656"
+    },
+    {
+      "english": "See you, around.",
+      "slovak": "Dovidenia, čoskoro.",
+      "transliteration": "Do-vi-den-ya, chos-ko-ro.",
+      "category": "Greetings",
+      "generated_at": "2026-09-12T14:37:21.311657"
     }
   ],
-  "last_updated": "2026-09-12T03:11:24.917320"
+  "last_updated": "2026-09-12T14:37:21.311659"
 }
