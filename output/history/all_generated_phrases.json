@@ -14139,7 +14139,42 @@
       "transliteration": "Ta kniha, skryva vela tajemstiev.",
       "category": "Basic Phrases",
       "generated_at": "2026-09-13T03:14:14.512053"
+    },
+    {
+      "english": "This wine, has a good year.",
+      "slovak": "Toto víno, má dobrý ročník.",
+      "transliteration": "Toto vee-no, ma dobree roch-neek.",
+      "category": "Shopping",
+      "generated_at": "2026-09-13T15:16:20.087085"
+    },
+    {
+      "english": "I need, a small bag.",
+      "slovak": "Potrebujem, malú tašku.",
+      "transliteration": "Potrebuyem, maloo tash-koo.",
+      "category": "Shopping",
+      "generated_at": "2026-09-13T15:16:20.087097"
+    },
+    {
+      "english": "Is this, for everyday wear?",
+      "slovak": "Je toto, na bežné nosenie?",
+      "transliteration": "Ye toto, na bezh-ne nos-e-nye?",
+      "category": "Shopping",
+      "generated_at": "2026-09-13T15:16:20.087099"
+    },
+    {
+      "english": "Show me, the woven baskets.",
+      "slovak": "Ukážte mi, tie tkané košíky.",
+      "transliteration": "Oo-kazh-te mee, tye tka-ne ko-shee-kee.",
+      "category": "Shopping",
+      "generated_at": "2026-09-13T15:16:20.087100"
+    },
+    {
+      "english": "What's this, made of?",
+      "slovak": "Z čoho je, toto vyrobené?",
+      "transliteration": "Z cho-ho ye, toto vy-ro-be-ne?",
+      "category": "Shopping",
+      "generated_at": "2026-09-13T15:16:20.087100"
     }
   ],
-  "last_updated": "2026-09-13T03:14:14.512055"
+  "last_updated": "2026-09-13T15:16:20.087102"
 }
