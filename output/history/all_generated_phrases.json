@@ -14174,7 +14174,42 @@
       "transliteration": "Z cho-ho ye, toto vy-ro-be-ne?",
       "category": "Shopping",
       "generated_at": "2026-09-13T15:16:20.087100"
+    },
+    {
+      "english": "Golden toast, with butter.",
+      "slovak": "Zlatý toast, s maslom.",
+      "transliteration": "Zla-tee toast, s mas-lom.",
+      "category": "Food",
+      "generated_at": "2026-09-13T17:21:17.857763"
+    },
+    {
+      "english": "Fragrant herbs, for cooking.",
+      "slovak": "Voňavé bylinky, na varenie.",
+      "transliteration": "Vo-na-ve by-lin-ki, na va-re-nye.",
+      "category": "Food",
+      "generated_at": "2026-09-13T17:21:17.857776"
+    },
+    {
+      "english": "Chilled water, very thirst-quenching.",
+      "slovak": "Chladená voda, osviežujúca.",
+      "transliteration": "Chla-de-na vo-da, osvie-zhu-yu-tsa.",
+      "category": "Food",
+      "generated_at": "2026-09-13T17:21:17.857778"
+    },
+    {
+      "english": "Plump grapes, sweet and tasty.",
+      "slovak": "Baculaté hrozno, sladké a chutné.",
+      "transliteration": "Ba-cu-la-te hroz-no, slad-ke a chut-ne.",
+      "category": "Food",
+      "generated_at": "2026-09-13T17:21:17.857779"
+    },
+    {
+      "english": "Smoked salmon, delicate flavor.",
+      "slovak": "Údený losos, jemná chuť.",
+      "transliteration": "U-de-ny lo-sos, ye-mna chut.",
+      "category": "Food",
+      "generated_at": "2026-09-13T17:21:17.857780"
     }
   ],
-  "last_updated": "2026-09-13T15:16:20.087102"
+  "last_updated": "2026-09-13T17:21:17.857782"
 }
