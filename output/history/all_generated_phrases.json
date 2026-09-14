@@ -14384,7 +14384,42 @@
       "transliteration": "Ver, vo svoyu vlastnu sylu.",
       "category": "Strength",
       "generated_at": "2026-09-14T19:06:58.245705"
+    },
+    {
+      "english": "Hear the bells, feel the time.",
+      "slovak": "Počuj zvony, cíť čas.",
+      "transliteration": "Pochuy zvony, tsit' tsas.",
+      "category": "Culture",
+      "generated_at": "2026-09-14T20:44:02.432203"
+    },
+    {
+      "english": "Taste the bread, share the warmth.",
+      "slovak": "Ochutnaj chlieb, zdieľaj teplo.",
+      "transliteration": "Okhutnay khlieb, zdiey-ay teplo.",
+      "category": "Culture",
+      "generated_at": "2026-09-14T20:44:02.432216"
+    },
+    {
+      "english": "Walk the paths, find your way.",
+      "slovak": "Choď cestami, nájdi svoju cestu.",
+      "transliteration": "Khoy tses-tami, nay-di svoyu tsestu.",
+      "category": "Culture",
+      "generated_at": "2026-09-14T20:44:02.432218"
+    },
+    {
+      "english": "See the stars, touch the sky.",
+      "slovak": "Uvidíš hviezdy, dotkni sa neba.",
+      "transliteration": "Oovydish hviezdy, dotkni sa neba.",
+      "category": "Culture",
+      "generated_at": "2026-09-14T20:44:02.432219"
+    },
+    {
+      "english": "Feel the wind, on your face.",
+      "slovak": "Cíť vietor, na svojej tvári.",
+      "transliteration": "Tsit' vietor, na svoyey tvári.",
+      "category": "Culture",
+      "generated_at": "2026-09-14T20:44:02.432220"
     }
   ],
-  "last_updated": "2026-09-14T19:06:58.245707"
+  "last_updated": "2026-09-14T20:44:02.432223"
 }
