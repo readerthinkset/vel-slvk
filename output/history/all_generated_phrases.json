@@ -14419,7 +14419,42 @@
       "transliteration": "Tsit' vietor, na svoyey tvári.",
       "category": "Culture",
       "generated_at": "2026-09-14T20:44:02.432220"
+    },
+    {
+      "english": "My Slovak, is taking root.",
+      "slovak": "Môj slovenský, sa zakoreňuje.",
+      "transliteration": "Moh sloven-skee, sa za-ko-re-nyoo-ye.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T22:58:10.040599"
+    },
+    {
+      "english": "Each word, a stepping stone.",
+      "slovak": "Každé slovo, je krokom.",
+      "transliteration": "Ka-zhday slo-vo, ye kro-kom.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T22:58:10.040609"
+    },
+    {
+      "english": "This language, it sings to me.",
+      "slovak": "Tento jazyk, mi spieva.",
+      "transliteration": "Ten-to ya-zyk, mee spye-va.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T22:58:10.040611"
+    },
+    {
+      "english": "My mind, grasps new sounds.",
+      "slovak": "Moja myseľ, chytá nové zvuky.",
+      "transliteration": "Mo-ya my-sel, khy-ta no-ve zvuh-kee.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T22:58:10.040613"
+    },
+    {
+      "english": "I listen, I learn, I grow.",
+      "slovak": "Počúvam, učím sa, rastiem.",
+      "transliteration": "Po-choo-vam, oo-cheem sa, ras-tyem.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T22:58:10.040614"
     }
   ],
-  "last_updated": "2026-09-14T20:44:02.432223"
+  "last_updated": "2026-09-14T22:58:10.040616"
 }
