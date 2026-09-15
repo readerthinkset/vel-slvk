@@ -14559,7 +14559,42 @@
       "transliteration": "Päť prstov, sia-ha von.",
       "category": "Numbers",
       "generated_at": "2026-09-15T18:02:40.052523"
+    },
+    {
+      "english": "My head, it spins, often.",
+      "slovak": "Moja hlava, sa točí, často.",
+      "transliteration": "Moya hlava, sa točí, často.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-15T19:58:29.390305"
+    },
+    {
+      "english": "Her eyes, they sparkle, brightly.",
+      "slovak": "Jej oči, sa trblietajú, jasne.",
+      "transliteration": "Yey oči, sa trblietajú, yasne.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-15T19:58:29.390313"
+    },
+    {
+      "english": "His nose, it twitches, curiously.",
+      "slovak": "Jeho nos, sa šklbe, zvedavo.",
+      "transliteration": "Yego nos, sa šklbe, zvedavo.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-15T19:58:29.390315"
+    },
+    {
+      "english": "Your lips, they smile, warmly.",
+      "slovak": "Tvoje pery, sa usmievajú, vrelé.",
+      "transliteration": "Tvoje pery, sa usmievajú, vrelé.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-15T19:58:29.390316"
+    },
+    {
+      "english": "Our ears, they listen, intently.",
+      "slovak": "Naše uši, počúvajú, pozorne.",
+      "transliteration": "Naše uši, počúvajú, pozorne.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-15T19:58:29.390317"
     }
   ],
-  "last_updated": "2026-09-15T18:02:40.052525"
+  "last_updated": "2026-09-15T19:58:29.390319"
 }
