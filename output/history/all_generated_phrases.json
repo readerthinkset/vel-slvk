@@ -14769,7 +14769,42 @@
       "transliteration": "Prve svetlo sa dotyka, tváre.",
       "category": "Daily Routine",
       "generated_at": "2026-09-16T19:50:53.889283"
+    },
+    {
+      "english": "Unlock Slovak, bit by bit.",
+      "slovak": "Odomknite slovenčinu, kúsok po kúsku.",
+      "transliteration": "Odomknite slovenchinu, kusok po kusku.",
+      "category": "Success",
+      "generated_at": "2026-09-16T22:39:49.028436"
+    },
+    {
+      "english": "Your Slovak, takes flight.",
+      "slovak": "Vaša slovenčina, dostáva krídla.",
+      "transliteration": "Vasha slovenchina, dostava kridla.",
+      "category": "Success",
+      "generated_at": "2026-09-16T22:39:49.028444"
+    },
+    {
+      "english": "Slovak words, dance freely.",
+      "slovak": "Slovenské slová, tancujú slobodne.",
+      "transliteration": "Slovenske slova, tancuju slobodne.",
+      "category": "Success",
+      "generated_at": "2026-09-16T22:39:49.028445"
+    },
+    {
+      "english": "Discover Slovak, one sound.",
+      "slovak": "Objavte slovenčinu, jeden zvuk.",
+      "transliteration": "Objavte slovenchinu, jeden zvuk.",
+      "category": "Success",
+      "generated_at": "2026-09-16T22:39:49.028447"
+    },
+    {
+      "english": "Slovak grammar, makes sense.",
+      "slovak": "Slovenská gramatika, dáva zmysel.",
+      "transliteration": "Slovenska gramatika, dava zmysel.",
+      "category": "Success",
+      "generated_at": "2026-09-16T22:39:49.028448"
     }
   ],
-  "last_updated": "2026-09-16T19:50:53.889285"
+  "last_updated": "2026-09-16T22:39:49.028449"
 }
