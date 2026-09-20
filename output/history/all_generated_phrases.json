@@ -15329,7 +15329,42 @@
       "transliteration": "Ah-koh toh moh-zheh-meh, vee-lehp-sheet?",
       "category": "Work",
       "generated_at": "2026-09-20T03:28:45.419368"
+    },
+    {
+      "english": "This tastes, like home.",
+      "slovak": "Toto chutí, ako doma.",
+      "transliteration": "Toto chutí, ako doma.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T15:04:18.407122"
+    },
+    {
+      "english": "A little, more bread?",
+      "slovak": "Ešte, kúsok chleba?",
+      "transliteration": "Eshte, kusok chleba?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T15:04:18.407135"
+    },
+    {
+      "english": "My compliments, to the chef.",
+      "slovak": "Klobúk dole, šéfkuchárovi.",
+      "transliteration": "Klobúk dole, shefkuchárovi.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T15:04:18.407137"
+    },
+    {
+      "english": "Is this, made here?",
+      "slovak": "Toto je, robené tu?",
+      "transliteration": "Toto je, robené tu?",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T15:04:18.407139"
+    },
+    {
+      "english": "Such a, lovely surprise.",
+      "slovak": "Také, milé prekvapenie.",
+      "transliteration": "Také, milé prekvapenie.",
+      "category": "Restaurant",
+      "generated_at": "2026-09-20T15:04:18.407140"
     }
   ],
-  "last_updated": "2026-09-20T03:28:45.419370"
+  "last_updated": "2026-09-20T15:04:18.407142"
 }
