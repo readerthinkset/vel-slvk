@@ -15469,7 +15469,42 @@
       "transliteration": "Otvoriť dvere, učiť sa slovensky.",
       "category": "Education",
       "generated_at": "2026-09-20T22:12:20.237498"
+    },
+    {
+      "english": "A brave knight, fights dragons.",
+      "slovak": "Odvazny rytier, bojuje s drakmi.",
+      "transliteration": "Od-VAZH-ny RIT-yer, BO-yu-ye s DRAK-mi.",
+      "category": "Animals",
+      "generated_at": "2026-09-21T03:23:49.841782"
+    },
+    {
+      "english": "The quick squirrel, hides nuts.",
+      "slovak": "Rychla vevericka, skryva orechy.",
+      "transliteration": "RICH-kla VE-ver-ICH-ka, SKRY-va O-re-chi.",
+      "category": "Animals",
+      "generated_at": "2026-09-21T03:23:49.841791"
+    },
+    {
+      "english": "A fluffy rabbit, twitches its nose.",
+      "slovak": "Mäkký zajac, pokruti nosom.",
+      "transliteration": "MYAK-kee ZA-yats, PO-kru-tee NO-som.",
+      "category": "Animals",
+      "generated_at": "2026-09-21T03:23:49.841793"
+    },
+    {
+      "english": "The tiny ant, builds a colony.",
+      "slovak": "Malicky mravec, stavia koloniu.",
+      "transliteration": "MA-li-CHKY MRA-vets, STAH-vee-ya KO-lo-nee-u.",
+      "category": "Animals",
+      "generated_at": "2026-09-21T03:23:49.841794"
+    },
+    {
+      "english": "A strong bear, lumbers through forest.",
+      "slovak": "Silny medved, vurpava lesom.",
+      "transliteration": "SIL-ny MED-ved, VUHR-pa-va LE-som.",
+      "category": "Animals",
+      "generated_at": "2026-09-21T03:23:49.841795"
     }
   ],
-  "last_updated": "2026-09-20T22:12:20.237500"
+  "last_updated": "2026-09-21T03:23:49.841797"
 }
