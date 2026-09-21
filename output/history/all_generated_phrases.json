@@ -15504,7 +15504,42 @@
       "transliteration": "SIL-ny MED-ved, VUHR-pa-va LE-som.",
       "category": "Animals",
       "generated_at": "2026-09-21T03:23:49.841795"
+    },
+    {
+      "english": "This scarf, it's so soft.",
+      "slovak": "Táto šatka, je taká jemná.",
+      "transliteration": "Tahto shatka, ye tahka yemma.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T17:23:34.608974"
+    },
+    {
+      "english": "My hat, keeps the sun off.",
+      "slovak": "Môj klobúk, chráni pred slnkom.",
+      "transliteration": "Moy klobuk, chranie pred slunkom.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T17:23:34.608993"
+    },
+    {
+      "english": "These gloves, for chilly weather.",
+      "slovak": "Tieto rukavice, na chladné počasie.",
+      "transliteration": "Tieto rukavitse, na chladne pochasiye.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T17:23:34.608995"
+    },
+    {
+      "english": "Her dress, has tiny flowers.",
+      "slovak": "Jej šaty, majú drobné kvietky.",
+      "transliteration": "Yey shaty, mayu drobne kviety.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T17:23:34.608996"
+    },
+    {
+      "english": "His jacket, looks very warm.",
+      "slovak": "Jeho bunda, vyzerá veľmi teplo.",
+      "transliteration": "Yeyo bunda, vyzera velmi teplo.",
+      "category": "Clothes",
+      "generated_at": "2026-09-21T17:23:34.608998"
     }
   ],
-  "last_updated": "2026-09-21T03:23:49.841797"
+  "last_updated": "2026-09-21T17:23:34.608999"
 }
