@@ -15924,7 +15924,42 @@
       "transliteration": "Svet, ye plny zazrakov.",
       "category": "Hope",
       "generated_at": "2026-09-23T18:19:29.763997"
+    },
+    {
+      "english": "My shoulder, it aches slightly.",
+      "slovak": "Moje plece, trochu bolí.",
+      "transliteration": "Mo-ye ple-che, to-cho bo-lee.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-23T19:57:54.303599"
+    },
+    {
+      "english": "Her arm, it reaches out.",
+      "slovak": "Jej ruka, siaha von.",
+      "transliteration": "Yey ru-ka, sia-ha von.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-23T19:57:54.303611"
+    },
+    {
+      "english": "His finger, it points forward.",
+      "slovak": "Jeho prst, ukazuje dopredu.",
+      "transliteration": "Ye-ho prst, u-ka-zu-ye dop-re-du.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-23T19:57:54.303613"
+    },
+    {
+      "english": "Your palm, it feels warm.",
+      "slovak": "Tvoja dlaň, cíti teplo.",
+      "transliteration": "Tvo-ya dlaň, cee-tee te-plo.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-23T19:57:54.303615"
+    },
+    {
+      "english": "Our feet, they walk on sand.",
+      "slovak": "Naše nohy, kráčajú po piesku.",
+      "transliteration": "Na-she no-hy, krá-cha-yú po pies-ku.",
+      "category": "Body Parts",
+      "generated_at": "2026-09-23T19:57:54.303616"
     }
   ],
-  "last_updated": "2026-09-23T18:19:29.763999"
+  "last_updated": "2026-09-23T19:57:54.303618"
 }
