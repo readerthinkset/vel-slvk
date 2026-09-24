@@ -16029,7 +16029,42 @@
       "transliteration": "Spojish, napadi lahko.",
       "category": "Strength",
       "generated_at": "2026-09-24T03:13:08.268130"
+    },
+    {
+      "english": "Slovak words, click into place.",
+      "slovak": "Slovenské slová, zapadajú.",
+      "transliteration": "Slovenske slova, zapadaju.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:06:36.479639"
+    },
+    {
+      "english": "My Slovak, is taking shape.",
+      "slovak": "Moja slovenčina, naberá tvar.",
+      "transliteration": "Moja slovenchina, nabera tvar.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:06:36.479657"
+    },
+    {
+      "english": "Understanding flows, freely now.",
+      "slovak": "Pochopenie plynie, voľne teraz.",
+      "transliteration": "Pochopenie pline, volne teraz.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:06:36.479659"
+    },
+    {
+      "english": "Each phrase, a whispered success.",
+      "slovak": "Každá veta, zašepnutý úspech.",
+      "transliteration": "Kazhda veta, zasheputeni uspeh.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:06:36.479660"
+    },
+    {
+      "english": "Speaking Slovak, feels like home.",
+      "slovak": "Rozprávať po slovensky, cítiť sa doma.",
+      "transliteration": "Rozpravat po slovensky, citit sa doma.",
+      "category": "Confidence",
+      "generated_at": "2026-09-24T16:06:36.479661"
     }
   ],
-  "last_updated": "2026-09-24T03:13:08.268131"
+  "last_updated": "2026-09-24T16:06:36.479663"
 }
