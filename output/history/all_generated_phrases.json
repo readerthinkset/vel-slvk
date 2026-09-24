@@ -16134,7 +16134,42 @@
       "transliteration": "Pochuy slovo, potom hovor.",
       "category": "Directions",
       "generated_at": "2026-09-24T20:17:15.590010"
+    },
+    {
+      "english": "Good morning, sun is up.",
+      "slovak": "Dobré ráno, slnko vyšlo.",
+      "transliteration": "Dob-reh raa-no, suln-ko vish-lo.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T23:01:20.466745"
+    },
+    {
+      "english": "Hello there, my friend.",
+      "slovak": "Ahoj, ty môj priateľ.",
+      "transliteration": "A-hoy, ti moy preea-tyel.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T23:01:20.466758"
+    },
+    {
+      "english": "How are you, today?",
+      "slovak": "Ako sa máš, dnes?",
+      "transliteration": "A-ko sa mash, dnes?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T23:01:20.466759"
+    },
+    {
+      "english": "I'm doing fine, thanks.",
+      "slovak": "Mám sa dobre, ďakujem.",
+      "transliteration": "Mam sa dob-reh, dya-koo-yem.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T23:01:20.466760"
+    },
+    {
+      "english": "What is this, please?",
+      "slovak": "Čo je toto, prosím?",
+      "transliteration": "Cho ye toh-toh, pro-seem?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-09-24T23:01:20.466761"
     }
   ],
-  "last_updated": "2026-09-24T20:17:15.590012"
+  "last_updated": "2026-09-24T23:01:20.466762"
 }
