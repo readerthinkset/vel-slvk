@@ -16099,7 +16099,42 @@
       "transliteration": "Vshe-tko ye po-koy-ne, a kras-ne.",
       "category": "Joy",
       "generated_at": "2026-09-24T18:20:50.414133"
+    },
+    {
+      "english": "Listen, then, form the sound.",
+      "slovak": "Počúvaj, potom, vytvor zvuk.",
+      "transliteration": "Pochuvay, potom, vytvor zvuk.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T20:17:15.589976"
+    },
+    {
+      "english": "Your turn, speak clearly.",
+      "slovak": "Tvoj rad, hovor jasne.",
+      "transliteration": "Tvoy rad, hovor yasne.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T20:17:15.590004"
+    },
+    {
+      "english": "Remember this, now say it.",
+      "slovak": "Pamätaj si, teraz povedz.",
+      "transliteration": "Pamatay si, teraz povedz.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T20:17:15.590006"
+    },
+    {
+      "english": "Try this one, gently.",
+      "slovak": "Skús toto, jemne.",
+      "transliteration": "Skus toto, jemne.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T20:17:15.590008"
+    },
+    {
+      "english": "Hear the word, then speak.",
+      "slovak": "Počuj slovo, potom hovor.",
+      "transliteration": "Pochuy slovo, potom hovor.",
+      "category": "Directions",
+      "generated_at": "2026-09-24T20:17:15.590010"
     }
   ],
-  "last_updated": "2026-09-24T18:20:50.414134"
+  "last_updated": "2026-09-24T20:17:15.590012"
 }
