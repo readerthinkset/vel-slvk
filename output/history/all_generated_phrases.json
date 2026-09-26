@@ -16449,7 +16449,42 @@
       "transliteration": "Bobula červena, sladky dar leta.",
       "category": "Colors",
       "generated_at": "2026-09-26T17:40:25.603102"
+    },
+    {
+      "english": "Tiny mushroom, sprouts from decay.",
+      "slovak": "Drobný hríb, vyrastá z rozkladu.",
+      "transliteration": "Drobný hreeb, vyra-stá z roz-kla-du.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T19:32:39.754937"
+    },
+    {
+      "english": "Pebbles skip, across water.",
+      "slovak": "Kamienky skáču, po vode.",
+      "transliteration": "Ka-mi-enky ská-ču, po vo-de.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T19:32:39.754951"
+    },
+    {
+      "english": "Busy bees, collect nectar.",
+      "slovak": "Pilné včely, zbierajú nektár.",
+      "transliteration": "Pil-né vče-ly, zbier-a-jú nek-tár.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T19:32:39.754953"
+    },
+    {
+      "english": "Deep forest, holds quiet secrets.",
+      "slovak": "Hlboký les, skrýva tiché tajomstvá.",
+      "transliteration": "Hlboký les, skry-vá ti-ché ta-jom-stvá.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T19:32:39.754955"
+    },
+    {
+      "english": "Morning sunbeam, warms the path.",
+      "slovak": "Ranný lúč, zohrieva chodník.",
+      "transliteration": "Ran-ný lúč, zo-hri-e-va chod-ník.",
+      "category": "Nature",
+      "generated_at": "2026-09-26T19:32:39.754956"
     }
   ],
-  "last_updated": "2026-09-26T17:40:25.603104"
+  "last_updated": "2026-09-26T19:32:39.754958"
 }
