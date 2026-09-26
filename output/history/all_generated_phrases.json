@@ -16379,7 +16379,42 @@
       "transliteration": "TSEE-tyeh TYEP, slo-VEHN-skoh-ho ZHEE-voh-tah.",
       "category": "Motivation",
       "generated_at": "2026-09-26T03:36:40.836986"
+    },
+    {
+      "english": "A curious cat, watches the dust motes.",
+      "slovak": "Zvedavá mačka, sleduje prachové častice.",
+      "transliteration": "Zvedava macka, sleduje prachove castice.",
+      "category": "Animals",
+      "generated_at": "2026-09-26T15:20:32.068667"
+    },
+    {
+      "english": "The wolf howls, at the moon.",
+      "slovak": "Vlk vĺčie, pri mesiaci.",
+      "transliteration": "Vlk vlcí, pri mesiaci.",
+      "category": "Animals",
+      "generated_at": "2026-09-26T15:20:32.068678"
+    },
+    {
+      "english": "The dolphin leaps, from the waves.",
+      "slovak": "Delfín vyskakuje, z vĺn.",
+      "transliteration": "Delfin vyskakuje, z vln.",
+      "category": "Animals",
+      "generated_at": "2026-09-26T15:20:32.068680"
+    },
+    {
+      "english": "A tiny ladybug, climbs a leaf.",
+      "slovak": "Malý lienka, lezie po liste.",
+      "transliteration": "Maly lienka, lezie po liste.",
+      "category": "Animals",
+      "generated_at": "2026-09-26T15:20:32.068681"
+    },
+    {
+      "english": "The contented cow, chews its cud.",
+      "slovak": "Spokojná krava, prežúva.",
+      "transliteration": "Spokojna krava, prezuva.",
+      "category": "Animals",
+      "generated_at": "2026-09-26T15:20:32.068683"
     }
   ],
-  "last_updated": "2026-09-26T03:36:40.836988"
+  "last_updated": "2026-09-26T15:20:32.068685"
 }
