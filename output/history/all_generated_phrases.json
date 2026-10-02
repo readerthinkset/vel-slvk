@@ -17394,7 +17394,42 @@
       "transliteration": "Toto, ye dost' pikantne.",
       "category": "Restaurant",
       "generated_at": "2026-10-02T17:00:33.959545"
+    },
+    {
+      "english": "This ancient bridge, spans the river.",
+      "slovak": "Tento starobylý most, preklenuje rieku.",
+      "transliteration": "Tento starobylý most, preklenuje rieku.",
+      "category": "Travel",
+      "generated_at": "2026-10-02T19:04:07.709896"
+    },
+    {
+      "english": "A quiet square, in the old town.",
+      "slovak": "Tiché námestie, v starom meste.",
+      "transliteration": "Tiché námestie, v starom meste.",
+      "category": "Travel",
+      "generated_at": "2026-10-02T19:04:07.709910"
+    },
+    {
+      "english": "The cobblestone streets, invite a stroll.",
+      "slovak": "Dlažobné uličky, pozývajú na prechádzku.",
+      "transliteration": "Dlažobné uličky, pozývajú na prechádzku.",
+      "category": "Travel",
+      "generated_at": "2026-10-02T19:04:07.709912"
+    },
+    {
+      "english": "Look at, that intricate, architecture.",
+      "slovak": "Pozri na, tú zložitú, architektúru.",
+      "transliteration": "Pozri na, tú zložitú, architektúru.",
+      "category": "Travel",
+      "generated_at": "2026-10-02T19:04:07.709914"
+    },
+    {
+      "english": "Sunlight, warms the stone walls.",
+      "slovak": "Slnko, zohrieva kamenné múry.",
+      "transliteration": "Slnko, zohrieva kamenné múry.",
+      "category": "Travel",
+      "generated_at": "2026-10-02T19:04:07.709915"
     }
   ],
-  "last_updated": "2026-10-02T17:00:33.959547"
+  "last_updated": "2026-10-02T19:04:07.709917"
 }
