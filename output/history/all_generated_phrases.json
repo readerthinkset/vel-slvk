@@ -17359,7 +17359,42 @@
       "transliteration": "Ob-lek na mie-ru, do pra-tse.",
       "category": "Clothes",
       "generated_at": "2026-10-02T04:08:07.975615"
+    },
+    {
+      "english": "This, is surprisingly good.",
+      "slovak": "Toto, je prekvapivo dobré.",
+      "transliteration": "Toto, ye prekvapivo dobre.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-02T17:00:33.959526"
+    },
+    {
+      "english": "A delightful, local flavor.",
+      "slovak": "Lahodná, miestna chuť.",
+      "transliteration": "Lahodna, miestna chut'.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-02T17:00:33.959540"
+    },
+    {
+      "english": "My compliments, to the kitchen.",
+      "slovak": "Moje poklony, kuchyni.",
+      "transliteration": "Moje poklony, kuchyni.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-02T17:00:33.959542"
+    },
+    {
+      "english": "Could I have, a recommendation?",
+      "slovak": "Môžem dostať, odporúčanie?",
+      "transliteration": "Mozem dostat', odporucanie?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-02T17:00:33.959543"
+    },
+    {
+      "english": "This, is quite spicy.",
+      "slovak": "Toto, je dosť pikantné.",
+      "transliteration": "Toto, ye dost' pikantne.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-02T17:00:33.959545"
     }
   ],
-  "last_updated": "2026-10-02T04:08:07.975617"
+  "last_updated": "2026-10-02T17:00:33.959547"
 }
