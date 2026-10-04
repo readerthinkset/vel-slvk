@@ -17674,7 +17674,42 @@
       "transliteration": "Učte sa po slovensky, jednu frázu naraz.",
       "category": "Education",
       "generated_at": "2026-10-03T22:42:23.923921"
+    },
+    {
+      "english": "Tell me more, about this item.",
+      "slovak": "Povedzte mi, viac o tomto.",
+      "transliteration": "Povedzte mi, viac o tomto.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T16:08:15.997318"
+    },
+    {
+      "english": "Does it come, in other colors?",
+      "slovak": "Má to, aj iné farby?",
+      "transliteration": "Má to, aj iné farby?",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T16:08:15.997327"
+    },
+    {
+      "english": "I'm looking, for something practical.",
+      "slovak": "Hľadám, niečo praktické.",
+      "transliteration": "Hľadám, niečo praktické.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T16:08:15.997329"
+    },
+    {
+      "english": "This is, a beautiful souvenir.",
+      "slovak": "Toto je, pekný suvenír.",
+      "transliteration": "Toto je, pekný suvenír.",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T16:08:15.997330"
+    },
+    {
+      "english": "Can you show me, something smaller?",
+      "slovak": "Ukážete mi, niečo menšie?",
+      "transliteration": "Ukážete mi, niečo menšie?",
+      "category": "Shopping",
+      "generated_at": "2026-10-04T16:08:15.997332"
     }
   ],
-  "last_updated": "2026-10-03T22:42:23.923923"
+  "last_updated": "2026-10-04T16:08:15.997334"
 }
