@@ -17709,7 +17709,42 @@
       "transliteration": "Ukážete mi, niečo menšie?",
       "category": "Shopping",
       "generated_at": "2026-10-04T16:08:15.997332"
+    },
+    {
+      "english": "My, bag, is gone.",
+      "slovak": "Moja, taška, je preč.",
+      "transliteration": "Moy-ah, tahsh-kah, yeh prehch.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T18:02:55.340208"
+    },
+    {
+      "english": "Help, someone, fell down.",
+      "slovak": "Pomoc, niekto, spadol.",
+      "transliteration": "Poh-mots, nyek-doh, spah-dol.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T18:02:55.340221"
+    },
+    {
+      "english": "I, can't, find, the exit.",
+      "slovak": "Nemôžem, nájsť, východ.",
+      "transliteration": "Neh-moh-zhem, nayst, vee-khod.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T18:02:55.340223"
+    },
+    {
+      "english": "Water, is rising, fast.",
+      "slovak": "Voda, stúpa, rýchlo.",
+      "transliteration": "Voh-dah, stoo-pah, reesh-kloh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T18:02:55.340224"
+    },
+    {
+      "english": "I, need, a doctor, now.",
+      "slovak": "Potrebujem, lekára, hneď.",
+      "transliteration": "Poh-treh-boo-yem, leh-kah-rah, hned.",
+      "category": "Emergency",
+      "generated_at": "2026-10-04T18:02:55.340225"
     }
   ],
-  "last_updated": "2026-10-04T16:08:15.997334"
+  "last_updated": "2026-10-04T18:02:55.340226"
 }
