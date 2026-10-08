@@ -18339,7 +18339,42 @@
       "transliteration": "TEE-kheh BZOO-cha-nee-eh, MOZH-nos-tee.",
       "category": "Hope",
       "generated_at": "2026-10-08T18:08:42.937742"
+    },
+    {
+      "english": "The tiny mouse, nibbles the cheese.",
+      "slovak": "Malá myška, hryzie syr.",
+      "transliteration": "Mala myshka, hryzie sir.",
+      "category": "Animals",
+      "generated_at": "2026-10-08T19:43:50.029808"
+    },
+    {
+      "english": "A wise owl, observes the night.",
+      "slovak": "Mudrá sova, sleduje noc.",
+      "transliteration": "Mudra sova, sleduje noc.",
+      "category": "Animals",
+      "generated_at": "2026-10-08T19:43:50.029820"
+    },
+    {
+      "english": "The swift eagle, soars high above.",
+      "slovak": "Rýchly orol, lieta vysoko.",
+      "transliteration": "Rychly orol, lieta vysoko.",
+      "category": "Animals",
+      "generated_at": "2026-10-08T19:43:50.029821"
+    },
+    {
+      "english": "A gentle lamb, grazes in the field.",
+      "slovak": "Jemný baranček, pasie sa.",
+      "transliteration": "Jemny baranchek, pasie sa.",
+      "category": "Animals",
+      "generated_at": "2026-10-08T19:43:50.029822"
+    },
+    {
+      "english": "The busy beaver, builds a dam.",
+      "slovak": "Húževnatý bobor, stavia hrádzu.",
+      "transliteration": "Huzevnaty bobor, stavia hradzu.",
+      "category": "Animals",
+      "generated_at": "2026-10-08T19:43:50.029822"
     }
   ],
-  "last_updated": "2026-10-08T18:08:42.937744"
+  "last_updated": "2026-10-08T19:43:50.029824"
 }
