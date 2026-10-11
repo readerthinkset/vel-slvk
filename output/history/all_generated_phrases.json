@@ -18864,7 +18864,42 @@
       "transliteration": "To-to za-ku-tie rie-ky, ye tak po-koy-ne.",
       "category": "Travel",
       "generated_at": "2026-10-11T16:59:09.736316"
+    },
+    {
+      "english": "What's, the signature dish?",
+      "slovak": "Čo je, hlavným chodom?",
+      "transliteration": "Cho ye, hlavnym kho-dom?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-11T18:42:23.030743"
+    },
+    {
+      "english": "This sauce, is incredible.",
+      "slovak": "Táto omáčka, je úžasná.",
+      "transliteration": "Ta-to o-mach-ka, ye oo-zhas-na.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-11T18:42:23.030760"
+    },
+    {
+      "english": "Could I, have some water?",
+      "slovak": "Môžem, dostať vodu?",
+      "transliteration": "Mo-zhem, dos-tat vo-doo?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-11T18:42:23.030761"
+    },
+    {
+      "english": "The bread, is so fresh.",
+      "slovak": "Chlieb, je veľmi čerstvý.",
+      "transliteration": "Chlyeb, ye vel-mi cherst-vy.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-11T18:42:23.030763"
+    },
+    {
+      "english": "I love, the lighting.",
+      "slovak": "Milujem, to osvetlenie.",
+      "transliteration": "Mi-loo-yem, to os-vet-le-nye.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-11T18:42:23.030764"
     }
   ],
-  "last_updated": "2026-10-11T16:59:09.736318"
+  "last_updated": "2026-10-11T18:42:23.030766"
 }
