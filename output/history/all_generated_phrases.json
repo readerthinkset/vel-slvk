@@ -19004,7 +19004,42 @@
       "transliteration": "Ho-di-ny ti-ka-yu, pev-ny ryt-mus.",
       "category": "Time",
       "generated_at": "2026-10-12T04:24:46.053581"
+    },
+    {
+      "english": "Slow breath, new day begins.",
+      "slovak": "Pomalsí nádych, nový deň začína.",
+      "transliteration": "Pomal-si nadych, novy den zacina.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-12T20:34:37.117753"
+    },
+    {
+      "english": "Mind clears, thoughts arrange.",
+      "slovak": "Mysel' sa čistí, myšlienky sa radia.",
+      "transliteration": "Mysel sa cisti, myslienky sa radia.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-12T20:34:37.117764"
+    },
+    {
+      "english": "Gentle stretch, body wakes.",
+      "slovak": "Jemné pretačanie, telo sa prebúdza.",
+      "transliteration": "Jemne pretacanie, telo sa prebudza.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-12T20:34:37.117765"
+    },
+    {
+      "english": "First light, paints the wall.",
+      "slovak": "Prvé svetlo, maľuje stenu.",
+      "transliteration": "Prve svetlo, maluje stenu.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-12T20:34:37.117766"
+    },
+    {
+      "english": "Quiet hum, the house stirs.",
+      "slovak": "Tiché bzučanie, dom sa hýbe.",
+      "transliteration": "Tiche bzucanie, dom sa hybe.",
+      "category": "Daily Routine",
+      "generated_at": "2026-10-12T20:34:37.117767"
     }
   ],
-  "last_updated": "2026-10-12T04:24:46.053583"
+  "last_updated": "2026-10-12T20:34:37.117769"
 }
