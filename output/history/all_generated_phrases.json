@@ -19074,7 +19074,42 @@
       "transliteration": "Aký je, príbeh, za týmto?",
       "category": "Shopping",
       "generated_at": "2026-10-12T22:01:06.551176"
+    },
+    {
+      "english": "A gentle breeze, stirs the leaves.",
+      "slovak": "Jemný vánok, šepká v lístí.",
+      "transliteration": "Yem-ny vánok, shep-ká v leestee.",
+      "category": "Weather",
+      "generated_at": "2026-10-12T23:27:39.845893"
+    },
+    {
+      "english": "The sky, is clear and blue.",
+      "slovak": "Obloha, jasná, ako v lete.",
+      "transliteration": "Ob-lo-ha, yas-ná, a-ko v le-te.",
+      "category": "Weather",
+      "generated_at": "2026-10-12T23:27:39.845905"
+    },
+    {
+      "english": "Heavy clouds, gather slowly.",
+      "slovak": "Ťažké mraky, pomaly sa zbiehajú.",
+      "transliteration": "Ťaž-ké mra-ky, po-ma-ly sa zbí-e-ha-jú.",
+      "category": "Weather",
+      "generated_at": "2026-10-12T23:27:39.845907"
+    },
+    {
+      "english": "Raindrops, tap on the glass.",
+      "slovak": "Kvapky dažďa, bubnujú na okno.",
+      "transliteration": "Kvap-ky daž-dža, bub-nu-jú na ok-no.",
+      "category": "Weather",
+      "generated_at": "2026-10-12T23:27:39.845909"
+    },
+    {
+      "english": "A sudden storm, brews quickly.",
+      "slovak": "Náhla búrka, rýchlo sa tvorí.",
+      "transliteration": "Ná-hla búr-ka, rých-lo sa tvorí.",
+      "category": "Weather",
+      "generated_at": "2026-10-12T23:27:39.845910"
     }
   ],
-  "last_updated": "2026-10-12T22:01:06.551178"
+  "last_updated": "2026-10-12T23:27:39.845912"
 }
