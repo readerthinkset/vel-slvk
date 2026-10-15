@@ -19529,7 +19529,42 @@
       "transliteration": "Podme zapliest', detaily.",
       "category": "Work",
       "generated_at": "2026-10-15T03:15:48.585099"
+    },
+    {
+      "english": "His hair, it flows gently.",
+      "slovak": "Jeho vlasy, jemne sa vlnia.",
+      "transliteration": "Yego vlasy, yeme sa vlnia.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-15T15:56:50.819161"
+    },
+    {
+      "english": "Her forehead, it shows thought.",
+      "slovak": "Jej čelo, prezrádza premýšľanie.",
+      "transliteration": "Yey čelo, prezrádza premýšľanie.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-15T15:56:50.819173"
+    },
+    {
+      "english": "My eyebrow, it arches slightly.",
+      "slovak": "Moje obočie, mierne sa dvíha.",
+      "transliteration": "Moje obočie, mierne sa dvíha.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-15T15:56:50.819175"
+    },
+    {
+      "english": "Your cheek, it blushes red.",
+      "slovak": "Tvoja líce, začervená sa.",
+      "transliteration": "Tvoja líce, začervená sa.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-15T15:56:50.819177"
+    },
+    {
+      "english": "His nose, it gleams in sun.",
+      "slovak": "Jeho nos, leskne sa na slnku.",
+      "transliteration": "Yego nos, leskne sa na slnku.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-15T15:56:50.819178"
     }
   ],
-  "last_updated": "2026-10-15T03:15:48.585101"
+  "last_updated": "2026-10-15T15:56:50.819180"
 }
