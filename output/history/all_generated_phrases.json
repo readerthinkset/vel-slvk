@@ -19914,7 +19914,42 @@
       "transliteration": "Deh-zert, vee-zah-rah oo-zhah-sneh.",
       "category": "Restaurant",
       "generated_at": "2026-10-17T14:37:16.789317"
+    },
+    {
+      "english": "This, is, important, right, now.",
+      "slovak": "Toto, je, dôležité, hneď, teraz.",
+      "transliteration": "Toh-toh, yeh, dohl-zhee-teh, hned, teh-rahs.",
+      "category": "Emergency",
+      "generated_at": "2026-10-17T16:55:15.316774"
+    },
+    {
+      "english": "I, think, something's, wrong.",
+      "slovak": "Myslím, že, niečo, nie je, v poriadku.",
+      "transliteration": "Mis-leem, zheh, nyeh-choh, nyeh yeh, v poh-ryad-koo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-17T16:55:15.316785"
+    },
+    {
+      "english": "We, need, to leave, quickly.",
+      "slovak": "Musíme, odísť, rýchlo.",
+      "transliteration": "Moo-see-meh, od-eesht, reesh-loh.",
+      "category": "Emergency",
+      "generated_at": "2026-10-17T16:55:15.316787"
+    },
+    {
+      "english": "Stay, back, please.",
+      "slovak": "Zostaňte, vzadu, prosím.",
+      "transliteration": "Zohs-tan-teh, vzah-doo, pro-seem.",
+      "category": "Emergency",
+      "generated_at": "2026-10-17T16:55:15.316788"
+    },
+    {
+      "english": "Is, anyone, there?",
+      "slovak": "Je, tam, niekto?",
+      "transliteration": "Yeh, tahm, nyehk-toh?",
+      "category": "Emergency",
+      "generated_at": "2026-10-17T16:55:15.316789"
     }
   ],
-  "last_updated": "2026-10-17T14:37:16.789320"
+  "last_updated": "2026-10-17T16:55:15.316791"
 }
