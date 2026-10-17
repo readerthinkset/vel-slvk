@@ -19879,7 +19879,42 @@
       "transliteration": "Aky pekny, prichod.",
       "category": "Greetings",
       "generated_at": "2026-10-17T03:03:00.604962"
+    },
+    {
+      "english": "Another, round of drinks, please.",
+      "slovak": "Ešte, jedno kolo nápojov, prosím.",
+      "transliteration": "Yesh-teh, yed-no koh-lo nah-poh-yov, proh-seem.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-17T14:37:16.789304"
+    },
+    {
+      "english": "This appetizer, is quite unique.",
+      "slovak": "Predjedlo, je dosť neobvyklé.",
+      "transliteration": "Pred-yed-loh, ye dosht ne-oh-bvee-kleh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-17T14:37:16.789313"
+    },
+    {
+      "english": "How is, this prepared?",
+      "slovak": "Ako sa, toto pripravuje?",
+      "transliteration": "Ah-koh sah, toh-toh pree-prah-voo-yeh?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-17T14:37:16.789315"
+    },
+    {
+      "english": "Could I, try a little?",
+      "slovak": "Mohol by som, ochutnať kúsok?",
+      "transliteration": "Moh-hol bee som, oh-koo-tnaht koo-sok?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-17T14:37:16.789316"
+    },
+    {
+      "english": "The dessert, looks amazing.",
+      "slovak": "Dezert, vyzerá úžasne.",
+      "transliteration": "Deh-zert, vee-zah-rah oo-zhah-sneh.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-17T14:37:16.789317"
     }
   ],
-  "last_updated": "2026-10-17T03:03:00.604964"
+  "last_updated": "2026-10-17T14:37:16.789320"
 }
