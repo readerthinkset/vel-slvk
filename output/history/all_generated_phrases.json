@@ -19984,7 +19984,42 @@
       "transliteration": "Sladky bobulka, chersvo natrhaná.",
       "category": "Food",
       "generated_at": "2026-10-17T19:00:27.008995"
+    },
+    {
+      "english": "The little bird, sings a sweet song.",
+      "slovak": "Malý vtáčik, spieva sladkú pieseň.",
+      "transliteration": "Mal-ee vta-cheek, spee-va slatt-koo pyess-en.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T21:58:45.095736"
+    },
+    {
+      "english": "A playful puppy, chases its tail.",
+      "slovak": "Hravé šteniatko, naháňa chvost.",
+      "transliteration": "Hra-ve shte-nee-at-ko, na-ha-nya hvost.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T21:58:45.095747"
+    },
+    {
+      "english": "The wise old elephant, remembers everything.",
+      "slovak": "Múdry starý slon, pamätá si všetko.",
+      "transliteration": "Moo-dry sta-ree slon, pa-met-a si vshet-ko.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T21:58:45.095749"
+    },
+    {
+      "english": "A silent snake, slithers in the grass.",
+      "slovak": "Tichý had, plazí sa v tráve.",
+      "transliteration": "Tee-hee had, pla-zee sa v tra-ve.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T21:58:45.095750"
+    },
+    {
+      "english": "The majestic lion, roars with power.",
+      "slovak": "Vznešený lev, reve s mocou.",
+      "transliteration": "Vzneh-she-nee lev, re-ve s mo-tsoo.",
+      "category": "Animals",
+      "generated_at": "2026-10-17T21:58:45.095752"
     }
   ],
-  "last_updated": "2026-10-17T19:00:27.008997"
+  "last_updated": "2026-10-17T21:58:45.095754"
 }
