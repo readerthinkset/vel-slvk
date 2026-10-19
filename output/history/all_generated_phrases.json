@@ -20299,7 +20299,42 @@
       "transliteration": "Pocujes tu farbu? Je modra.",
       "category": "Music",
       "generated_at": "2026-10-19T20:09:45.522994"
+    },
+    {
+      "english": "Slovak words, feel right.",
+      "slovak": "Slovenské slová, sedia.",
+      "transliteration": "Slovenske slova, sedia.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T21:43:50.681817"
+    },
+    {
+      "english": "My voice, finds Slovak.",
+      "slovak": "Môj hlas, nachádza slovenčinu.",
+      "transliteration": "Moy hlas, nachadza slovenčinu.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T21:43:50.681833"
+    },
+    {
+      "english": "Learning Slovak, is progress.",
+      "slovak": "Učiť sa po slovensky, je pokrok.",
+      "transliteration": "Učiť sa po slovensky, ye pokrok.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T21:43:50.681835"
+    },
+    {
+      "english": "This language, unfolds.",
+      "slovak": "Tento jazyk, sa odvíja.",
+      "transliteration": "Tento jazyk, sa odvíja.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T21:43:50.681836"
+    },
+    {
+      "english": "My mind, speaks Slovak.",
+      "slovak": "Moja myseľ, hovorí po slovensky.",
+      "transliteration": "Moya myseľ, hovorí po slovensky.",
+      "category": "Confidence",
+      "generated_at": "2026-10-19T21:43:50.681837"
     }
   ],
-  "last_updated": "2026-10-19T20:09:45.522995"
+  "last_updated": "2026-10-19T21:43:50.681838"
 }
