@@ -2,11 +2,11 @@ name: VELOCITY SLOVAK - Daily 5x Upload
 
 on:
   schedule:
-    - cron: '0 12 * * *'
-    - cron: '0 14 * * *'
-    - cron: '0 17 * * *'
-    - cron: '0 20 * * *'
-    - cron: '0 0 * * *'
+    - cron: '34 12 * * *'
+    - cron: '34 14 * * *'
+    - cron: '34 17 * * *'
+    - cron: '34 20 * * *'
+    - cron: '34 0 * * *'
 
   workflow_dispatch:
 
