@@ -20929,7 +20929,42 @@
       "transliteration": "Naviguj, s odvahou.",
       "category": "Strength",
       "generated_at": "2026-10-23T05:13:15.810714"
+    },
+    {
+      "english": "The proud peacock, displays its colors.",
+      "slovak": "Páv hrdý, ukazuje svoje perá.",
+      "transliteration": "Paav hrdiy, ukazu-ye SVO-ye PE-ra.",
+      "category": "Animals",
+      "generated_at": "2026-10-23T23:16:08.625175"
+    },
+    {
+      "english": "A sleepy sloth, hangs upside down.",
+      "slovak": "Lenivý leňochod, visí dolu hlavou.",
+      "transliteration": "LE-niy LE-no-chod, VI-si DO-lu HVA-vou.",
+      "category": "Animals",
+      "generated_at": "2026-10-23T23:16:08.625188"
+    },
+    {
+      "english": "The colorful parrot, mimics human speech.",
+      "slovak": "Farebný papagáj, napodobňuje reč.",
+      "transliteration": "FA-reb-niy pa-pa-GAJ, na-po-DOB-nu-ye retch.",
+      "category": "Animals",
+      "generated_at": "2026-10-23T23:16:08.625190"
+    },
+    {
+      "english": "A tiny hummingbird, sips sweet nectar.",
+      "slovak": "Drobný kolibrík, pije sladký nektár.",
+      "transliteration": "DROB-niy ko-li-BREEK, PI-ye SLAD-kiy NEK-tar.",
+      "category": "Animals",
+      "generated_at": "2026-10-23T23:16:08.625191"
+    },
+    {
+      "english": "The giant whale, sings a deep song.",
+      "slovak": "Obrovská veľryba, spieva hlbokú pieseň.",
+      "transliteration": "O-brov-SKA VEL-ri-ba, SPI-ye-va HLUB-ko-pu PI-e-sen'.",
+      "category": "Animals",
+      "generated_at": "2026-10-23T23:16:08.625192"
     }
   ],
-  "last_updated": "2026-10-23T05:13:15.810716"
+  "last_updated": "2026-10-23T23:16:08.625193"
 }
