@@ -21069,7 +21069,42 @@
       "transliteration": "Pozoruj oblaky, ako idú.",
       "category": "Patience",
       "generated_at": "2026-10-24T16:11:28.437059"
+    },
+    {
+      "english": "A steaming cup, of coffee.",
+      "slovak": "Šálka, kávy.",
+      "transliteration": "Shaal-ka, kaa-vy.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:33:42.147125"
+    },
+    {
+      "english": "This rich cake, is delicious.",
+      "slovak": "Táto torta, je lahodná.",
+      "transliteration": "Taa-to tor-ta, ye la-hod-naa.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:33:42.147135"
+    },
+    {
+      "english": "A crisp salad, very fresh.",
+      "slovak": "Chrumkavý šalát, veľmi svieži.",
+      "transliteration": "Chrum-kaa-vy shaa-laat, vel-mi svee-zhee.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:33:42.147138"
+    },
+    {
+      "english": "Sweet honey, from the bees.",
+      "slovak": "Med, sladký, z včiel.",
+      "transliteration": "Med, slad-kee, z vcheel.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:33:42.147140"
+    },
+    {
+      "english": "Hot soup, on a cold day.",
+      "slovak": "Horúca polievka, v chladný deň.",
+      "transliteration": "Ho-ru-tsaa po-lee-vkaa, v chlad-nee dyen'.",
+      "category": "Food",
+      "generated_at": "2026-10-24T17:33:42.147141"
     }
   ],
-  "last_updated": "2026-10-24T16:11:28.437061"
+  "last_updated": "2026-10-24T17:33:42.147143"
 }
