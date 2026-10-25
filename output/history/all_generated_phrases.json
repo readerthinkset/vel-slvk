@@ -21314,7 +21314,42 @@
       "transliteration": "Po-choo-vai zem, po-tom fstahny.",
       "category": "Balance",
       "generated_at": "2026-10-25T19:55:09.210954"
+    },
+    {
+      "english": "A whisper, of a tune.",
+      "slovak": "Šepot, melódie.",
+      "transliteration": "Shepot, melodie.",
+      "category": "Music",
+      "generated_at": "2026-10-25T22:46:58.220666"
+    },
+    {
+      "english": "Notes dance, on the air.",
+      "slovak": "Tóny tancujú, vo vzduchu.",
+      "transliteration": "Tony tancuju, vo vzduchu.",
+      "category": "Music",
+      "generated_at": "2026-10-25T22:46:58.220677"
+    },
+    {
+      "english": "That bass, it rumbles.",
+      "slovak": "Ten bas, sa ozýva.",
+      "transliteration": "Ten bas, sa ozyva.",
+      "category": "Music",
+      "generated_at": "2026-10-25T22:46:58.220678"
+    },
+    {
+      "english": "A violin, cries softly.",
+      "slovak": "Housle, plačú ticho.",
+      "transliteration": "Housle, placu ticho.",
+      "category": "Music",
+      "generated_at": "2026-10-25T22:46:58.220680"
+    },
+    {
+      "english": "Echoes fade, slowly.",
+      "slovak": "Ozvuky miznú, pomaly.",
+      "transliteration": "Ozvuky miznu, pomaly.",
+      "category": "Music",
+      "generated_at": "2026-10-25T22:46:58.220680"
     }
   ],
-  "last_updated": "2026-10-25T19:55:09.210956"
+  "last_updated": "2026-10-25T22:46:58.220682"
 }
