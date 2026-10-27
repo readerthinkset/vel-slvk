@@ -21524,7 +21524,42 @@
       "transliteration": "Nový úsvit, svieži pohľad.",
       "category": "Health",
       "generated_at": "2026-10-27T05:26:29.161471"
+    },
+    {
+      "english": "My elbow, it nudges gently.",
+      "slovak": "Môj lakeť, jemne sa dotýka.",
+      "transliteration": "Moy laket, yemne sa dotyka.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-27T18:12:48.067081"
+    },
+    {
+      "english": "Her ankle, it twists, lightly.",
+      "slovak": "Jej členok, ľahko sa skrúca.",
+      "transliteration": "Yey chlenok, lachko sa skrucha.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-27T18:12:48.067095"
+    },
+    {
+      "english": "His shin, it bumps the table.",
+      "slovak": "Jeho píšťala, narazí na stôl.",
+      "transliteration": "Yego pishtala, narazi na stol.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-27T18:12:48.067096"
+    },
+    {
+      "english": "Your back, it carries burdens.",
+      "slovak": "Tvoja chrbtica, nesie bremená.",
+      "transliteration": "Tvoyya chrb-ti-tsa, nesye bre-me-na.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-27T18:12:48.067098"
+    },
+    {
+      "english": "My thumb, it presses buttons.",
+      "slovak": "Môj palec, stláča gombíky.",
+      "transliteration": "Moy palets, stlach-cha gom-bi-ky.",
+      "category": "Body Parts",
+      "generated_at": "2026-10-27T18:12:48.067099"
     }
   ],
-  "last_updated": "2026-10-27T05:26:29.161473"
+  "last_updated": "2026-10-27T18:12:48.067101"
 }
