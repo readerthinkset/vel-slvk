@@ -21629,7 +21629,42 @@
       "transliteration": "Mo-ye ob-ľú-be-né mies-to, ye pri te-be.",
       "category": "Love",
       "generated_at": "2026-10-27T21:27:46.056603"
+    },
+    {
+      "english": "This soup, warms me up.",
+      "slovak": "Táto polievka, ma zahreje.",
+      "transliteration": "Tahto polievka, ma zahreje.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:57:52.303214"
+    },
+    {
+      "english": "A perfect, evening meal.",
+      "slovak": "Perfektné, večerné jedlo.",
+      "transliteration": "Perfektne, veczerne jedlo.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:57:52.303223"
+    },
+    {
+      "english": "The atmosphere, is so cozy.",
+      "slovak": "Atmosféra, je taká útulná.",
+      "transliteration": "Atmosfera, je taka utulna.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:57:52.303225"
+    },
+    {
+      "english": "Could I, have a doggy bag?",
+      "slovak": "Môžem si, zobrať zvyšok domov?",
+      "transliteration": "Mozem si, zobrat zvysok domov?",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:57:52.303226"
+    },
+    {
+      "english": "This is, a delightful treat.",
+      "slovak": "Toto je, potešenie.",
+      "transliteration": "Toto je, potesenie.",
+      "category": "Restaurant",
+      "generated_at": "2026-10-27T23:57:52.303226"
     }
   ],
-  "last_updated": "2026-10-27T21:27:46.056605"
+  "last_updated": "2026-10-27T23:57:52.303228"
 }
