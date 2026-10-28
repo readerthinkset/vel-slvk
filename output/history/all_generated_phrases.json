@@ -21664,7 +21664,42 @@
       "transliteration": "Toto je, potesenie.",
       "category": "Restaurant",
       "generated_at": "2026-10-27T23:57:52.303226"
+    },
+    {
+      "english": "This coat, keeps out the wind.",
+      "slovak": "Táto bunda, chráni pred vetrom.",
+      "transliteration": "Tahto bunda, chra-ni pred vet-rom.",
+      "category": "Clothes",
+      "generated_at": "2026-10-28T06:04:21.660846"
+    },
+    {
+      "english": "Her blouse, has a unique pattern.",
+      "slovak": "Jej blúzka, má neobyčajný vzor.",
+      "transliteration": "Yey bluzka, ma ne-o-bi-chay-ni vzor.",
+      "category": "Clothes",
+      "generated_at": "2026-10-28T06:04:21.660857"
+    },
+    {
+      "english": "These shorts, are for hot days.",
+      "slovak": "Toto kraťasy, sú na horúce dni.",
+      "transliteration": "To-to kra-ta-sy, su na ho-ru-ce dni.",
+      "category": "Clothes",
+      "generated_at": "2026-10-28T06:04:21.660859"
+    },
+    {
+      "english": "His vest, adds a touch of class.",
+      "slovak": "Jeho vesta, dodáva punc elegancie.",
+      "transliteration": "Ye-ho ves-ta, do-da-va punc e-le-gan-tsi-e.",
+      "category": "Clothes",
+      "generated_at": "2026-10-28T06:04:21.660860"
+    },
+    {
+      "english": "My pajamas, are for sleeping.",
+      "slovak": "Moje pyžamo, je na spanie.",
+      "transliteration": "Mo-ye pi-zha-mo, ye na spa-nie.",
+      "category": "Clothes",
+      "generated_at": "2026-10-28T06:04:21.660861"
     }
   ],
-  "last_updated": "2026-10-27T23:57:52.303228"
+  "last_updated": "2026-10-28T06:04:21.660862"
 }
