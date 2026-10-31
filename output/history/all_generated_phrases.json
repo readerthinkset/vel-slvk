@@ -22224,7 +22224,42 @@
       "transliteration": "Toto jedlo, chutí zvláštne.",
       "category": "Emergency",
       "generated_at": "2026-10-31T17:21:20.577246"
+    },
+    {
+      "english": "Emerald forests, breathe deep.",
+      "slovak": "Smaragdové lesy, dýchaj zhlboka.",
+      "transliteration": "Smaragdové lesy, dýchaj zhlboka.",
+      "category": "Culture",
+      "generated_at": "2026-10-31T18:43:34.778838"
+    },
+    {
+      "english": "Rivers flow, carrying secrets.",
+      "slovak": "Rieky tečú, nesú tajomstvá.",
+      "transliteration": "Rieky tečú, nesú tajomstvá.",
+      "category": "Culture",
+      "generated_at": "2026-10-31T18:43:34.778848"
+    },
+    {
+      "english": "Castle walls, ancient stories.",
+      "slovak": "Hradné múry, dávne príbehy.",
+      "transliteration": "Hradné múry, dávne príbehy.",
+      "category": "Culture",
+      "generated_at": "2026-10-31T18:43:34.778849"
+    },
+    {
+      "english": "Golden fields, harvest awaits.",
+      "slovak": "Zlaté polia, úroda čaká.",
+      "transliteration": "Zlaté polia, úroda čaká.",
+      "category": "Culture",
+      "generated_at": "2026-10-31T18:43:34.778850"
+    },
+    {
+      "english": "Cobblestone streets, worn smooth.",
+      "slovak": "Dlažobné ulice, obnosené hladko.",
+      "transliteration": "Dlažobné ulice, obnosené hladko.",
+      "category": "Culture",
+      "generated_at": "2026-10-31T18:43:34.778851"
     }
   ],
-  "last_updated": "2026-10-31T17:21:20.577248"
+  "last_updated": "2026-10-31T18:43:34.778853"
 }
