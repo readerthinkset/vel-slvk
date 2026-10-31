@@ -22189,7 +22189,42 @@
       "transliteration": "Zvuk, ticha.",
       "category": "Travel",
       "generated_at": "2026-10-31T06:09:06.247036"
+    },
+    {
+      "english": "My wallet, vanished. Quickly.",
+      "slovak": "Peňaženka, mi zmizla. Rýchlo.",
+      "transliteration": "Penazenka, mi zmizla. Rykhlo.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T17:21:20.577228"
+    },
+    {
+      "english": "The path, is blocked. Now.",
+      "slovak": "Cesta, je zablokovaná. Teraz.",
+      "transliteration": "Cesta, je zablokovana. Teraz.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T17:21:20.577242"
+    },
+    {
+      "english": "I need, to call, home.",
+      "slovak": "Potrebujem, zavolať, domov.",
+      "transliteration": "Potrebujem, zavolat, domov.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T17:21:20.577244"
+    },
+    {
+      "english": "Where is, the nearest, police?",
+      "slovak": "Kde je, najbližšia, polícia?",
+      "transliteration": "Kde je, najbližšia, polícia?",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T17:21:20.577245"
+    },
+    {
+      "english": "This food, tastes strange.",
+      "slovak": "Toto jedlo, chutí zvláštne.",
+      "transliteration": "Toto jedlo, chutí zvláštne.",
+      "category": "Emergency",
+      "generated_at": "2026-10-31T17:21:20.577246"
     }
   ],
-  "last_updated": "2026-10-31T06:09:06.247038"
+  "last_updated": "2026-10-31T17:21:20.577248"
 }
