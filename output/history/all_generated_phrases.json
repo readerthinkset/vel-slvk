@@ -22644,7 +22644,42 @@
       "transliteration": "Vi'em sa, vyjadrit po slovensky.",
       "category": "Confidence",
       "generated_at": "2026-11-03T00:01:09.913143"
+    },
+    {
+      "english": "Sun dips low, paints the clouds.",
+      "slovak": "Slnko klesá, maľuje oblaky.",
+      "transliteration": "Slin-ko kles-a, mal-oo-ye ob-la-ky.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T02:36:09.586919"
+    },
+    {
+      "english": "Distant thunder, rumbles softly.",
+      "slovak": "Vzdialený hrom, ticho buráca.",
+      "transliteration": "Vzd-ya-le-ny hrom, ti-cho boo-ra-tsa.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T02:36:09.586932"
+    },
+    {
+      "english": "Tiny sprout, seeks the light.",
+      "slovak": "Malý klíček, hľadá svetlo.",
+      "transliteration": "Ma-ly klee-chek, hla-da svet-lo.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T02:36:09.586934"
+    },
+    {
+      "english": "Bare branches, reach for sky.",
+      "slovak": "Holé konáre, siahajú k nebu.",
+      "transliteration": "Ho-le ko-na-re, sia-ha-yoo k ne-boo.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T02:36:09.586936"
+    },
+    {
+      "english": "Ocean tide, pulls and pushes.",
+      "slovak": "Príliv mora, ťahá a tlačí.",
+      "transliteration": "Pree-leev mo-ra, tya-ha a tla-chi.",
+      "category": "Nature",
+      "generated_at": "2026-11-03T02:36:09.586938"
     }
   ],
-  "last_updated": "2026-11-03T00:01:09.913145"
+  "last_updated": "2026-11-03T02:36:09.586940"
 }
