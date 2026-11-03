@@ -22609,7 +22609,42 @@
       "transliteration": "Prijmi odliv, aj príliv.",
       "category": "Patience",
       "generated_at": "2026-11-02T22:53:04.977598"
+    },
+    {
+      "english": "This Slovak, feels like mine.",
+      "slovak": "Táto slovenčina, je moja.",
+      "transliteration": "Tahto slovenchina, ye moya.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T00:01:09.913127"
+    },
+    {
+      "english": "My Slovak, is truly alive.",
+      "slovak": "Moja slovenčina, ožíva.",
+      "transliteration": "Moya slovenchina, ozhiva.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T00:01:09.913140"
+    },
+    {
+      "english": "New Slovak words, I remember.",
+      "slovak": "Nové slovenské slová, si pamätám.",
+      "transliteration": "Nove slovenske slova, si pamatam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T00:01:09.913141"
+    },
+    {
+      "english": "Slovak sounds, now flow.",
+      "slovak": "Slovenské zvuky, plynú.",
+      "transliteration": "Slovenske zvuky, plynú.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T00:01:09.913142"
+    },
+    {
+      "english": "I can, express myself Slovak.",
+      "slovak": "Viem sa, vyjadriť po slovensky.",
+      "transliteration": "Vi'em sa, vyjadrit po slovensky.",
+      "category": "Confidence",
+      "generated_at": "2026-11-03T00:01:09.913143"
     }
   ],
-  "last_updated": "2026-11-02T22:53:04.977599"
+  "last_updated": "2026-11-03T00:01:09.913145"
 }
