@@ -22784,7 +22784,42 @@
       "transliteration": "Zdvihni jazyk, dotkni sa jemne, uvolni",
       "category": "Directions",
       "generated_at": "2026-11-03T20:37:58.603378"
+    },
+    {
+      "english": "Take a breath, then answer simply.",
+      "slovak": "Nadychni sa, potom odpovedz jednoducho.",
+      "transliteration": "Nadychni sa, potom odpovedz jednoducho.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-03T22:46:50.901344"
+    },
+    {
+      "english": "Hold on, I’ll explain in a minute.",
+      "slovak": "Počkaj, vysvetlím to o chvíľu.",
+      "transliteration": "Pockaj, vysvetlim to o chvilu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-03T22:46:50.901358"
+    },
+    {
+      "english": "Try again, slow down, you’ve got this.",
+      "slovak": "Skús znovu, spomaľ, zvládneš to.",
+      "transliteration": "Skus znovu, spomal, zvladnes to.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-03T22:46:50.901360"
+    },
+    {
+      "english": "Listen closely, the clue is small.",
+      "slovak": "Počúvaj pozorne, nápoveda je malá.",
+      "transliteration": "Pocuvaj pozorne, napoveda je mala.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-03T22:46:50.901362"
+    },
+    {
+      "english": "Let’s make room, one step at a time.",
+      "slovak": "Uvoľni miesto, krok po kroku.",
+      "transliteration": "Uvolni miesto, krok po kroku.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-03T22:46:50.901363"
     }
   ],
-  "last_updated": "2026-11-03T20:37:58.603380"
+  "last_updated": "2026-11-03T22:46:50.901366"
 }
