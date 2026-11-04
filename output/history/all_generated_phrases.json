@@ -22889,7 +22889,42 @@
       "transliteration": "Nat i name krk, potom vydych neme.",
       "category": "Body Parts",
       "generated_at": "2026-11-04T06:54:04.760438"
+    },
+    {
+      "english": "Hi, how are you doing, today?",
+      "slovak": "Ahoj, ako sa máš dnes?",
+      "transliteration": "Ahoj, ako sa mas dnes?",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T19:59:25.649243"
+    },
+    {
+      "english": "Hello, I’m happy to see you, again.",
+      "slovak": "Zdravím, teším sa, že ťa vidím znovu.",
+      "transliteration": "Zdravim, tesim sa, ze ta vidim znovu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T19:59:25.649251"
+    },
+    {
+      "english": "Good day, welcome in, make yourself at home.",
+      "slovak": "Dobrý deň, vitaj, cíť sa tu ako doma.",
+      "transliteration": "Dobry den, vitaj, cit sa tu ako doma.",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T19:59:25.649253"
+    },
+    {
+      "english": "Hey, lovely meeting, how’s your day going?",
+      "slovak": "Hej, krásne stretnutie, ako sa ti darí?",
+      "transliteration": "Hej, krasne stretnutie, ako sa ti dari?",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T19:59:25.649255"
+    },
+    {
+      "english": "Hi there, your smile is contagious, thanks!",
+      "slovak": "Nazdar, tvoj úsmev je nákazlivý, ďakujem!",
+      "transliteration": "Nazdar, tvoj usmev je nakazlivy, dakujem!",
+      "category": "Greetings",
+      "generated_at": "2026-11-04T19:59:25.649256"
     }
   ],
-  "last_updated": "2026-11-04T06:54:04.760440"
+  "last_updated": "2026-11-04T19:59:25.649257"
 }
