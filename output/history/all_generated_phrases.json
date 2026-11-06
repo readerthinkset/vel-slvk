@@ -23239,7 +23239,42 @@
       "transliteration": "Stavaj si istotu, jeden kratky dialog naraz.",
       "category": "Growth",
       "generated_at": "2026-11-06T07:13:07.047534"
+    },
+    {
+      "english": "Stop, check me, I’m bleeding.",
+      "slovak": "Zastavte, skontrolujte ma, krvácam.",
+      "transliteration": "Zastavte, skontrolujte ma, krvacam.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T19:39:20.170784"
+    },
+    {
+      "english": "Call emergency services, please, right away.",
+      "slovak": "Zavolajte pomoc, prosím, hneď.",
+      "transliteration": "Zavolajte pomoc, prosím, hned.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T19:39:20.170792"
+    },
+    {
+      "english": "I can’t breathe, please, open the air.",
+      "slovak": "Nemôžem dýchať, prosím, otvorte vzduch.",
+      "transliteration": "Nemozem dychat, prosim, otvorte vzduch.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T19:39:20.170794"
+    },
+    {
+      "english": "I’m choking, back up, quickly.",
+      "slovak": "Dusím sa, odstúpte, rýchlo.",
+      "transliteration": "Dusim sa, odstupte, rychlo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T19:39:20.170795"
+    },
+    {
+      "english": "Help, I slipped, my ankle hurts.",
+      "slovak": "Pomôžte, pošmykol som sa, bolí ma členok.",
+      "transliteration": "Pomozte, posmykol som sa, boli ma clenok.",
+      "category": "Emergency",
+      "generated_at": "2026-11-06T19:39:20.170797"
     }
   ],
-  "last_updated": "2026-11-06T07:13:07.047536"
+  "last_updated": "2026-11-06T19:39:20.170798"
 }
