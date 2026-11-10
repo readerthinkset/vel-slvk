@@ -23869,7 +23869,42 @@
       "transliteration": "Chyby ma ucia, pokracujem dalej.",
       "category": "Confidence",
       "generated_at": "2026-11-10T00:50:58.552159"
+    },
+    {
+      "english": "My scalp tingles, after the cold wind",
+      "slovak": "Moju pokožku hlavy brní, po studenom vetre",
+      "transliteration": "Moju pokožku hlavy brní, po studenom vetre",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T02:53:29.381807"
+    },
+    {
+      "english": "Your chin lifts, as you listen carefully",
+      "slovak": "Tvoja brada sa zdvihne, keď pozorne počúvaš",
+      "transliteration": "Tvoja brada sa zdvihne, keď pozorne počúvaš",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T02:53:29.381817"
+    },
+    {
+      "english": "His lips part, before he speaks",
+      "slovak": "Jeho pery sa pootevru, než prehovorí",
+      "transliteration": "Jeho pery sa pootevru, než prehovorí",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T02:53:29.381819"
+    },
+    {
+      "english": "Her cheek tightens, with a secret grin",
+      "slovak": "Jej líce stuhne, pri tajnom úsmeve",
+      "transliteration": "Jej líce stuhne, pri tajnom úsmeve",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T02:53:29.381821"
+    },
+    {
+      "english": "Our throat feels dry, after a long talk",
+      "slovak": "Hrdlo nám vyschne, po dlhom rozhovore",
+      "transliteration": "Hrdlo nám vyschne, po dlhom rozhovore",
+      "category": "Body Parts",
+      "generated_at": "2026-11-10T02:53:29.381822"
     }
   ],
-  "last_updated": "2026-11-10T00:50:58.552161"
+  "last_updated": "2026-11-10T02:53:29.381824"
 }
