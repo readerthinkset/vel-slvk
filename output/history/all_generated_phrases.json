@@ -24079,7 +24079,42 @@
       "transliteration": "Prinesieš pokoj, keď som v strese.",
       "category": "Relationships",
       "generated_at": "2026-11-10T22:04:58.391322"
+    },
+    {
+      "english": "Do you accept credit cards here?",
+      "slovak": "Prijímate tu platobné kart(y)?",
+      "transliteration": "Prijimate tu platobne karte?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:27:17.105097"
+    },
+    {
+      "english": "Is there a discount today?",
+      "slovak": "Máte dnes zľavu?",
+      "transliteration": "Mate dnes zlavu?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:27:17.105112"
+    },
+    {
+      "english": "Can I pay by card?",
+      "slovak": "Môžem zaplatiť kartou?",
+      "transliteration": "Mozem zaplatit kartou?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:27:17.105114"
+    },
+    {
+      "english": "Do you have this in stock?",
+      "slovak": "Máte toto na sklade?",
+      "transliteration": "Mate toto na sklade?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:27:17.105115"
+    },
+    {
+      "english": "Where is the checkout, please?",
+      "slovak": "Kde je pokladňa, prosím?",
+      "transliteration": "Kde je pokladna, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-11T00:27:17.105116"
     }
   ],
-  "last_updated": "2026-11-10T22:04:58.391328"
+  "last_updated": "2026-11-11T00:27:17.105118"
 }
