@@ -24114,7 +24114,42 @@
       "transliteration": "Kde je pokladna, prosim?",
       "category": "Shopping",
       "generated_at": "2026-11-11T00:27:17.105116"
+    },
+    {
+      "english": "Can I get a table for two?",
+      "slovak": "Môžem dostať stôl pre dvoch?",
+      "transliteration": "Môzhem dostat stol pre dvoch?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T03:52:30.604248"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "slovak": "Máte bezlepkové možnosti?",
+      "transliteration": "Mate bezlepko've moznosti?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T03:52:30.604264"
+    },
+    {
+      "english": "What do you recommend tonight?",
+      "slovak": "Čo odporúčate dnes večer?",
+      "transliteration": "Co odporuchate dnes vecer?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T03:52:30.604265"
+    },
+    {
+      "english": "I’ll start with a starter, please.",
+      "slovak": "Dám si prosím predjedlo.",
+      "transliteration": "Dam si prosím predjedlo.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T03:52:30.604266"
+    },
+    {
+      "english": "How spicy is this dish, really?",
+      "slovak": "Je toto jedlo naozaj pálivé?",
+      "transliteration": "Je toto jedlo naozaj palive?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-11T03:52:30.604267"
     }
   ],
-  "last_updated": "2026-11-11T00:27:17.105118"
+  "last_updated": "2026-11-11T03:52:30.604268"
 }
