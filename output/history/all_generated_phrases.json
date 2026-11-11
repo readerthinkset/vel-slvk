@@ -24184,7 +24184,42 @@
       "transliteration": "Dnes si zaloz mimoriadny fond",
       "category": "Finance",
       "generated_at": "2026-11-11T19:16:16.938132"
+    },
+    {
+      "english": "Call 112, please, now.",
+      "slovak": "Zavolajte 112, prosím, hneď.",
+      "transliteration": "Zavolajte sto-dva, prosim, hned.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:09:33.739539"
+    },
+    {
+      "english": "Is there a fire anywhere nearby?",
+      "slovak": "Je tu niekde oheň, neďaleko?",
+      "transliteration": "Je tu niekde ohen, nablizko?",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:09:33.739553"
+    },
+    {
+      "english": "I smell smoke, please respond.",
+      "slovak": "Cítim dym, prosím, odpovedzte.",
+      "transliteration": "Citím dym, prosím, odpovedzte.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:09:33.739557"
+    },
+    {
+      "english": "The stairs are unsafe right now.",
+      "slovak": "Schody sú teraz nebezpečné.",
+      "transliteration": "Schody su teraz nebezpecne.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:09:33.739558"
+    },
+    {
+      "english": "My door is jammed, I can't escape.",
+      "slovak": "Dvere sa zasekli, nemôžem von.",
+      "transliteration": "Dvere sa zasekli, nemozem von.",
+      "category": "Emergency",
+      "generated_at": "2026-11-11T21:09:33.739559"
     }
   ],
-  "last_updated": "2026-11-11T19:16:16.938134"
+  "last_updated": "2026-11-11T21:09:33.739561"
 }
