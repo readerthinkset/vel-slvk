@@ -24219,7 +24219,42 @@
       "transliteration": "Dvere sa zasekli, nemozem von.",
       "category": "Emergency",
       "generated_at": "2026-11-11T21:09:33.739559"
+    },
+    {
+      "english": "Count to one, then start again.",
+      "slovak": "Počítaj na jedna, potom znova.",
+      "transliteration": "Pochitaj na jedna, potom znova.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:15:17.300809"
+    },
+    {
+      "english": "Reach two steps, and take a turn.",
+      "slovak": "Urob dva kroky, a otoč sa.",
+      "transliteration": "Urob dva kroky, a otoc sa.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:15:17.300822"
+    },
+    {
+      "english": "Three breaths, and you will calm down.",
+      "slovak": "Dýchni trikrát, a upokojíš sa.",
+      "transliteration": "Dychni trikrát, a upokojíš sa.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:15:17.300823"
+    },
+    {
+      "english": "We tried four times, still no luck.",
+      "slovak": "Skúšali sme štyrikrát, a nič.",
+      "transliteration": "Skušali sme štyrikrát, a nic.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:15:17.300825"
+    },
+    {
+      "english": "Five minutes left, don’t be late.",
+      "slovak": "Zostáva päť minút, ne meškaj.",
+      "transliteration": "Zostáva pät minút, nemeškaj.",
+      "category": "Numbers",
+      "generated_at": "2026-11-11T23:15:17.300826"
     }
   ],
-  "last_updated": "2026-11-11T21:09:33.739561"
+  "last_updated": "2026-11-11T23:15:17.300827"
 }
