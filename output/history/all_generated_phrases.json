@@ -24149,7 +24149,42 @@
       "transliteration": "Je toto jedlo naozaj palive?",
       "category": "Restaurant",
       "generated_at": "2026-11-11T03:52:30.604267"
+    },
+    {
+      "english": "Save first, pay bills without stress.",
+      "slovak": "Najprv ušetri, potom zaplať účty bez stresu.",
+      "transliteration": "Najprv usetri, potom zaplat ucti bez stresu",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:16:16.938115"
+    },
+    {
+      "english": "Set a budget, and stick to it.",
+      "slovak": "Nastav si rozpočet, a drž sa ho.",
+      "transliteration": "Nastav si rozpocet, a drz sa ho",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:16:16.938127"
+    },
+    {
+      "english": "Track spending, before it gets out.",
+      "slovak": "Sleduj výdavky, kým sa to nezhorší.",
+      "transliteration": "Sleduj vydavky, kym sa to nezhorši",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:16:16.938129"
+    },
+    {
+      "english": "Pay yourself first, every month.",
+      "slovak": "Vyplat sa prvý, každý mesiac.",
+      "transliteration": "Vyplat sa prvý, kazdy mesiac",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:16:16.938130"
+    },
+    {
+      "english": "Start an emergency fund today.",
+      "slovak": "Dnes si založ mimoriadny fond.",
+      "transliteration": "Dnes si zaloz mimoriadny fond",
+      "category": "Finance",
+      "generated_at": "2026-11-11T19:16:16.938132"
     }
   ],
-  "last_updated": "2026-11-11T03:52:30.604268"
+  "last_updated": "2026-11-11T19:16:16.938134"
 }
