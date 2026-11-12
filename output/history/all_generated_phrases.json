@@ -24254,7 +24254,42 @@
       "transliteration": "Zostáva pät minút, nemeškaj.",
       "category": "Numbers",
       "generated_at": "2026-11-11T23:15:17.300826"
+    },
+    {
+      "english": "I hope your day feels lighter.",
+      "slovak": "Prajem ti, aby sa ti ľahšie dýchalo.",
+      "transliteration": "Prajem ti, aby sa ti lahsie dychalo.",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T01:49:05.139765"
+    },
+    {
+      "english": "You matter, and I notice.",
+      "slovak": "Záleží ti, a všimol som si.",
+      "transliteration": "Zálezi ti, a vsimol som si.",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T01:49:05.139779"
+    },
+    {
+      "english": "Want help with that quickly?",
+      "slovak": "Pomôžem ti s tým rýchlo?",
+      "transliteration": "Pomozem ti s tym rychlo?",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T01:49:05.139780"
+    },
+    {
+      "english": "Thanks for being so patient.",
+      "slovak": "Ďakujem, že si taký trpezlivý.",
+      "transliteration": "Dakujem, ze si taky trpezlivy.",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T01:49:05.139781"
+    },
+    {
+      "english": "I’m here, if you need me.",
+      "slovak": "Som tu, ak ma budeš potrebovať.",
+      "transliteration": "Som tu, ak ma budes potrebovat.",
+      "category": "Kindness",
+      "generated_at": "2026-11-12T01:49:05.139782"
     }
   ],
-  "last_updated": "2026-11-11T23:15:17.300827"
+  "last_updated": "2026-11-12T01:49:05.139784"
 }
