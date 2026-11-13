@@ -24429,7 +24429,42 @@
       "transliteration": "Moja sestra vzdy pocuva, bez odsusudzovania.",
       "category": "Family Terms",
       "generated_at": "2026-11-12T22:30:43.011490"
+    },
+    {
+      "english": "Hello, I need help, please.",
+      "slovak": "Dobrý deň, potrebujem pomoc, prosím.",
+      "transliteration": "Dobry den, potrebujem pomoci, prosim.",
+      "category": "Travel",
+      "generated_at": "2026-11-13T00:55:48.520792"
+    },
+    {
+      "english": "What time does the bus leave?",
+      "slovak": "Kedy odchádza autobus?",
+      "transliteration": "Kedy odchadza autobus?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T00:55:48.520805"
+    },
+    {
+      "english": "How much is a one-way ticket?",
+      "slovak": "Koľko stojí jednosmerný lístok?",
+      "transliteration": "Kolko stoji jednosmerny listok?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T00:55:48.520807"
+    },
+    {
+      "english": "Where can I validate my ticket?",
+      "slovak": "Kde si môžem overiť lístok?",
+      "transliteration": "Kde si mozem overit listok?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T00:55:48.520808"
+    },
+    {
+      "english": "Is there a direct connection to Prague?",
+      "slovak": "Je tam priame spojenie do Prahy?",
+      "transliteration": "Je tam priame spojenie do Prahy?",
+      "category": "Travel",
+      "generated_at": "2026-11-13T00:55:48.520809"
     }
   ],
-  "last_updated": "2026-11-12T22:30:43.011493"
+  "last_updated": "2026-11-13T00:55:48.520811"
 }
