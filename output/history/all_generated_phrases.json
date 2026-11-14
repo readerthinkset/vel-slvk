@@ -24779,7 +24779,42 @@
       "transliteration": "tvoja chyba ťa nedefinuje",
       "category": "Forgiveness",
       "generated_at": "2026-11-14T21:01:31.867264"
+    },
+    {
+      "english": "In the morning, coffee first, always.",
+      "slovak": "Ráno najprv káva, vždy.",
+      "transliteration": "rano najprv kava vzdy",
+      "category": "Time",
+      "generated_at": "2026-11-14T23:41:01.016390"
+    },
+    {
+      "english": "By afternoon, I'm already tired.",
+      "slovak": "Do popoludnia, som už unavený.",
+      "transliteration": "do popoludnia som uz unaveny",
+      "category": "Time",
+      "generated_at": "2026-11-14T23:41:01.016409"
+    },
+    {
+      "english": "Evening arrives, and I slow down.",
+      "slovak": "Večer prichádza, spomalím tempo.",
+      "transliteration": "vecer prichadza spomalim tempo",
+      "category": "Time",
+      "generated_at": "2026-11-14T23:41:01.016410"
+    },
+    {
+      "english": "Night falls, the day is done.",
+      "slovak": "Keď padne noc, deň je hotový.",
+      "transliteration": "ked padne noc den je hotovy",
+      "category": "Time",
+      "generated_at": "2026-11-14T23:41:01.016412"
+    },
+    {
+      "english": "At dawn, I wake up quietly.",
+      "slovak": "Za úsvitu sa potichu zobudím.",
+      "transliteration": "za usvitu sa potichu zobudim",
+      "category": "Time",
+      "generated_at": "2026-11-14T23:41:01.016413"
     }
   ],
-  "last_updated": "2026-11-14T21:01:31.867265"
+  "last_updated": "2026-11-14T23:41:01.016416"
 }
