@@ -24674,7 +24674,42 @@
       "transliteration": "Ahoy, ďakujem, ze si dnes prisiel.",
       "category": "Greetings",
       "generated_at": "2026-11-14T04:11:29.805237"
+    },
+    {
+      "english": "Joy rises, like fresh morning air.",
+      "slovak": "Radosť stúpa, ako čerstvý ranný vzduch.",
+      "transliteration": "radost stup-a, ako cherstvy ranny vzduch",
+      "category": "Joy",
+      "generated_at": "2026-11-14T17:40:49.571639"
+    },
+    {
+      "english": "I smile inside, without even trying.",
+      "slovak": "Usmejem sa vnútri, ani sa nesnažím.",
+      "transliteration": "usmejem sa vnút-ri, ani sa nesnaz-im",
+      "category": "Joy",
+      "generated_at": "2026-11-14T17:40:49.571651"
+    },
+    {
+      "english": "Something good, keeps happening to me.",
+      "slovak": "Niečo dobré sa mi stále deje.",
+      "transliteration": "nieco dobre sa mi stale deje",
+      "category": "Joy",
+      "generated_at": "2026-11-14T17:40:49.571653"
+    },
+    {
+      "english": "My chest feels warm, and light.",
+      "slovak": "Hruď mám teplú, a ľahkú.",
+      "transliteration": "hrud mam teplu, a lahu-ku",
+      "category": "Joy",
+      "generated_at": "2026-11-14T17:40:49.571655"
+    },
+    {
+      "english": "Today feels easy, in the best way.",
+      "slovak": "Dnes sa mi žije ľahko, najlepšie.",
+      "transliteration": "dnes sa mi zij-e lah-ko, najlepšie",
+      "category": "Joy",
+      "generated_at": "2026-11-14T17:40:49.571656"
     }
   ],
-  "last_updated": "2026-11-14T04:11:29.805240"
+  "last_updated": "2026-11-14T17:40:49.571658"
 }
