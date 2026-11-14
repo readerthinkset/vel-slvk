@@ -24709,7 +24709,42 @@
       "transliteration": "dnes sa mi zij-e lah-ko, najlepšie",
       "category": "Joy",
       "generated_at": "2026-11-14T17:40:49.571656"
+    },
+    {
+      "english": "Say it slowly, then speed up.",
+      "slovak": "Povedz to pomaly, potom zrýchli.",
+      "transliteration": "Povedz to pomaly, potom zrýchli.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T19:03:09.098779"
+    },
+    {
+      "english": "Start with the first syllable.",
+      "slovak": "Začni prvou slabikou.",
+      "transliteration": "Zacni prvou slabikou.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T19:03:09.098793"
+    },
+    {
+      "english": "Stop, breathe, and try again.",
+      "slovak": "Zastav, nadýchni sa, skúsi to znova.",
+      "transliteration": "Zastav, nadichni sa, skusi to znova.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T19:03:09.098794"
+    },
+    {
+      "english": "Let it roll, keep it smooth.",
+      "slovak": "Nech to znie plynulo, bez trhania.",
+      "transliteration": "Nech to znie plynulo, bez trhania.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T19:03:09.098796"
+    },
+    {
+      "english": "Pronounce the final sound clearly.",
+      "slovak": "Vyslov posledný zvuk poriadne.",
+      "transliteration": "Vyslov posledny zvuk poriadne.",
+      "category": "Directions",
+      "generated_at": "2026-11-14T19:03:09.098797"
     }
   ],
-  "last_updated": "2026-11-14T17:40:49.571658"
+  "last_updated": "2026-11-14T19:03:09.098798"
 }
