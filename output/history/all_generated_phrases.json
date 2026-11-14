@@ -24639,7 +24639,42 @@
       "transliteration": "Povedz jednu vetu, poton ďalšiu, uč sa.",
       "category": "Perseverance",
       "generated_at": "2026-11-14T00:42:39.891530"
+    },
+    {
+      "english": "Hi, it’s great to see you!",
+      "slovak": "Ahoj, teší ma, že ťa vidím!",
+      "transliteration": "Ahoy, tesí ma, ze ta vidím!",
+      "category": "Greetings",
+      "generated_at": "2026-11-14T04:11:29.805215"
+    },
+    {
+      "english": "Good to have you here today.",
+      "slovak": "Teší nás, že si dnes tu.",
+      "transliteration": "Tesí nas, ze si dnes tu.",
+      "category": "Greetings",
+      "generated_at": "2026-11-14T04:11:29.805232"
+    },
+    {
+      "english": "Hello, how’s your day going so far?",
+      "slovak": "Ahoj, ako sa ti dnes darí?",
+      "transliteration": "Ahoy, ako sa ti dnes dari?",
+      "category": "Greetings",
+      "generated_at": "2026-11-14T04:11:29.805234"
+    },
+    {
+      "english": "Hey, welcome back, good to see you.",
+      "slovak": "Hej, vrátil(a) si sa, super, že ťa vidím.",
+      "transliteration": "Hej, vratil(a) si sa, super, ze ta vidim.",
+      "category": "Greetings",
+      "generated_at": "2026-11-14T04:11:29.805235"
+    },
+    {
+      "english": "Hi, thanks for coming today.",
+      "slovak": "Ahoj, ďakujem, že si dnes prišiel.",
+      "transliteration": "Ahoy, ďakujem, ze si dnes prisiel.",
+      "category": "Greetings",
+      "generated_at": "2026-11-14T04:11:29.805237"
     }
   ],
-  "last_updated": "2026-11-14T00:42:39.891532"
+  "last_updated": "2026-11-14T04:11:29.805240"
 }
