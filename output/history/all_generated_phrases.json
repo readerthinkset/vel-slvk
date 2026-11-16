@@ -25059,7 +25059,42 @@
       "transliteration": "Rozumieš mi, bez veľa slov.",
       "category": "Relationships",
       "generated_at": "2026-11-16T21:40:18.101615"
+    },
+    {
+      "english": "Could I get a menu, please?",
+      "slovak": "Môžem dostať jedálny lístok, prosím?",
+      "transliteration": "moʒem dostat jendajny listok, prosim",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T23:16:35.438908"
+    },
+    {
+      "english": "Is there vegetarian food on offer?",
+      "slovak": "Máte aj vegetariánske jedlá?",
+      "transliteration": "mate aj vegetarjanske jedla",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T23:16:35.438924"
+    },
+    {
+      "english": "Do you have something mild?",
+      "slovak": "Máte niečo mierne, prosím?",
+      "transliteration": "mate nieco miерne, prosim",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T23:16:35.438927"
+    },
+    {
+      "english": "How long will the wait be?",
+      "slovak": "Ako dlho potrvá čakanie?",
+      "transliteration": "ako dlho potrvа цakanie",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T23:16:35.438928"
+    },
+    {
+      "english": "Can I see today’s specials?",
+      "slovak": "Aké sú dnešné špeciality?",
+      "transliteration": "ake su dnesne speciality",
+      "category": "Restaurant",
+      "generated_at": "2026-11-16T23:16:35.438930"
     }
   ],
-  "last_updated": "2026-11-16T21:40:18.101616"
+  "last_updated": "2026-11-16T23:16:35.438932"
 }
