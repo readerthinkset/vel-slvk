@@ -24989,7 +24989,42 @@
       "transliteration": "Daj si raňajky, rozbehni telo jemne",
       "category": "Health",
       "generated_at": "2026-11-15T23:47:19.797814"
+    },
+    {
+      "english": "Welcome to Slovak class today, everyone.",
+      "slovak": "Vitajte na slovenčine dnes, všetci.",
+      "transliteration": "Vitajte na slovenčine dnes, vssetci.",
+      "category": "Education",
+      "generated_at": "2026-11-16T03:56:37.202062"
+    },
+    {
+      "english": "Let’s learn a useful question, now.",
+      "slovak": "Naučíme sa teraz užitočnú otázku.",
+      "transliteration": "Naucime sa teraz uzitocnu otazku.",
+      "category": "Education",
+      "generated_at": "2026-11-16T03:56:37.202077"
+    },
+    {
+      "english": "Repeat after me, slowly, please.",
+      "slovak": "Opakuj po mne, pomaly, prosím.",
+      "transliteration": "Opakuj po mne, pomaly, prosím.",
+      "category": "Education",
+      "generated_at": "2026-11-16T03:56:37.202080"
+    },
+    {
+      "english": "Great job, you understood the sentence.",
+      "slovak": "Super, pochopili ste celú vetu.",
+      "transliteration": "Super, pochopili ste celu vetu.",
+      "category": "Education",
+      "generated_at": "2026-11-16T03:56:37.202081"
+    },
+    {
+      "english": "Let’s practice numbers from one to ten.",
+      "slovak": "Precvičme čísla, od jednej do desiatich.",
+      "transliteration": "Precvicme cisla, od jednej do desiatich.",
+      "category": "Education",
+      "generated_at": "2026-11-16T03:56:37.202083"
     }
   ],
-  "last_updated": "2026-11-15T23:47:19.797816"
+  "last_updated": "2026-11-16T03:56:37.202086"
 }
