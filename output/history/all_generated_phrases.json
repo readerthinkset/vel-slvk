@@ -25129,7 +25129,42 @@
       "transliteration": "Začne pršať, cesta sa zaleskne.",
       "category": "Weather",
       "generated_at": "2026-11-17T00:35:42.652234"
+    },
+    {
+      "english": "My head hurts a little today.",
+      "slovak": "Moja hlava dnes trochu bolí.",
+      "transliteration": "moj-a hlava dnes malo boli",
+      "category": "Body Parts",
+      "generated_at": "2026-11-17T02:48:55.395215"
+    },
+    {
+      "english": "Your forehead is warm from sunlight.",
+      "slovak": "Tvoje čelo je teplé od slnka.",
+      "transliteration": "tvoje chelo je teplé od slnka",
+      "category": "Body Parts",
+      "generated_at": "2026-11-17T02:48:55.395231"
+    },
+    {
+      "english": "Her shoulder feels better now.",
+      "slovak": "Jej rameno je teraz lepšie.",
+      "transliteration": "jej ramen-o je teraz lepsie",
+      "category": "Body Parts",
+      "generated_at": "2026-11-17T02:48:55.395234"
+    },
+    {
+      "english": "His neck is stiff after training.",
+      "slovak": "Jeho krk je po tréningu stuhnutý.",
+      "transliteration": "jeho krk je po treningu stuhnuty",
+      "category": "Body Parts",
+      "generated_at": "2026-11-17T02:48:55.395235"
+    },
+    {
+      "english": "Our chest feels heavy in winter.",
+      "slovak": "Naše prsia v zime tiahnú nadol.",
+      "transliteration": "nase prsi-a v zime tiahn-u nadol",
+      "category": "Body Parts",
+      "generated_at": "2026-11-17T02:48:55.395237"
     }
   ],
-  "last_updated": "2026-11-17T00:35:42.652236"
+  "last_updated": "2026-11-17T02:48:55.395240"
 }
