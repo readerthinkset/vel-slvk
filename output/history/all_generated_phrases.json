@@ -25094,7 +25094,42 @@
       "transliteration": "ake su dnesne speciality",
       "category": "Restaurant",
       "generated_at": "2026-11-16T23:16:35.438930"
+    },
+    {
+      "english": "Morning clouds move across the hills.",
+      "slovak": "Ranné oblaky sa posúvajú cez kopce.",
+      "transliteration": "Ranné oblaky sa posúvajú cez kopce.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T00:35:42.652210"
+    },
+    {
+      "english": "The wind cools down my walk.",
+      "slovak": "Vietor mi ochladí cestu pešo.",
+      "transliteration": "Vietor mi ochladí cestu pešo.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T00:35:42.652228"
+    },
+    {
+      "english": "The sun breaks through the clouds.",
+      "slovak": "Slnko sa predrieva pomedzi oblaky.",
+      "transliteration": "Slnko sa predrieva pomedzi oblaky.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T00:35:42.652231"
+    },
+    {
+      "english": "We hear thunder far away now.",
+      "slovak": "Už teraz počujeme hromy kdesi v diaľke.",
+      "transliteration": "Už teraz počujeme hromy kdesi v diaľke.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T00:35:42.652232"
+    },
+    {
+      "english": "Rain starts, and the road shines.",
+      "slovak": "Začne pršať, cesta sa zaleskne.",
+      "transliteration": "Začne pršať, cesta sa zaleskne.",
+      "category": "Weather",
+      "generated_at": "2026-11-17T00:35:42.652234"
     }
   ],
-  "last_updated": "2026-11-16T23:16:35.438932"
+  "last_updated": "2026-11-17T00:35:42.652236"
 }
