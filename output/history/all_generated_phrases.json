@@ -25374,7 +25374,42 @@
       "transliteration": "Najprv porovnaj ceny, ušetríš naozaj.",
       "category": "Finance",
       "generated_at": "2026-11-18T05:15:29.527492"
+    },
+    {
+      "english": "Today, my Slovak sounds clearer.",
+      "slovak": "Dnes môj slovenčina znie jasnejšie.",
+      "transliteration": "Dnes môj slovenčina znie jasnejšie.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T20:00:01.907245"
+    },
+    {
+      "english": "I speak up, without fear.",
+      "slovak": "Hovorím nahlas, bez strachu.",
+      "transliteration": "Hovorím nahlas, bez strachu.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T20:00:01.907259"
+    },
+    {
+      "english": "I understand more, every time.",
+      "slovak": "Rozumiem viac, vždy viac.",
+      "transliteration": "Rozumiem viac, vždy viac.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T20:00:01.907260"
+    },
+    {
+      "english": "I ask questions, and it works.",
+      "slovak": "Pýtam sa otázky, a funguje to.",
+      "transliteration": "Pýtam sa otázky, a funguje to.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T20:00:01.907261"
+    },
+    {
+      "english": "My grammar feels less intimidating now.",
+      "slovak": "Moja gramatika mi už toľko nevadí.",
+      "transliteration": "Moja gramatika mi už toľko nevadí.",
+      "category": "Confidence",
+      "generated_at": "2026-11-18T20:00:01.907263"
     }
   ],
-  "last_updated": "2026-11-18T05:15:29.527493"
+  "last_updated": "2026-11-18T20:00:01.907264"
 }
