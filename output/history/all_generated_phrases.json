@@ -25409,7 +25409,42 @@
       "transliteration": "Moja gramatika mi už toľko nevadí.",
       "category": "Confidence",
       "generated_at": "2026-11-18T20:00:01.907263"
+    },
+    {
+      "english": "Listen, then try saying it.",
+      "slovak": "Počúvaj, potom to skús povedať.",
+      "transliteration": "Pochuvaj, potom to skus povedat.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:48:51.625162"
+    },
+    {
+      "english": "Use short phrases, don't worry.",
+      "slovak": "Používaj krátke vety, netráp sa.",
+      "transliteration": "Používaj kratke vety, netrap sa.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:48:51.625180"
+    },
+    {
+      "english": "Ask politely, speak slowly, please.",
+      "slovak": "Prosím, pýtaj sa slušne, pomaly.",
+      "transliteration": "Prosím, pytaj sa slušne, pomaly.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:48:51.625182"
+    },
+    {
+      "english": "Make mistakes, you’ll get better fast.",
+      "slovak": "Rob chyby, rýchlo sa zlepšíš.",
+      "transliteration": "Rob chyby, rychlo sa zlepsis.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:48:51.625184"
+    },
+    {
+      "english": "Say it again, even if wrong.",
+      "slovak": "Povedz to znovu, aj keď nesprávne.",
+      "transliteration": "Povedz to znovu, aj keď nespravne.",
+      "category": "Purpose",
+      "generated_at": "2026-11-18T21:48:51.625185"
     }
   ],
-  "last_updated": "2026-11-18T20:00:01.907264"
+  "last_updated": "2026-11-18T21:48:51.625188"
 }
