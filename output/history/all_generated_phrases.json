@@ -25619,7 +25619,42 @@
       "transliteration": "Po-VEď z to ZNO-vu, CÍT po-KROK.",
       "category": "Motivation",
       "generated_at": "2026-11-19T22:13:18.235580"
+    },
+    {
+      "english": "Repeat after me, then try alone.",
+      "slovak": "Opakuj po mne, potom to skús sám.",
+      "transliteration": "Opakuj po mne, potom to skús sám.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T23:22:00.522851"
+    },
+    {
+      "english": "Say it once more, slightly faster.",
+      "slovak": "Povedz to ešte raz, o trochu rýchlejšie.",
+      "transliteration": "Povedz to ešte raz, o trochu rýchlejšie.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T23:22:00.522866"
+    },
+    {
+      "english": "Focus on the first sound.",
+      "slovak": "Sústred sa na prvý zvuk.",
+      "transliteration": "Sústred sa na prvý zvuk.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T23:22:00.522868"
+    },
+    {
+      "english": "Now pronounce the whole word.",
+      "slovak": "Teraz vyslov celé slovo.",
+      "transliteration": "Teraz vyslov celé slovo.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T23:22:00.522869"
+    },
+    {
+      "english": "Try the sound with your tongue.",
+      "slovak": "Skús ten zvuk s jazykom.",
+      "transliteration": "Skús ten zvuk s jazykom.",
+      "category": "Directions",
+      "generated_at": "2026-11-19T23:22:00.522870"
     }
   ],
-  "last_updated": "2026-11-19T22:13:18.235582"
+  "last_updated": "2026-11-19T23:22:00.522872"
 }
