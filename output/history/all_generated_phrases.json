@@ -25514,7 +25514,42 @@
       "transliteration": "Chcem drzat tvoju ruku.",
       "category": "Love",
       "generated_at": "2026-11-19T01:45:44.036745"
+    },
+    {
+      "english": "Please take a seat, everyone.",
+      "slovak": "Prosím, posaďte sa, všetci.",
+      "transliteration": "Prosím, posaďte sa, všetci.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:10:05.407381"
+    },
+    {
+      "english": "Could you help me, please?",
+      "slovak": "Môžeš mi pomôcť, prosím?",
+      "transliteration": "Môžeš mi pomôcť, prosím?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:10:05.407399"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "slovak": "Kde je najbližšia zastávka autobusu?",
+      "transliteration": "Kde je najbližšia zastávka autobusu?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:10:05.407401"
+    },
+    {
+      "english": "I’m looking for this address.",
+      "slovak": "Hľadám túto adresu.",
+      "transliteration": "Hľadám túto adresu.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:10:05.407403"
+    },
+    {
+      "english": "How much does it cost, roughly?",
+      "slovak": "Koľko to stojí, približne?",
+      "transliteration": "Koľko to stojí, približne?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-19T05:10:05.407405"
     }
   ],
-  "last_updated": "2026-11-19T01:45:44.036747"
+  "last_updated": "2026-11-19T05:10:05.407407"
 }
