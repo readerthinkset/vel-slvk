@@ -25479,7 +25479,42 @@
       "transliteration": "Pri tebe možem byť sám sebou, vždy.",
       "category": "Friendship",
       "generated_at": "2026-11-18T23:14:34.183329"
+    },
+    {
+      "english": "I love you, more than words.",
+      "slovak": "Milujem ťa, viac než slová.",
+      "transliteration": "Milujem ťa, viac nez slova.",
+      "category": "Love",
+      "generated_at": "2026-11-19T01:45:44.036726"
+    },
+    {
+      "english": "Stay with me, please.",
+      "slovak": "Zostaň so mnou, prosím.",
+      "transliteration": "Zostan so mnou, prosim.",
+      "category": "Love",
+      "generated_at": "2026-11-19T01:45:44.036740"
+    },
+    {
+      "english": "I choose you, every single day.",
+      "slovak": "Vyberám si ťa každý deň.",
+      "transliteration": "Vyberam si ťa kazdy den.",
+      "category": "Love",
+      "generated_at": "2026-11-19T01:45:44.036742"
+    },
+    {
+      "english": "Your smile calms my worries.",
+      "slovak": "Tvoj úsmev upokojuje moje starosti.",
+      "transliteration": "Tvoj usmev upokojuje moje starosti.",
+      "category": "Love",
+      "generated_at": "2026-11-19T01:45:44.036743"
+    },
+    {
+      "english": "I want to hold your hand.",
+      "slovak": "Chcem držať tvoju ruku.",
+      "transliteration": "Chcem drzat tvoju ruku.",
+      "category": "Love",
+      "generated_at": "2026-11-19T01:45:44.036745"
     }
   ],
-  "last_updated": "2026-11-18T23:14:34.183331"
+  "last_updated": "2026-11-19T01:45:44.036747"
 }
