@@ -25549,7 +25549,42 @@
       "transliteration": "Koľko to stojí, približne?",
       "category": "Common Expressions",
       "generated_at": "2026-11-19T05:10:05.407405"
+    },
+    {
+      "english": "Please call 112 immediately.",
+      "slovak": "Prosím, hneď volajte 112.",
+      "transliteration": "Prosím, hneď volajte jedi-12.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T19:58:02.627434"
+    },
+    {
+      "english": "Help me, I feel faint.",
+      "slovak": "Pomôžte mi, je mi na odpadnutie.",
+      "transliteration": "Pomôžte mi, je mi na odpadnutie.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T19:58:02.627448"
+    },
+    {
+      "english": "Are we safe right now?",
+      "slovak": "Sme teraz v bezpečí?",
+      "transliteration": "Sme teraz v bezpečí?",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T19:58:02.627450"
+    },
+    {
+      "english": "Emergency, someone is hurt!",
+      "slovak": "Núdzová situácia, niekto je zranený!",
+      "transliteration": "Núdzová situácia, niekto je zranený!",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T19:58:02.627452"
+    },
+    {
+      "english": "Please send an ambulance now.",
+      "slovak": "Prosím, pošlite sanitku hneď.",
+      "transliteration": "Prosím, pošlite sanitku hneď.",
+      "category": "Emergency",
+      "generated_at": "2026-11-19T19:58:02.627453"
     }
   ],
-  "last_updated": "2026-11-19T05:10:05.407407"
+  "last_updated": "2026-11-19T19:58:02.627456"
 }
