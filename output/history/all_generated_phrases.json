@@ -25584,7 +25584,42 @@
       "transliteration": "Prosím, pošlite sanitku hneď.",
       "category": "Emergency",
       "generated_at": "2026-11-19T19:58:02.627453"
+    },
+    {
+      "english": "Motivated, repeat it, Slovak gets easier.",
+      "slovak": "Motivuj sa, opakuj, slovenčina bude ľahšia.",
+      "transliteration": "MOTI-viuje sa, OPa-kuj, slov-en-CHI-na bu-de LAH-sia.",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T22:13:18.235558"
+    },
+    {
+      "english": "You can do it, even today, keep going.",
+      "slovak": "Zvládneš to, aj dnes, pokračuj.",
+      "transliteration": "ZVLA-dneš to, aj DNES, po-KRÁ-čuj.",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T22:13:18.235575"
+    },
+    {
+      "english": "Speak slowly, your confidence will follow.",
+      "slovak": "Hovor pomaly, dôvera príde sama.",
+      "transliteration": "HO-var PO-ma-ly, DOU-ve-ra PRI-de sa-ma.",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T22:13:18.235577"
+    },
+    {
+      "english": "Don’t fear mistakes, correct and move on.",
+      "slovak": "Neboj sa chýb, oprav ich a pokračuj.",
+      "transliteration": "NE-boj sa HÍB, o-PRA-v ich a po-KRÁ-čuj.",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T22:13:18.235578"
+    },
+    {
+      "english": "Say the word again, feel progress.",
+      "slovak": "Povedz to znovu, cíť pokrok.",
+      "transliteration": "Po-VEď z to ZNO-vu, CÍT po-KROK.",
+      "category": "Motivation",
+      "generated_at": "2026-11-19T22:13:18.235580"
     }
   ],
-  "last_updated": "2026-11-19T19:58:02.627456"
+  "last_updated": "2026-11-19T22:13:18.235582"
 }
