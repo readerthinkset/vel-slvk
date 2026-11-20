@@ -25654,7 +25654,42 @@
       "transliteration": "Skús ten zvuk s jazykom.",
       "category": "Directions",
       "generated_at": "2026-11-19T23:22:00.522870"
+    },
+    {
+      "english": "Unlock your phone, it feels faster.",
+      "slovak": "Odomkni telefon, zdá sa rýchlejší.",
+      "transliteration": "Odomkni telefon, zda sa rychlejsi.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T01:41:35.665829"
+    },
+    {
+      "english": "Enable Wi‑Fi, and you’re online.",
+      "slovak": "Zapni Wi‑Fi, si hneď online.",
+      "transliteration": "Zapni Wi-Fi, si hned online.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T01:41:35.665841"
+    },
+    {
+      "english": "Turn on Bluetooth, share easily.",
+      "slovak": "Zapni Bluetooth, zdieľaj bez starostí.",
+      "transliteration": "Zapni Bluetooth, zdieľaj bez starosti.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T01:41:35.665843"
+    },
+    {
+      "english": "Pair the devices, start transferring files.",
+      "slovak": "Spáruj zariadenia, začni prenášať súbory.",
+      "transliteration": "Spár u j zariadenia, zacni prenasať subory.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T01:41:35.665845"
+    },
+    {
+      "english": "Scan the QR code, tap confirm.",
+      "slovak": "Naskenuj QR kód, ťukni na potvrdenie.",
+      "transliteration": "Naskenuj QR kod, t ukni na potvrdenie.",
+      "category": "Technology",
+      "generated_at": "2026-11-20T01:41:35.665846"
     }
   ],
-  "last_updated": "2026-11-19T23:22:00.522872"
+  "last_updated": "2026-11-20T01:41:35.665848"
 }
