@@ -25829,7 +25829,42 @@
       "transliteration": "Nerob si starosti, slovenčina príde prirodzene.",
       "category": "Success",
       "generated_at": "2026-11-20T22:53:29.063059"
+    },
+    {
+      "english": "Where is the nearest ATM, please?",
+      "slovak": "Kde je najbližší bankomat, prosím?",
+      "transliteration": "Kde je najblizsi bankomat, prosim?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:07:31.610147"
+    },
+    {
+      "english": "I’d like a day ticket for transport.",
+      "slovak": "Chcel by som denné cestovné lístky.",
+      "transliteration": "Chcel by som denne cestovne listky.",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:07:31.610160"
+    },
+    {
+      "english": "Does this bus stop here?",
+      "slovak": "Zastavuje ten autobus tu?",
+      "transliteration": "Zastavuje ten autobus tu?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:07:31.610162"
+    },
+    {
+      "english": "How much is breakfast in this café?",
+      "slovak": "Koľko stojí raňajky v tejto kaviarni?",
+      "transliteration": "Kolko stoji raniajky v tejto kaviarni?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:07:31.610163"
+    },
+    {
+      "english": "Could I have the menu, please?",
+      "slovak": "Mohol by som si pozrieť jedálny lístok?",
+      "transliteration": "Mohlo by som si pozriet jedalny listok?",
+      "category": "Travel",
+      "generated_at": "2026-11-21T01:07:31.610165"
     }
   ],
-  "last_updated": "2026-11-20T22:53:29.063061"
+  "last_updated": "2026-11-21T01:07:31.610168"
 }
