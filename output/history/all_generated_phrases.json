@@ -25969,7 +25969,42 @@
       "transliteration": "Starosti sa mi stracaju, po kuskoch.",
       "category": "Joy",
       "generated_at": "2026-11-21T20:26:06.779658"
+    },
+    {
+      "english": "Where is the classroom, please?",
+      "slovak": "Kde je táto učebňa, prosím?",
+      "transliteration": "Kde je tat o ucebna, prosim?",
+      "category": "Education",
+      "generated_at": "2026-11-21T21:58:08.072420"
+    },
+    {
+      "english": "I don't understand, can you help?",
+      "slovak": "Nerozumiem, môžete mi pomôcť?",
+      "transliteration": "Nerozum iem, mozete mi pomoct?",
+      "category": "Education",
+      "generated_at": "2026-11-21T21:58:08.072434"
+    },
+    {
+      "english": "How do you say this in Slovak?",
+      "slovak": "Ako sa to povie po slovensky?",
+      "transliteration": "Ako sa to povie po slovensky?",
+      "category": "Education",
+      "generated_at": "2026-11-21T21:58:08.072436"
+    },
+    {
+      "english": "Can I ask a question now?",
+      "slovak": "Môžem sa teraz spýtať otázku?",
+      "transliteration": "Mozem sa teraz spytat otazku?",
+      "category": "Education",
+      "generated_at": "2026-11-21T21:58:08.072437"
+    },
+    {
+      "english": "Please speak a little more slowly.",
+      "slovak": "Prosím, hovorte trochu pomalšie.",
+      "transliteration": "Prosím, hovorte trochu pomalsie.",
+      "category": "Education",
+      "generated_at": "2026-11-21T21:58:08.072438"
     }
   ],
-  "last_updated": "2026-11-21T20:26:06.779662"
+  "last_updated": "2026-11-21T21:58:08.072439"
 }
