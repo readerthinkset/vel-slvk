@@ -26144,7 +26144,42 @@
       "transliteration": "Tieto rukavice držia moje ruky v teple.",
       "category": "Clothes",
       "generated_at": "2026-11-22T20:40:48.334975"
+    },
+    {
+      "english": "Turn it up, I love this beat.",
+      "slovak": "Zvýš hlasitosť, toto je môj beat.",
+      "transliteration": "Zvyš hlasitosť, toto je môj beat.",
+      "category": "Music",
+      "generated_at": "2026-11-22T22:15:51.351535"
+    },
+    {
+      "english": "Turn it down, please, it's too loud.",
+      "slovak": "Stíš to, prosím, je to príliš hlasné.",
+      "transliteration": "Stíš to, prosím, je to príliš hlasné.",
+      "category": "Music",
+      "generated_at": "2026-11-22T22:15:51.351550"
+    },
+    {
+      "english": "What song is this?",
+      "slovak": "Aká je to pesnička?",
+      "transliteration": "Aká je to pesnička?",
+      "category": "Music",
+      "generated_at": "2026-11-22T22:15:51.351552"
+    },
+    {
+      "english": "Sing with me, just for a moment.",
+      "slovak": "Zaspievaj so mnou, len na chvíľu.",
+      "transliteration": "Zaspievaj so mnou, len na chvíľu.",
+      "category": "Music",
+      "generated_at": "2026-11-22T22:15:51.351553"
+    },
+    {
+      "english": "Can you play that part again?",
+      "slovak": "Môžeš zahrať tú časť znova?",
+      "transliteration": "Môžeš zahrať tú časť znova?",
+      "category": "Music",
+      "generated_at": "2026-11-22T22:15:51.351554"
     }
   ],
-  "last_updated": "2026-11-22T20:40:48.334977"
+  "last_updated": "2026-11-22T22:15:51.351555"
 }
