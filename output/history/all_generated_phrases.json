@@ -26109,7 +26109,42 @@
       "transliteration": "Tvoj pokrok sa pocita, aj ked je pomaly.",
       "category": "Strength",
       "generated_at": "2026-11-22T19:03:53.775825"
+    },
+    {
+      "english": "I like this dress for summer evenings.",
+      "slovak": "Páči sa mi tieto šaty na letné večery.",
+      "transliteration": "Pači sa mi tieto šaty na letné večery.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T20:40:48.334957"
+    },
+    {
+      "english": "Can you show me those boots?",
+      "slovak": "Môžeš mi ukázať tie čižmy?",
+      "transliteration": "Možeš mi ukázať tie čižmy?",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T20:40:48.334970"
+    },
+    {
+      "english": "This shirt smells fresh, somehow.",
+      "slovak": "Táto košeľa pekne vonia, nejako.",
+      "transliteration": "Táto košeľa pekne vonia, nejako.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T20:40:48.334972"
+    },
+    {
+      "english": "Her hat shades her face well.",
+      "slovak": "Jej klobúk dobre tieni tvár.",
+      "transliteration": "Jej klobúk dobre tieni tvár.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T20:40:48.334974"
+    },
+    {
+      "english": "These gloves keep my hands warm.",
+      "slovak": "Tieto rukavice držia moje ruky v teple.",
+      "transliteration": "Tieto rukavice držia moje ruky v teple.",
+      "category": "Clothes",
+      "generated_at": "2026-11-22T20:40:48.334975"
     }
   ],
-  "last_updated": "2026-11-22T19:03:53.775828"
+  "last_updated": "2026-11-22T20:40:48.334977"
 }
