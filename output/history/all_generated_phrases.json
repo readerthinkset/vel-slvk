@@ -26179,7 +26179,42 @@
       "transliteration": "Môžeš zahrať tú časť znova?",
       "category": "Music",
       "generated_at": "2026-11-22T22:15:51.351554"
+    },
+    {
+      "english": "I will be there in ten minutes.",
+      "slovak": "Prídem o desať minút.",
+      "transliteration": "Prídem o desať minút.",
+      "category": "Time",
+      "generated_at": "2026-11-23T00:37:37.026490"
+    },
+    {
+      "english": "Give me a minute, please.",
+      "slovak": "Daj mi minútku, prosím.",
+      "transliteration": "Daj mi minútku, prosím.",
+      "category": "Time",
+      "generated_at": "2026-11-23T00:37:37.026504"
+    },
+    {
+      "english": "We should start soon, not late.",
+      "slovak": "Mali by sme začať čoskoro, nie neskoro.",
+      "transliteration": "Mali by sme začať čoskoro, nie neskoro.",
+      "category": "Time",
+      "generated_at": "2026-11-23T00:37:37.026506"
+    },
+    {
+      "english": "Wait here until I come back.",
+      "slovak": "Počkajte tu, kým sa vrátim.",
+      "transliteration": "Počkajte tu, kým sa vrátim.",
+      "category": "Time",
+      "generated_at": "2026-11-23T00:37:37.026507"
+    },
+    {
+      "english": "Let's meet after work, at six.",
+      "slovak": "Stretnime sa po práci, o šiestej.",
+      "transliteration": "Stretnime sa po práci, o šiestej.",
+      "category": "Time",
+      "generated_at": "2026-11-23T00:37:37.026508"
     }
   ],
-  "last_updated": "2026-11-22T22:15:51.351555"
+  "last_updated": "2026-11-23T00:37:37.026510"
 }
