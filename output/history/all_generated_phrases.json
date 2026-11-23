@@ -26214,7 +26214,42 @@
       "transliteration": "Stretnime sa po práci, o šiestej.",
       "category": "Time",
       "generated_at": "2026-11-23T00:37:37.026508"
+    },
+    {
+      "english": "Pure white, clean and bright.",
+      "slovak": "Čistá biela, čistá a jasná.",
+      "transliteration": "Chista biela, chista a jasna.",
+      "category": "Colors",
+      "generated_at": "2026-11-23T04:52:36.520128"
+    },
+    {
+      "english": "Soft grey, calm and ordinary.",
+      "slovak": "Jemnosivá, pokojná a všedná.",
+      "transliteration": "Jemno siva, pokojna a vsedna.",
+      "category": "Colors",
+      "generated_at": "2026-11-23T04:52:36.520147"
+    },
+    {
+      "english": "Bold black, strong and serious.",
+      "slovak": "Hlboká čierna, silná a vážna.",
+      "transliteration": "Hlboka cierna, silna a vazna.",
+      "category": "Colors",
+      "generated_at": "2026-11-23T04:52:36.520149"
+    },
+    {
+      "english": "Warm brown, like fresh bread.",
+      "slovak": "Teplohnedá, ako čerstvý chlieb.",
+      "transliteration": "Teplo hneda, ako certvy chlieb.",
+      "category": "Colors",
+      "generated_at": "2026-11-23T04:52:36.520150"
+    },
+    {
+      "english": "Earthy taupe, quiet and practical.",
+      "slovak": "Zemitý taupe, tichý a praktický.",
+      "transliteration": "Zemity taupe, tichy a prakticky.",
+      "category": "Colors",
+      "generated_at": "2026-11-23T04:52:36.520152"
     }
   ],
-  "last_updated": "2026-11-23T00:37:37.026510"
+  "last_updated": "2026-11-23T04:52:36.520156"
 }
