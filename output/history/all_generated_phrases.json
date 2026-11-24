@@ -26284,7 +26284,42 @@
       "transliteration": "mo-je zapästie boli, ked dviham krabice",
       "category": "Body Parts",
       "generated_at": "2026-11-23T23:24:52.533167"
+    },
+    {
+      "english": "How much is this scarf?",
+      "slovak": "Koľko stojí táto šatka?",
+      "transliteration": "Kolko stoi taka satka?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T01:33:06.432573"
+    },
+    {
+      "english": "Do you have this in black?",
+      "slovak": "Máte to v čiernej farbe?",
+      "transliteration": "Mate to v cierej farbe?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T01:33:06.432585"
+    },
+    {
+      "english": "Can I try this on, please?",
+      "slovak": "Môžem si to vyskúšať, prosím?",
+      "transliteration": "Mozem si to vyskusat, prosim?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T01:33:06.432587"
+    },
+    {
+      "english": "What sizes do you have?",
+      "slovak": "Aké veľkosti máte k dispozícii?",
+      "transliteration": "Ake velkosti mate k dispozicii?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T01:33:06.432589"
+    },
+    {
+      "english": "Is there a sale on today?",
+      "slovak": "Je dnes výpredaj alebo zľava?",
+      "transliteration": "Je dnes vypredaj alebo zlava?",
+      "category": "Shopping",
+      "generated_at": "2026-11-24T01:33:06.432593"
     }
   ],
-  "last_updated": "2026-11-23T23:24:52.533169"
+  "last_updated": "2026-11-24T01:33:06.432595"
 }
