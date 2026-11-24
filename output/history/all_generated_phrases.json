@@ -26424,7 +26424,42 @@
       "transliteration": "povedz ahoj, pokracuj v rozhovore",
       "category": "Purpose",
       "generated_at": "2026-11-24T07:42:21.249120"
+    },
+    {
+      "english": "Thanks for your time, I needed it.",
+      "slovak": "Ďakujem za tvoj čas, naozaj som ho potreboval.",
+      "transliteration": "Djakujem za tvoj cas, naozaj som ho potreboval.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-24T21:56:17.159007"
+    },
+    {
+      "english": "I’m grateful for your quick response.",
+      "slovak": "Som vďačný za tvoju rýchlu odpoveď.",
+      "transliteration": "Som vdacny za tvoju rychlu odpoved.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-24T21:56:17.159019"
+    },
+    {
+      "english": "Thank you for helping me today.",
+      "slovak": "Ďakujem, že si mi dnes pomohol.",
+      "transliteration": "Djakujem, ze si mi dnes pomohol.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-24T21:56:17.159020"
+    },
+    {
+      "english": "Your encouragement means a lot to me.",
+      "slovak": "Tvoje povzbudenie mi veľmi pomáha.",
+      "transliteration": "Tvoje povzbudenie mi velmi pomaha.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-24T21:56:17.159022"
+    },
+    {
+      "english": "I appreciate you taking care of this.",
+      "slovak": "Vážim si, že sa o to staráš.",
+      "transliteration": "Vazim si, ze sa o to staras.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-24T21:56:17.159023"
     }
   ],
-  "last_updated": "2026-11-24T07:42:21.249122"
+  "last_updated": "2026-11-24T21:56:17.159024"
 }
