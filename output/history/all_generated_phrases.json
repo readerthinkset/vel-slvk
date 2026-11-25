@@ -26529,7 +26529,42 @@
       "transliteration": "Pý-tam sa, a dos-tá-va-m jas-nej-šie od-po-ve-de.",
       "category": "Confidence",
       "generated_at": "2026-11-25T01:13:41.758767"
+    },
+    {
+      "english": "Clouds drift by, slow and steady.",
+      "slovak": "Mraky sa lenivě unášajú, pomaly a stály.",
+      "transliteration": "Mraky sa lenive unášajú, pomaly a stály.",
+      "category": "Nature",
+      "generated_at": "2026-11-25T03:24:47.303616"
+    },
+    {
+      "english": "Wind moves the grass, quietly everywhere.",
+      "slovak": "Vietor hýbe trávou, potichu všade.",
+      "transliteration": "Vietor hybe travou, potichu vsade.",
+      "category": "Nature",
+      "generated_at": "2026-11-25T03:24:47.303633"
+    },
+    {
+      "english": "The river hums, carrying stones along.",
+      "slovak": "Rieka jemne bzučí, unáša kamene.",
+      "transliteration": "Rieka jemne bzuci, unáša kamene.",
+      "category": "Nature",
+      "generated_at": "2026-11-25T03:24:47.303636"
+    },
+    {
+      "english": "Sunlight breaks through, and the meadow glows.",
+      "slovak": "Svetlo prerazí mraky, lúka žiari.",
+      "transliteration": "Svetlo prerazi mraky, luka ziari.",
+      "category": "Nature",
+      "generated_at": "2026-11-25T03:24:47.303637"
+    },
+    {
+      "english": "A gentle fog rolls in, from the valley.",
+      "slovak": "Jemná hmla sa valí z údolia.",
+      "transliteration": "Jemna hmla sa valí z udolia.",
+      "category": "Nature",
+      "generated_at": "2026-11-25T03:24:47.303639"
     }
   ],
-  "last_updated": "2026-11-25T01:13:41.758769"
+  "last_updated": "2026-11-25T03:24:47.303642"
 }
