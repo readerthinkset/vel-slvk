@@ -26599,7 +26599,42 @@
       "transliteration": "Citím sa vypocuty/á, ked pocuvas.",
       "category": "Relationships",
       "generated_at": "2026-11-25T06:11:54.970782"
+    },
+    {
+      "english": "Drink water, help your body recover.",
+      "slovak": "Pi si vodu, pomôžeš telu zotaviť sa.",
+      "transliteration": "pí si vo-du, pomo-žeš te-lu zo-ta-viť sa",
+      "category": "Health",
+      "generated_at": "2026-11-25T21:05:11.313122"
+    },
+    {
+      "english": "Brush your teeth twice, stay fresh.",
+      "slovak": "Čisti si zuby dvakrát, buď svieži.",
+      "transliteration": "čis-ti si zu-by dva-krát, buď sve-ži",
+      "category": "Health",
+      "generated_at": "2026-11-25T21:05:11.313134"
+    },
+    {
+      "english": "Eat slowly, enjoy every bite.",
+      "slovak": "Jed pomaly, vychutnaj si každé sústo.",
+      "transliteration": "jed po-ma-ly, vy-chut-naj si kaž-dé sú-sto",
+      "category": "Health",
+      "generated_at": "2026-11-25T21:05:11.313136"
+    },
+    {
+      "english": "Step outside, get some fresh air.",
+      "slovak": "Choď von, nadýchaj sa čerstvého vzduchu.",
+      "transliteration": "choď von, na-dych-aj sa čers-tve-ho vzdu-chu",
+      "category": "Health",
+      "generated_at": "2026-11-25T21:05:11.313137"
+    },
+    {
+      "english": "Rest tonight, your body will thank you.",
+      "slovak": "Daj si dnes večer oddych, telo poďakuje.",
+      "transliteration": "daj si dnes ve-čer od-dych, te-lo poďaku-je",
+      "category": "Health",
+      "generated_at": "2026-11-25T21:05:11.313139"
     }
   ],
-  "last_updated": "2026-11-25T06:11:54.970784"
+  "last_updated": "2026-11-25T21:05:11.313141"
 }
