@@ -26739,7 +26739,42 @@
       "transliteration": "Potrebujeme eště pät minút.",
       "category": "Numbers",
       "generated_at": "2026-11-26T02:41:12.064382"
+    },
+    {
+      "english": "I'd like the menu, please.",
+      "slovak": "Dajte mi, prosím, jedálny lístok.",
+      "transliteration": "Dejte mi, prosím, jedálny lístok.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T06:03:43.416218"
+    },
+    {
+      "english": "Can I see the wine list?",
+      "slovak": "Môžem si pozrieť vinotéku, prosím?",
+      "transliteration": "Móžem si pozrieť vinotéku, prosím?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T06:03:43.416235"
+    },
+    {
+      "english": "What soups do you have today?",
+      "slovak": "Aké polievky máte dnes?",
+      "transliteration": "Aké polievky máte dnes?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T06:03:43.416237"
+    },
+    {
+      "english": "I’ll have the chicken dish.",
+      "slovak": "Dám si kuracie jedlo.",
+      "transliteration": "Dám si kuracie jedlo.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T06:03:43.416240"
+    },
+    {
+      "english": "Is the pasta served with sauce?",
+      "slovak": "Je k cestovinám omáčka?",
+      "transliteration": "Je k cestovinám omáčka?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-26T06:03:43.416242"
     }
   ],
-  "last_updated": "2026-11-26T02:41:12.064384"
+  "last_updated": "2026-11-26T06:03:43.416244"
 }
