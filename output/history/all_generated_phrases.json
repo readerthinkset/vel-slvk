@@ -26669,7 +26669,42 @@
       "transliteration": "Počúvam ťa, daj si čas.",
       "category": "Kindness",
       "generated_at": "2026-11-25T23:00:54.193080"
+    },
+    {
+      "english": "I forgot my password again, sorry.",
+      "slovak": "Zasa som zabudol heslo, prepáč.",
+      "transliteration": "Zasa som zabudol heslo, prepac.",
+      "category": "Technology",
+      "generated_at": "2026-11-26T00:47:51.716665"
+    },
+    {
+      "english": "Can you help me set it up?",
+      "slovak": "Môžeš mi pomôcť s nastavením?",
+      "transliteration": "Mozes mi pomoct s nastavenim?",
+      "category": "Technology",
+      "generated_at": "2026-11-26T00:47:51.716675"
+    },
+    {
+      "english": "The Wi-Fi signal is weak here.",
+      "slovak": "Tu je slabý signál Wi-Fi.",
+      "transliteration": "Tu je slaby signal Wi-Fi.",
+      "category": "Technology",
+      "generated_at": "2026-11-26T00:47:51.716677"
+    },
+    {
+      "english": "My phone is running low on storage.",
+      "slovak": "Môj telefón má málo miesta.",
+      "transliteration": "Moj telefon ma malo miesta.",
+      "category": "Technology",
+      "generated_at": "2026-11-26T00:47:51.716679"
+    },
+    {
+      "english": "Please, restart the app, it froze.",
+      "slovak": "Prosím, reštartuj aplikáciu, zamrzla.",
+      "transliteration": "Prosím, restartuj aplikaciu, zamrzla.",
+      "category": "Technology",
+      "generated_at": "2026-11-26T00:47:51.716680"
     }
   ],
-  "last_updated": "2026-11-25T23:00:54.193082"
+  "last_updated": "2026-11-26T00:47:51.716685"
 }
