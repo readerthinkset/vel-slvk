@@ -26774,7 +26774,42 @@
       "transliteration": "Je k cestovinám omáčka?",
       "category": "Restaurant",
       "generated_at": "2026-11-26T06:03:43.416242"
+    },
+    {
+      "english": "Hi! How are things with you today?",
+      "slovak": "Ahoj, ako sa dnes máš?",
+      "transliteration": "Ahoj, ako sa dnes mas?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:56:47.355224"
+    },
+    {
+      "english": "Excuse me, where’s the bathroom, please?",
+      "slovak": "Prepáčte, kde je toaleta?",
+      "transliteration": "Prepácete, kde je toaleta?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:56:47.355237"
+    },
+    {
+      "english": "Sorry, I didn’t mean it.",
+      "slovak": "Prepáč, nemyslel som to vážne.",
+      "transliteration": "Prepác, nemyslel som to vazne.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:56:47.355240"
+    },
+    {
+      "english": "Thanks, you really helped me.",
+      "slovak": "Vďaka, naozaj si mi pomohol.",
+      "transliteration": "Vďaka, naroj si mi pomohol.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:56:47.355242"
+    },
+    {
+      "english": "No worries, it happens.",
+      "slovak": "Nevadí, stáva sa to.",
+      "transliteration": "Nevadi, stava sa to.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-26T20:56:47.355243"
     }
   ],
-  "last_updated": "2026-11-26T06:03:43.416244"
+  "last_updated": "2026-11-26T20:56:47.355250"
 }
