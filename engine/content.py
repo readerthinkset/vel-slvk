@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import json
 import random
+import re
 import time
 from datetime import datetime
 
@@ -19,58 +20,95 @@ PHRASE_KEY = config.LANGUAGE["history_key"]
 LANGUAGE_NAME = config.LANGUAGE["name"]
 NATIVE_NAME = config.LANGUAGE["native_name"]
 
+_JP_RANGES = (
+    ("\u3040", "\u30ff"),  # hiragana + katakana
+    ("\u3400", "\u4dbf"),  # CJK extension A
+    ("\u4e00", "\u9fff"),  # CJK unified ideographs
+)
+_VI_CHARS = set("ăâđêôơưĂÂĐÊÔƠƯáàảãạắằẳẵặấầẩẫậéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ")
+
+
+def _has_japanese(text: str) -> bool:
+    return any(start <= ch <= end for ch in text for start, end in _JP_RANGES)
+
+
+def _valid_native(text: str) -> bool:
+    if config.LANGUAGE.get("code") != "ja":
+        return True
+    if not _has_japanese(text):
+        return False
+    return not any(ch in _VI_CHARS for ch in text)
+
+
+def _clean_translit(text: str) -> str:
+    """Tidy AI romaji: capitalisation, punctuation spacing, split te-forms."""
+    text = text.strip().strip("[]")
+    if not text:
+        return text
+    text = re.sub(r"\b(\w+)tsu te\b", r"\1tte", text, flags=re.IGNORECASE)
+    text = re.sub(r"\b(\w*[aeiou]) i\b", r"\1i", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+([,.!?])", r"\1", text)
+    text = re.sub(
+        r"(^|[.!?]\s+)([a-z])",
+        lambda match: match.group(1) + match.group(2).upper(),
+        text,
+    )
+    return text
+
 # ==== FALLBACK PHRASES START ====
+# Kept fresh and Japanese-only. The live bot normally uses the AI generator;
+# this list is the offline safety net when the API is unavailable.
 FALLBACK_PHRASES = [
-    {"english": "Hello, nice to meet you.", "native": "Ahoj, teší ma.", "transliteration": "Ahoy, teshi ma."},
-    {"english": "Thank you very much.", "native": "Ďakujem veľmi pekne.", "transliteration": "Dyakuyem velye pekne."},
-    {"english": "Good morning, have a great day.", "native": "Dobré ráno, prajem pekný deň.", "transliteration": "Dobré ráno, prajem pekný deň."},
-    {"english": "I love learning new languages.", "native": "Milujem učenie sa nových jazykov.", "transliteration": "Milujem učenie sa nových jazykov."},
-    {"english": "Never give up on your dreams.", "native": "Nikdy sa nevzdávaj svojich snov.", "transliteration": "Nikdy sa nevzdávaj svojich snov."},
-    {"english": "Every day is a fresh start.", "native": "Každý deň je nový začiatok.", "transliteration": "Každý deň je nový začiatok."},
-    {"english": "Believe in yourself always.", "native": "Vždy ver v seba.", "transliteration": "Vždy ver v seba."},
-    {"english": "Small steps lead to big changes.", "native": "Malé kroky vedú k veľkým zmenám.", "transliteration": "Malé kroky vedú k veľkým zmenám."},
-    {"english": "You are stronger than you think.", "native": "Si silnejší, ako si myslíš.", "transliteration": "Si silnejší, ako si myslíš."},
-    {"english": "Happiness is a choice, choose it.", "native": "Šťastie je voľba, vyber si ho.", "transliteration": "Šťastie je voľba, vyber si ho."},
-    {"english": "What time is it please.", "native": "Koľko je hodín, prosím?", "transliteration": "Koľko je hodín, prosím?"},
-    {"english": "Where is the train station.", "native": "Kde je vlaková stanica?", "transliteration": "Kde je vlaková stanica?"},
-    {"english": "How much does this cost.", "native": "Koľko to stojí?", "transliteration": "Koľko to stojí?"},
-    {"english": "Can you help me please.", "native": "Môžete mi prosím pomôcť?", "transliteration": "Môžete mi prosím pomôcť?"},
-    {"english": "I would like a coffee please.", "native": "Dal by som si kávu, prosím.", "transliteration": "Dal by som si kávu, prosím."},
-    {"english": "The food is delicious today.", "native": "Jedlo je dnes vynikajúce.", "transliteration": "Jedlo je dnes vynikajúce."},
-    {"english": "Have a wonderful weekend.", "native": "Majte nádherný víkend.", "transliteration": "Majte nádherný víkend."},
-    {"english": "Take care of yourself.", "native": "Staraj sa o seba.", "transliteration": "Staraj sa o seba."},
-    {"english": "See you tomorrow my friend.", "native": "Uvidíme sa zajtra, priateľ môj.", "transliteration": "Uvidíme sa zajtra, priateľ môj."},
-    {"english": "The weather is beautiful outside.", "native": "Vonku je krásne počasie.", "transliteration": "Vonku je krásne počasie."},
-    {"english": "I am very happy today.", "native": "Dnes som veľmi šťastný/šťastná.", "transliteration": "Dnes som veľmi šťastný/šťastná."},
-    {"english": "Learning a language opens new doors.", "native": "Učenie sa jazyka otvára nové dvere.", "transliteration": "Učenie sa jazyka otvára nové dvere."},
-    {"english": "Keep practicing every single day.", "native": "Cvičte každý jeden deň.", "transliteration": "Cvičte každý jeden deň."},
-    {"english": "You can achieve anything you want.", "native": "Môžeš dosiahnuť čokoľvek chceš.", "transliteration": "Môžeš dosiahnuť čokoľvek chceš."},
-    {"english": "Rest when you are tired.", "native": "Oddýchni si, keď si unavený/unavená.", "transliteration": "Oddýchni si, keď si unavený/unavená."},
-    {"english": "Focus on the positive things.", "native": "Sústreďte sa na pozitívne veci.", "transliteration": "Sústreďte sa na pozitívne veci."},
-    {"english": "Learn from your mistakes.", "native": "Pouč sa zo svojich chýb.", "transliteration": "Pouč sa zo svojich chýb."},
-    {"english": "Trust the process completely.", "native": "Dôverujte procesu úplne.", "transliteration": "Dôverujte procesu úplne."},
-    {"english": "Breathe deeply and stay calm.", "native": "Dýchajte zhlboka a zostaňte pokojní.", "transliteration": "Dýchajte zhlboka a zostaňte pokojní."},
-    {"english": "Enjoy the little moments in life.", "native": "Užite si malé okamihy v živote.", "transliteration": "Užite si malé okamihy v živote."},
-    {"english": "Smile more, worry less.", "native": "Viac sa usmievajte, menej sa starajte.", "transliteration": "Viac sa usmievajte, menej sa starajte."},
-    {"english": "Be kind to everyone you meet.", "native": "Buďte láskaví ku každému, koho stretnete.", "transliteration": "Buďte láskaví ku každému, koho stretnete."},
-    {"english": "Help others without expecting anything back.", "native": "Pomáhajte ostatným bez očakávania niečoho späť.", "transliteration": "Pomáhajte ostatným bez očakávania niečoho späť."},
-    {"english": "Forgive yourself and move forward.", "native": "Odpusťte si a pohnite sa vpred.", "transliteration": "Odpusťte si a pohnite sa vpred."},
-    {"english": "Stay strong in difficult times.", "native": "Zostaňte silní v ťažkých časoch.", "transliteration": "Zostaňte silní v ťažkých časoch."},
-    {"english": "Every moment is a new beginning.", "native": "Každý okamih je nový začiatok.", "transliteration": "Každý okamih je nový začiatok."},
-    {"english": "Listen to your heart always.", "native": "Vždy počúvajte svoje srdce.", "transliteration": "Vždy počúvajte svoje srdce."},
-    {"english": "Do what makes you happy.", "native": "Robte to, čo vás robí šťastnými.", "transliteration": "Robte to, čo vás robí šťastnými."},
-    {"english": "Your potential is unlimited.", "native": "Váš potenciál je neobmedzený.", "transliteration": "Váš potenciál je neobmedzený."},
-    {"english": "Be brave and take risks.", "native": "Buďte odvážni a riskujte.", "transliteration": "Buďte odvážni a riskujte."},
-    {"english": "Celebrate your progress every day.", "native": "Oslavujte svoj pokrok každý deň.", "transliteration": "Oslavujte svoj pokrok každý deň."},
-    {"english": "Surround yourself with good people.", "native": "Obklopte sa dobrými ľuďmi.", "transliteration": "Obklopte sa dobrými ľuďmi."},
-    {"english": "Read books and grow your mind.", "native": "Čítajte knihy a rozvíjajte svoju myseľ.", "transliteration": "Čítajte knihy a rozvíjajte svoju myseľ."},
-    {"english": "Travel and discover new places.", "native": "Cestujte a objavujte nové miesta.", "transliteration": "Cestujte a objavujte nové miesta."},
-    {"english": "Appreciate what you already have.", "native": "Oceňte to, čo už máte.", "transliteration": "Oceňte to, čo už máte."},
-    {"english": "Dance like nobody is watching.", "native": "Tancujte, akoby sa nikto nepozeral.", "transliteration": "Tancujte, akoby sa nikto nepozeral."},
-    {"english": "Sing from your heart out loud.", "native": "Spievajte z celého srdca nahlas.", "transliteration": "Spievajte z celého srdca nahlas."},
-    {"english": "Plant seeds of kindness everywhere.", "native": "Zasiajte semienka láskavosti všade.", "transliteration": "Zasiajte semienka láskavosti všade."},
-    {"english": "Let go of what you cannot control.", "native": "Pustite to, čo nemôžete ovládať.", "transliteration": "Pustite to, čo nemôžete ovládať."},
-    {"english": "Be present in the here and now.", "native": "Buďte prítomní v tu a teraz.", "transliteration": "Buďte prítomní v tu a teraz."},
+    {"english": "I am a little tired today.", "native": "今日は少し疲れています。", "transliteration": "Kyō wa sukoshi tsukarete imasu."},
+    {"english": "Please speak a little slower.", "native": "もう少しゆっくり話してください。", "transliteration": "Mō sukoshi yukkuri hanashite kudasai."},
+    {"english": "I forgot my umbrella.", "native": "傘を忘れました。", "transliteration": "Kasa o wasuremashita."},
+    {"english": "The train is late today.", "native": "今日は電車が遅れています。", "transliteration": "Kyō wa densha ga okurete imasu."},
+    {"english": "This street is very quiet.", "native": "この通りはとても静かです。", "transliteration": "Kono tōri wa totemo shizuka desu."},
+    {"english": "Let's take a short break.", "native": "少し休みましょう。", "transliteration": "Sukoshi yasumimashō."},
+    {"english": "I like this song a lot.", "native": "この歌がとても好きです。", "transliteration": "Kono uta ga totemo suki desu."},
+    {"english": "Please turn down the volume.", "native": "音量を下げてください。", "transliteration": "Onryō o sagete kudasai."},
+    {"english": "I will call you tomorrow.", "native": "明日電話します。", "transliteration": "Ashita denwa shimasu."},
+    {"english": "It might rain this afternoon.", "native": "午後は雨が降るかもしれません。", "transliteration": "Gogo wa ame ga furu kamoshiremasen."},
+    {"english": "The food here is delicious.", "native": "ここの料理はおいしいです。", "transliteration": "Koko no ryōri wa oishii desu."},
+    {"english": "I need to buy a ticket.", "native": "切符を買わなければなりません。", "transliteration": "Kippu o kawanakereba narimasen."},
+    {"english": "How long does it take by train?", "native": "電車でどのくらいかかりますか？", "transliteration": "Densha de dono kurai kakarimasu ka?"},
+    {"english": "Please wait a moment.", "native": "少々お待ちください。", "transliteration": "Shōshō omachi kudasai."},
+    {"english": "I don't understand yet.", "native": "まだよく分かりません。", "transliteration": "Mada yoku wakarimasen."},
+    {"english": "Can you say that again?", "native": "もう一度言ってもらえますか？", "transliteration": "Mō ichido itte moraemasu ka?"},
+    {"english": "I am looking for a hotel.", "native": "ホテルを探しています。", "transliteration": "Hoteru o sagashite imasu."},
+    {"english": "This is my first time here.", "native": "ここに来るのは初めてです。", "transliteration": "Koko ni kuru no wa hajimete desu."},
+    {"english": "Let's meet in front of the station.", "native": "駅の前で会いましょう。", "transliteration": "Eki no mae de aimashō."},
+    {"english": "I will be back soon.", "native": "すぐ戻ります。", "transliteration": "Sugu modorimasu."},
+    {"english": "Thank you for your help.", "native": "助けてくれてありがとうございます。", "transliteration": "Tasukete kurete arigatō gozaimasu."},
+    {"english": "Please take care of yourself.", "native": "お体に気をつけてください。", "transliteration": "Okarada ni ki o tsukete kudasai."},
+    {"english": "I am glad to hear that.", "native": "それを聞いてうれしいです。", "transliteration": "Sore o kiite ureshii desu."},
+    {"english": "That sounds like a good idea.", "native": "それはいい考えですね。", "transliteration": "Sore wa ii kangae desu ne."},
+    {"english": "I will try my best.", "native": "頑張ります。", "transliteration": "Ganbarimasu."},
+    {"english": "Don't worry too much.", "native": "あまり心配しないでください。", "transliteration": "Amari shinpai shinaide kudasai."},
+    {"english": "We can do it together.", "native": "一緒にできますよ。", "transliteration": "Issho ni dekimasu yo."},
+    {"english": "The weather is nice today.", "native": "今日はいい天気ですね。", "transliteration": "Kyō wa ii tenki desu ne."},
+    {"english": "I want to learn more Japanese.", "native": "もっと日本語を学びたいです。", "transliteration": "Motto nihongo o manabitai desu."},
+    {"english": "Please write it down for me.", "native": "書いてもらえますか？", "transliteration": "Kaite moraemasu ka?"},
+    {"english": "I am sorry I am late.", "native": "遅れてすみません。", "transliteration": "Okurete sumimasen."},
+    {"english": "Where can I find a pharmacy?", "native": "薬局はどこにありますか？", "transliteration": "Yakkyoku wa doko ni arimasu ka?"},
+    {"english": "This bag is too expensive.", "native": "このかばんは高すぎます。", "transliteration": "Kono kaban wa takasugimasu."},
+    {"english": "Do you have this in another color?", "native": "これの別の色はありますか？", "transliteration": "Kore no betsu no iro wa arimasu ka?"},
+    {"english": "I would like some water, please.", "native": "お水をお願いします。", "transliteration": "Omizu o onegaishimasu."},
+    {"english": "The bill, please.", "native": "お会計をお願いします。", "transliteration": "Okaikei o onegaishimasu."},
+    {"english": "I am allergic to peanuts.", "native": "ピーナッツアレルギーがあります。", "transliteration": "Pīnattsu arerugī ga arimasu."},
+    {"english": "Please call an ambulance.", "native": "救急車を呼んでください。", "transliteration": "Kyūkyūsha o yonde kudasai."},
+    {"english": "My wallet was stolen.", "native": "財布を盗まれました。", "transliteration": "Saifu o nusumaremashita."},
+    {"english": "May I sit here?", "native": "ここに座ってもいいですか？", "transliteration": "Koko ni suwatte mo ii desu ka?"},
+    {"english": "I am here on vacation.", "native": "休暇で来ました。", "transliteration": "Kyūka de kimashita."},
+    {"english": "Could you take a photo of us?", "native": "写真を撮ってもらえますか？", "transliteration": "Shashin o totte moraemasu ka?"},
+    {"english": "Which one is popular?", "native": "どれが人気ですか？", "transliteration": "Dore ga ninki desu ka?"},
+    {"english": "I will have the same thing.", "native": "同じものをお願いします。", "transliteration": "Onaji mono o onegaishimasu."},
+    {"english": "It was a lot of fun today.", "native": "今日はとても楽しかったです。", "transliteration": "Kyō wa totemo tanoshikatta desu."},
+    {"english": "Let's go home together.", "native": "一緒に帰りましょう。", "transliteration": "Issho ni kaerimashō."},
+    {"english": "Good luck with your work.", "native": "お仕事頑張ってください。", "transliteration": "Oshigoto ganbatte kudasai."},
+    {"english": "I hope you feel better soon.", "native": "早く良くなりますように。", "transliteration": "Hayaku yoku narimasu yō ni."},
+    {"english": "Congratulations on your success.", "native": "成功おめでとうございます。", "transliteration": "Seikō omedetō gozaimasu."},
+    {"english": "Thank you for the wonderful gift.", "native": "素敵なプレゼントをありがとうございます。", "transliteration": "Suteki na purezento o arigatō gozaimasu."},
 ]
 # ==== FALLBACK PHRASES END ====
 
@@ -167,11 +205,19 @@ def _normalize_phrase(item):
         return None
     if "/" in native or "|" in native:
         native = native.split("/")[0].split("|")[0].strip()
-    return {
+    if not _valid_native(native):
+        return None
+    if config.LANGUAGE.get("code") == "ja" and not translit:
+        return None
+    item_tiles = item.get("tiles")
+    out = {
         "english": english.replace("  ", " ").strip(),
         "native": native.strip(),
-        "transliteration": translit.strip().strip("[]"),
+        "transliteration": _clean_translit(translit),
     }
+    if isinstance(item_tiles, list) and item_tiles and all(isinstance(t, str) and t.strip() for t in item_tiles):
+        out["tiles"] = [t.strip() for t in item_tiles]
+    return out
 
 
 def _history_keys(history):
@@ -256,10 +302,12 @@ Rules:
 1. Keep every phrase short and natural (4-11 words in English).
 2. Use natural commas for TTS breathing pauses.
 3. Each phrase must be speakable in 2-4 seconds.
-4. Write clean {LANGUAGE_NAME} in {NATIVE_NAME} with correct accents and orthography. One translation only, no slashes.
-5. Transliteration is a friendly Roman-script pronunciation guide for English speakers (not IPA).
-6. Vary the sentence patterns and emotions. No duplicates.
-7. Phrases must feel like real everyday language, not textbook filler.
+4. Write natural {LANGUAGE_NAME} in {NATIVE_NAME}. One translation only, no slashes.
+5. The native field must contain the target language only. Never return English, Japanese, Chinese, Korean, Vietnamese, or another language.
+6. Transliteration is a friendly pronunciation guide for English speakers (not IPA).
+7. Vary the sentence patterns and emotions. No duplicates.
+8. Phrases must feel like real everyday language, not textbook filler.
+9. The English must be idiomatic and complete. Avoid filler endings and literal word-for-word translations.
 
 Return ONLY a JSON array:
 [{{"english": "...", "native": "...", "transliteration": "..."}}]"""
