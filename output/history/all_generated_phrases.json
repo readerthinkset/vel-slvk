@@ -26704,7 +26704,42 @@
       "transliteration": "Prosím, restartuj aplikaciu, zamrzla.",
       "category": "Technology",
       "generated_at": "2026-11-26T00:47:51.716680"
+    },
+    {
+      "english": "I have one apple today.",
+      "slovak": "Mám dnes jedno jablko.",
+      "transliteration": "Mam dnes jedno jablko.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T02:41:12.064358"
+    },
+    {
+      "english": "Take two steps, slowly, please.",
+      "slovak": "Urob dva kroky, pomaly, prosím.",
+      "transliteration": "Urob dva kroky, pomaly, prosim.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T02:41:12.064378"
+    },
+    {
+      "english": "Three friends are coming over.",
+      "slovak": "Pridú traja kamaráti.",
+      "transliteration": "Prídu traja kamaráti.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T02:41:12.064380"
+    },
+    {
+      "english": "She bought four cups of tea.",
+      "slovak": "Kúpila si štyri šálky čaju.",
+      "transliteration": "Kupila si styři šalky čaju.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T02:41:12.064381"
+    },
+    {
+      "english": "We need five minutes more.",
+      "slovak": "Potrebujeme ešte päť minút.",
+      "transliteration": "Potrebujeme eště pät minút.",
+      "category": "Numbers",
+      "generated_at": "2026-11-26T02:41:12.064382"
     }
   ],
-  "last_updated": "2026-11-26T00:47:51.716685"
+  "last_updated": "2026-11-26T02:41:12.064384"
 }
