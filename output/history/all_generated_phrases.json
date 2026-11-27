@@ -26865,7 +26865,28 @@
       "transliteration": "Mo-je sr-ce je zdaj lah-ko-tno.",
       "category": "Joy",
       "generated_at": "2026-11-27T11:48:16.734981"
+    },
+    {
+      "english": "This bread is warm, with crusty edges.",
+      "slovak": "Toto pečivo je teplé, s chrumkavou kôrkou.",
+      "transliteration": "Tot o pecivo je teple, s hrunkavou kor-kou.",
+      "category": "Food",
+      "generated_at": "2026-11-27T19:18:45.785269"
+    },
+    {
+      "english": "The cheese melts, it tastes so rich.",
+      "slovak": "Syr sa roztápa, chutí tak bohato.",
+      "transliteration": "Syr sa roztapa, chutí tak boha-to.",
+      "category": "Food",
+      "generated_at": "2026-11-27T19:18:45.785284"
+    },
+    {
+      "english": "My pasta is saucy, not too heavy.",
+      "slovak": "Moje cestoviny sú šťavnaté, nie príliš ťažké.",
+      "transliteration": "Moj e cesto vini su stavnaté, nie prilis tazké.",
+      "category": "Food",
+      "generated_at": "2026-11-27T19:18:45.785285"
     }
   ],
-  "last_updated": "2026-11-27T11:48:16.734982"
+  "last_updated": "2026-11-27T19:18:45.785287"
 }
