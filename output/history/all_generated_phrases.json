@@ -26886,7 +26886,28 @@
       "transliteration": "Moj e cesto vini su stavnaté, nie prilis tazké.",
       "category": "Food",
       "generated_at": "2026-11-27T19:18:45.785285"
+    },
+    {
+      "english": "Call an ambulance, please, quickly.",
+      "slovak": "Zavolajte sanitku, prosím, rýchlo.",
+      "transliteration": "Zavolayte sanitku, prosim, rychlo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T03:37:44.251332"
+    },
+    {
+      "english": "I got hurt, please help me.",
+      "slovak": "Urazil som sa, prosím, pomôžte mi.",
+      "transliteration": "Urazil som sa, prosim, pomozte mi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T03:37:44.251345"
+    },
+    {
+      "english": "I think someone is unconscious here.",
+      "slovak": "Myslím, že tu niekto omdlel.",
+      "transliteration": "Myslim, ze tu niekto omdlel.",
+      "category": "Emergency",
+      "generated_at": "2026-11-28T03:37:44.251347"
     }
   ],
-  "last_updated": "2026-11-27T19:18:45.785287"
+  "last_updated": "2026-11-28T03:37:44.251349"
 }
