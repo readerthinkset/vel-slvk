@@ -26907,7 +26907,28 @@
       "transliteration": "Myslim, ze tu niekto omdlel.",
       "category": "Emergency",
       "generated_at": "2026-11-28T03:37:44.251347"
+    },
+    {
+      "english": "First, read the sentence, then listen.",
+      "slovak": "Najprv si prečítaj vetu, potom počúvaj.",
+      "transliteration": "Najprv si pretítaj vetu, potom počuĺvaj.",
+      "category": "Education",
+      "generated_at": "2026-11-28T11:23:34.040494"
+    },
+    {
+      "english": "Try it once, we’ll correct together.",
+      "slovak": "Skús to raz, opravíme to spolu.",
+      "transliteration": "Skus to raz, opravíme to spolu.",
+      "category": "Education",
+      "generated_at": "2026-11-28T11:23:34.040506"
+    },
+    {
+      "english": "Repeat the word, then use it.",
+      "slovak": "Opakuj slovo, potom ho použi.",
+      "transliteration": "Opakuj slovo, potom ho použi.",
+      "category": "Education",
+      "generated_at": "2026-11-28T11:23:34.040507"
     }
   ],
-  "last_updated": "2026-11-28T03:37:44.251349"
+  "last_updated": "2026-11-28T11:23:34.040508"
 }
